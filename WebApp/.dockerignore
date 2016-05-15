@@ -1,6 +1,7 @@
-processed.json
 .git
 .idea
 *.pyc
-Old
+Dockerfile
 Notes.markdown
+Old
+processed.json

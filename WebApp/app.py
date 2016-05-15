@@ -1,19 +1,24 @@
 __author__ = 'schwa'
 
+import json
+import os
+import bz2
+import urlparse
+
 from flask import Flask
 from flask import render_template
 from flask import url_for
 from flask import request
-import json
-import os
-import bz2
+
+def load_data():
+    root = os.path.split(__file__)[0]
+    data = bz2.decompress(file(os.path.join(root, 'data/processed.json.bz2')).read())
+    return json.loads(data)
+
+########################################################################################################################
 
 app = Flask(__name__)
-
-
-data = bz2.decompress(file('processed.json.bz2').read())
-types_by_identifier = json.loads(data)
-del(data)
+types_by_identifier = load_data()
 
 @app.route("/")
 @app.route("/roots")
@@ -38,7 +43,6 @@ def public():
         if 'UTTypeConformsTo' not in t or not t['UTTypeConformsTo']:
             if t['UTTypeIdentifier'].startswith('public.'):
                 hits.append(t)
-
     hits = sorted(hits, key = lambda t:t['UTTypeIdentifier'])
     return render_template('list.html', all_types = hits)
 
@@ -48,25 +52,17 @@ def type_(identifier):
     image_path = url_for('static', filename='iconsets')
     return render_template('type.html', type = t, image_path = image_path)
 
-@app.route('/search', methods = ['POST'])
+@app.route('/search', methods = ['GET'])
 def search():
-
-    query = request.form['query']
-
+    query = dict(urlparse.parse_qsl(request.query_string))
+    search_term = query['query']
     hits = []
     for t in types_by_identifier.values():
-        if query in t['UTTypeIdentifier']:
+        if search_term in t['UTTypeIdentifier']:
             hits.append(t)
+    return render_template('list.html', all_types = hits, search_term = search_term)
 
-    return render_template('list.html', all_types = hits)
 
-
-# if __name__ == "__main__":
-#     if os.environ.get('PYCHARM_HOSTED', False):
-#         app.debug = True
-#         app.run()
-#     else:
-#         app.run()
 
 if __name__ == '__main__':
     host = '0.0.0.0'
