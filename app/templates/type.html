@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block title %}{{ type['UTTypeIdentifier'] }}{% endblock %}
+
+{% block head %}
+    {{ super() }}
+    <!--<style type="text/css">-->
+        <!--.important { color: #336699; }-->
+    <!--</style>-->
+{% endblock %}
+
+{% block content %}
+
+        <table class="table table-bordered">
+            {% if 'UTTypeIconFile' in type %}
+            <tr>
+                <th>Image</th>
+                <td><img src="http://schwa.github.io/UTI-Type-Browser/images/Iconsets/{{ type['UTTypeIconFile'] }}.iconset/icon_128x128.png"/></td>
+            </tr>
+            {% endif %}
+
+            <tr>
+                <th>Identifier</th>
+                <td><a href="#">{{ type['UTTypeIdentifier'] }}</a></td>
+            </tr>
+
+            <tr>
+                <th>Description</th>
+                <td>{{ type['UTTypeDescription'] }}</td>
+            </tr>
+
+            {% if 'public.filename-extension' in type['UTTypeTagSpecification'] %}
+            <tr>
+                <th>File Extension(s)</th>
+                <td>
+                    <ul class="list-inline">
+                    {% for mime_type in type['UTTypeTagSpecification']['public.filename-extension'] %}
+                        <li>{{ mime_type }}</li>
+                    {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'public.mime-type' in type['UTTypeTagSpecification'] %}
+            <tr>
+                <th>Mime Type(s)</th>
+                <td>
+                    <ul class="list-inline">
+                    {% for mime_type in type['UTTypeTagSpecification']['public.mime-type'] %}
+                        <li>{{ mime_type }}</li>
+                    {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if type['UTTypeConformsTo'] %}
+            <tr>
+                <th>Conforms to:</th>
+                <td>
+                    <ul class="list-inline">
+                    {% for identifier in type['UTTypeConformsTo']|sort %}
+                        <li><a href="/identifier/{{ identifier }}">{{ identifier }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if type['UTTypeConformedBy'] %}
+            <tr>
+                <th>Conformed by:</th>
+                <td>
+                    <ul class="list-inline">
+                    {% for identifier in type['UTTypeConformedBy']|sort %}
+                        <li><a href="/identifier/{{ identifier }}">{{ identifier }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            <tr>
+                <th>Raw:</th>
+                <td>
+                    <pre>{{ type|tojson|safe }}</pre>
+                </td>
+            </tr>
+
+        </table>
+
+{% endblock %}
