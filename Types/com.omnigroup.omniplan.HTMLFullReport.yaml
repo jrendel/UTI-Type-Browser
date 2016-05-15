@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: HTML Full Report
+UTTypeIdentifier: com.omnigroup.omniplan.HTMLFullReport

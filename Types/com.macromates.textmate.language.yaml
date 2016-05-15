@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Language Grammar
+UTTypeIdentifier: com.macromates.textmate.language
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmLanguage

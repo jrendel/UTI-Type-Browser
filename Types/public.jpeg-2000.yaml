@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: JPEG 2000 image
+UTTypeIdentifier: public.jpeg-2000
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'jp2 '
+  public.filename-extension:
+  - j2c
+  - j2k
+  - jp2
+  - jpf
+  - jpx
+  public.mime-type:
+  - image/jp2

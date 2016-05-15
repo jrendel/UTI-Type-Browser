@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeIdentifier: com.apple.dt.ide.plug-in
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ideplugin

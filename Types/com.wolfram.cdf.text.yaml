@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Computable Document Format
+UTTypeIconFile: NotebookPlayer.icns
+UTTypeIdentifier: com.wolfram.cdf.text
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TEXT
+  public.filename-extension:
+  - cdf

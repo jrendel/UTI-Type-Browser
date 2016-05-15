@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: TextMate PlugIn
+UTTypeIdentifier: com.macromates.textmate.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmPlugIn
+  - tmPlugin
+  - tmplugin

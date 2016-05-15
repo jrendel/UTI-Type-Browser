@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: MPEG Video File
+UTTypeIdentifier: org.videolan.mpeg-video
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m1v
+  - m2v
+  - m4v
+  - mp4
+  - mpeg
+  - mpeg1
+  - mpeg2
+  - mpeg4
+  - mpg
+  - mpv

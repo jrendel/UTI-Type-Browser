@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.mac
+UTTypeDescription: eMac
+UTTypeIdentifier: com.apple.emac
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac4,4
+  - PowerMac6,4

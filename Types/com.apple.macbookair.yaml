@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.mac.laptop
+UTTypeDescription: MacBook Air
+UTTypeIdentifier: com.apple.macbookair
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBookAir1,1
+  - MacBookAir2,1

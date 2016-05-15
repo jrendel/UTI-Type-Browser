@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: personal information exchange (PKCS#12)
+UTTypeIdentifier: com.rsa.pkcs-12
+UTTypeTagSpecification:
+  public.filename-extension:
+  - p12
+  - pfx
+  public.mime-type:
+  - application/x-pkcs12

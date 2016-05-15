@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeIdentifier: com.apple.xcode.project
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pbproj
+  - xcode
+  - xcodeproj

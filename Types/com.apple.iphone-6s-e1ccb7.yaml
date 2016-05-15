@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 6s
+UTTypeIconFile: com.apple.iphone-6s-e1ccb7.icns
+UTTypeIdentifier: com.apple.iphone-6s-e1ccb7
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N71AP
+  - N71mAP
+  - iPhone
+  - iPhone8,1

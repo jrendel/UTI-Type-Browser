@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Adobe Acrobat Forms Document (FDF)
+UTTypeIdentifier: com.adobe.fdf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fdf

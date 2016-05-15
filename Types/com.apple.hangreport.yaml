@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: Hang Report
+UTTypeIdentifier: com.apple.hangreport
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hang

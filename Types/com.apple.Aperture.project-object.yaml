@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Aperture Project
+UTTypeIdentifier: com.apple.Aperture.project-object
+UTTypeTagSpecification:
+  public.filename-extension:
+  - approject

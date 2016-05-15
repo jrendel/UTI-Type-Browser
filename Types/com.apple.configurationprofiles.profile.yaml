@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+- public.xml
+UTTypeDescription: Configuration Profile
+UTTypeIdentifier: com.apple.configurationprofiles.profile
+UTTypeTagSpecification:
+  public.filename-extension:
+  - configprofile
+  - mobileconfig
+  - provisionprofile

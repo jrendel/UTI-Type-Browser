@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+- public.xml
+UTTypeDescription: Internet Connect Document
+UTTypeIdentifier: com.apple.preference.network
+UTTypeTagSpecification:
+  public.filename-extension:
+  - internetconnect
+  - networkconnect

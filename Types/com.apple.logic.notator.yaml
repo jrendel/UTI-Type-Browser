@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+- public.data
+UTTypeDescription: Notator SL Song
+UTTypeIdentifier: com.apple.logic.notator
+UTTypeTagSpecification:
+  public.filename-extension:
+  - SON

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Scheme source
+UTTypeIdentifier: com.macromates.textmate.scheme
+UTTypeReferenceURL: http://www.r6rs.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sch
+  - scm

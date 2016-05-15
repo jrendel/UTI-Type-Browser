@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mac.laptop
+UTTypeDescription: PowerBook
+UTTypeIdentifier: com.apple.powerbook
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerBook

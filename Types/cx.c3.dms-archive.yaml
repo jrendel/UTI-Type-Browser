@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga DMS Disk Archive
+UTTypeIconFile: dms.icns
+UTTypeIdentifier: cx.c3.dms-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dms

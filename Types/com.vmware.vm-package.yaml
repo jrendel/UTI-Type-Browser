@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: VMware virtual machine
+UTTypeIdentifier: com.vmware.vm-package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmwarevm

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Xsan Admin Binary document
+UTTypeIconFile: Application
+UTTypeIdentifier: com.apple.XsanAdmin.document-binary
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xsanb

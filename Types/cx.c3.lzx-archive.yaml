@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LZX Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.lzx-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lzx
+  public.mime-type:
+  - application/x-lzx

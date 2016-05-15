@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeIdentifier: com.apple.dt.document.snapshot
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcsnapshots

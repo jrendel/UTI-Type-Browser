@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.microsoft.powerpoint.openxml.slideshow
+- public.data
+UTTypeDescription: Microsoft PowerPoint document
+UTTypeIdentifier: com.microsoft.powerpoint.openxml.slideshow.macro-enabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PPSM
+  public.filename-extension:
+  - ppsm
+  public.mime-type:
+  - application/vnd.ms-powerpoint.slideshow.macroEnabled.12

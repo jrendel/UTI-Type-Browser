@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.composite-content
+- public.executable
+UTTypeDescription: Office Open XML word processing template (macros enabled)
+UTTypeIdentifier: org.openxmlformats.wordprocessingml.template.macroenabled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dotm
+  public.mime-type:
+  - application/vnd.ms-word.template.macroEnabled.12

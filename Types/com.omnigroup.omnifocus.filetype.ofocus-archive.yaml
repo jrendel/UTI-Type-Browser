@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.omnigroup.omnifocus.filetype.ofocus
+UTTypeDescription: OmniFocus Archive Document
+UTTypeIconName: Document-Archive.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-archive

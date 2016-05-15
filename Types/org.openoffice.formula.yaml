@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Formula
+UTTypeIdentifier: org.openoffice.formula
+UTTypeTagSpecification:
+  public.filename-extension:
+  - smf
+  - sxm
+  public.mime-type:
+  - application/vnd.stardivision.math
+  - application/vnd.sun.xml.math

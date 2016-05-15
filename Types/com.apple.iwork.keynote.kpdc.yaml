@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: Keynote Presenter Display Configurations
+UTTypeIconFile: KeyDocument
+UTTypeIdentifier: com.apple.iwork.keynote.kpdc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - kpdc

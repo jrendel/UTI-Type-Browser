@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.macbookpro
+UTTypeIdentifier: com.apple.macbookpro-13-unibody
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBookPro5,5
+  - MacBookPro7,1
+  - MacBookPro8,1
+  - MacBookPro9,2

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+- public.disk-image
+UTTypeDescription: Disk Image
+UTTypeIdentifier: com.apple.disk-image

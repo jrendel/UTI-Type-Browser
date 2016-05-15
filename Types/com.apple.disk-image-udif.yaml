@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: Disk Image
+UTTypeIdentifier: com.apple.disk-image-udif
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - devi
+  public.filename-extension:
+  - dmg
+  - udif

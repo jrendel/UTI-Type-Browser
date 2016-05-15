@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: TextEdit documents
+UTTypeIdentifier: com.apple.textedit.document-object

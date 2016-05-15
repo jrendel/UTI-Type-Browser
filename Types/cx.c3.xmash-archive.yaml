@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga xMash Disk Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.xmash-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xms

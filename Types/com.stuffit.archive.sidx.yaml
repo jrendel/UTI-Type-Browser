@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.allume.stuffit-archive
+UTTypeDescription: StuffIt X index
+UTTypeIdentifier: com.stuffit.archive.sidx
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - SIDX
+  public.filename-extension:
+  - sidx
+  public.mime-type:
+  - application/x-sitx-index
+  - application/x-stuffitx-index

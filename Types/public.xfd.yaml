@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: XML Form (XFD)
+UTTypeIdentifier: public.xfd
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xfd

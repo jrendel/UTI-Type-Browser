@@ -1,0 +1,4 @@
+ICBadgeImage: InternetLocation
+ICBaseRule: iconcompiler.generic
+UTTypeIconFile: InternetLocationGeneric.icns
+UTTypeIdentifier: public.stored-url

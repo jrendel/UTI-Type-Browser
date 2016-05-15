@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LHA Archive
+UTTypeIconFile: LHA
+UTTypeIdentifier: org.7-zip.lha-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lha
+  - lzh
+  public.mime-type:
+  - application/lha
+  - application/lzh
+  - application/x-lha
+  - application/x-lzh
+  - application/x-lzh-compressed

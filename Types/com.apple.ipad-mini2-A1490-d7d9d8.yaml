@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 2 (Model A1490)
+UTTypeIconFile: com.apple.ipad-mini2-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-mini2-A1490-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J86AP
+  - iPad4,5

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: 010 Editor Binary Template
+UTTypeIdentifier: com.SweetScape.binary-template
+UTTypeReferenceURL: http://www.sweetscape.com/010editor/templates.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - BT
+  - bt

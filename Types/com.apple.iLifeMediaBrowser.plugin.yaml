@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: iLifeMediaBrowser plug-In
+UTTypeIdentifier: com.apple.iLifeMediaBrowser.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ilmbplugin

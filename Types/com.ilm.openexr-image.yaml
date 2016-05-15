@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: OpenEXR image
+UTTypeIdentifier: com.ilm.openexr-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - exr

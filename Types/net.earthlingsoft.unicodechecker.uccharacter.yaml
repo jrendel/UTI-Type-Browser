@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Unicode Character Information File
+UTTypeIdentifier: net.earthlingsoft.unicodechecker.uccharacter
+UTTypeTagSpecification:
+  public.filename-extension:
+  - uccharacter

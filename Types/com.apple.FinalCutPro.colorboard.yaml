@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.axel
+- public.xml
+UTTypeDescription: Color Preset
+UTTypeIdentifier: com.apple.FinalCutPro.colorboard
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cboard

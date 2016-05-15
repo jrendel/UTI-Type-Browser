@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Textile document
+UTTypeIdentifier: com.textpattern.textile
+UTTypeTagSpecification:
+  public.filename-extension:
+  - textile

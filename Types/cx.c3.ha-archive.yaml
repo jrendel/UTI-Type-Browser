@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: HA Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.ha-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ha

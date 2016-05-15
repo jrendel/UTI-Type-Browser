@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: QuickTime movie
+UTTypeIdentifier: com.apple.quicktime-movie
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - MooV
+  public.filename-extension:
+  - mov
+  - qt
+  public.mime-type:
+  - video/quicktime

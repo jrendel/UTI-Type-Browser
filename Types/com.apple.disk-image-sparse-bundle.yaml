@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+- com.apple.package
+UTTypeDescription: Sparse Disk Image Bundle
+UTTypeIdentifier: com.apple.disk-image-sparse-bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sparsebundle

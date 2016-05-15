@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.powermac
+UTTypeDescription: Power Mac G4
+UTTypeIdentifier: com.apple.powermac-g4-quicksilver
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac3,5

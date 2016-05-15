@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: The Hit List Item
+UTTypeIdentifier: com.potionfactory.thehitlist.object
+UTTypeReferenceURL: http://www.potionfactory.com/thehitlist/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - thl-metadata

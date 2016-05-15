@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ISO Disk Image
+UTTypeIconFile: ISO
+UTTypeIdentifier: public.iso-diskimage
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iso

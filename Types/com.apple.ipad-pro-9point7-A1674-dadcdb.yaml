@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad Pro (9.7-inch) (Model A1674, A1675)
+UTTypeIconFile: com.apple.ipad-pro-9point7-wwan-dadcdb.icns
+UTTypeIdentifier: com.apple.ipad-pro-9point7-A1674-dadcdb
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J128AP
+  - iPad6,4

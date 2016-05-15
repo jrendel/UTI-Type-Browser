@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Aperture Image
+UTTypeIdentifier: com.apple.Aperture.image-object

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: PMA Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.pma-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pma

@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.bom-archive
+- public.data
+UTTypeDescription: PKZip archive
+UTTypeIdentifier: com.pkware.zip-archive

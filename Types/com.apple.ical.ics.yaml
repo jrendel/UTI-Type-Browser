@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.calendar-event
+- public.item
+- public.text
+UTTypeDescription: ICS File
+UTTypeIdentifier: com.apple.ical.ics
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ics
+  public.mime-type:
+  - text/calendar

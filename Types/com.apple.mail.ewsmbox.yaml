@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: Mail Cached Exchange Web Services Mailbox
+UTTypeIconFile: mailbox.icns
+UTTypeIdentifier: com.apple.mail.ewsmbox
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ewsmbox

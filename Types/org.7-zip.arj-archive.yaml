@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ARJ Archive
+UTTypeIconFile: ARJ
+UTTypeIdentifier: org.7-zip.arj-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - arj

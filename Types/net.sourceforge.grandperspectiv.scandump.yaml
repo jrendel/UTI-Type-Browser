@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: GrandPerspective scan results
+UTTypeIconFile: GrandPerspectiveScan.icns
+UTTypeIdentifier: net.sourceforge.grandperspectiv.scandump
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gpscan

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Compressed Scalable Vector Graphics (SVGZ)
+UTTypeIdentifier: public.svgz-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - svgz
+  public.filename-extension:
+  - svgz
+  public.mime-type:
+  - image/svg+xml

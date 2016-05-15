@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.sun.java-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jav
+  - java

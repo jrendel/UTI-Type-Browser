@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.device
+UTTypeDescription: iOS device
+UTTypeIdentifier: com.apple.ios-device

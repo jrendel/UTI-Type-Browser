@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: DVD Video Disc
+UTTypeIdentifier: public.dvd-video-disc

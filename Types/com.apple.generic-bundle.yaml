@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: bundle
+UTTypeIdentifier: com.apple.generic-bundle
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - BNDL
+  public.filename-extension:
+  - bundle

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AIFF file
+UTTypeIdentifier: org.videolan.aiff
+UTTypeTagSpecification:
+  public.filename-extension:
+  - aif
+  - aiff

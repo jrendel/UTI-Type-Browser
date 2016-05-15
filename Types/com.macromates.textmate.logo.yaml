@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Logo source
+UTTypeIdentifier: com.macromates.textmate.logo
+UTTypeTagSpecification:
+  public.filename-extension:
+  - logo

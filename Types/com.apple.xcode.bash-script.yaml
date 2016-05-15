@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeIdentifier: com.apple.xcode.bash-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bash

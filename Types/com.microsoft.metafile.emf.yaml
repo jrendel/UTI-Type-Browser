@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Windows Metafile
+UTTypeIdentifier: com.microsoft.metafile.emf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - emf

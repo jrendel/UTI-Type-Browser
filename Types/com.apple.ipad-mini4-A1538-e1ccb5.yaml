@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 4 (Model A1538)
+UTTypeIconFile: com.apple.ipad-mini4-wifi-e1ccb5.icns
+UTTypeIdentifier: com.apple.ipad-mini4-A1538-e1ccb5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J96AP
+  - iPad5,1

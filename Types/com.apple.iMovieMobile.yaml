@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: iMovie for iOS Project
+UTTypeIdentifier: com.apple.iMovieMobile
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - immp
+  public.filename-extension:
+  - iMovieMobile

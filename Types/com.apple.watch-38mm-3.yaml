@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.watch
+UTTypeDescription: Apple Watch 38mm
+UTTypeIconFile: com.apple.watch-38mm-3.icns
+UTTypeIdentifier: com.apple.watch-38mm-3
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N27aAP
+  - Watch1,1

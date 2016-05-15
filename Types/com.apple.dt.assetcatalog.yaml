@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: Xcode Asset Catalog
+UTTypeIdentifier: com.apple.dt.assetcatalog
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcassets

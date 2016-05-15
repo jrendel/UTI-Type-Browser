@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Safari history item
+UTTypeIdentifier: com.apple.safari.history
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webhistory

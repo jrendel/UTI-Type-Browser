@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: VMware virtual machine configuration
+UTTypeIdentifier: com.vmware.vm-config
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmx
+  public.mime-type:
+  - application/x-vmware-vm

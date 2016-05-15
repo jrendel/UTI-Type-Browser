@@ -1,0 +1,17 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: DART Disk Image
+UTTypeIdentifier: com.apple.disk-image-dart
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - DMd0
+  - DMd1
+  - DMd2
+  - DMd3
+  - DMd4
+  - DMd5
+  - DMd6
+  - DMd7
+  - DMdf
+  public.filename-extension:
+  - dart

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Silicon Graphics image
+UTTypeIdentifier: com.sgi.sgi-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - .SGI
+  public.filename-extension:
+  - sgi
+  public.mime-type:
+  - image/sgi

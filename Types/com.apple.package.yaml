@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: package
+UTTypeIdentifier: com.apple.package

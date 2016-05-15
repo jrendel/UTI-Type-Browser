@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Soulver Document
+UTTypeIconFile: SumsDocument
+UTTypeIdentifier: com.acqualia.soulver.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - soulver

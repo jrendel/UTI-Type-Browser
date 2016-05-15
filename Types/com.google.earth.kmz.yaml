@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.archive
+UTTypeDescription: Google Earth KMZ Document
+UTTypeIdentifier: com.google.earth.kmz
+UTTypeReferenceURL: http://earth.google.com/kml/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - GKmz
+  public.filename-extension:
+  - kmz
+  public.mime-type:
+  - application/vnd.google-earth.kmz

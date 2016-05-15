@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad Pro (12.9-inch) (Model A1652)
+UTTypeIconFile: com.apple.ipad-pro-wwan-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-pro-A1652-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J99aAP
+  - iPad6,8

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: DICOM
+UTTypeIdentifier: org.nema.dicom
+UTTypeReferenceURL: http://dicom.nema.org
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - DICM
+  public.filename-extension:
+  - dcm
+  public.mime-type:
+  - application/dicom

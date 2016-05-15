@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: VMware team
+UTTypeIdentifier: com.vmware.vm-team
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmtm
+  public.mime-type:
+  - application/x-vmware-team

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Apple icon image
+UTTypeIdentifier: com.apple.icns
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - icns
+  public.filename-extension:
+  - icns

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Safari extension
+UTTypeIdentifier: com.apple.safari.extension
+UTTypeTagSpecification:
+  public.filename-extension:
+  - safariextz

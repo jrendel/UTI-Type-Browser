@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: SceneKit Asset Catalog
+UTTypeIdentifier: com.apple.scenekit.assetcatalog
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scnassets

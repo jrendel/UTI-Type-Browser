@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: WebP Image
+UTTypeIdentifier: public.webp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webp

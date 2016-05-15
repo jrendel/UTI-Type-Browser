@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.microsoft.advanced-stream-redirector
+- public.movie
+UTTypeDescription: Windows media
+UTTypeIdentifier: com.microsoft.windows-media-wmx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wmx
+  public.mime-type:
+  - video/x-ms-wmx

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: OpenEmu Save State
+UTTypeIdentifier: org.openemu.savestate
+UTTypeTagSpecification:
+  public.filename-extension:
+  - oesavestate

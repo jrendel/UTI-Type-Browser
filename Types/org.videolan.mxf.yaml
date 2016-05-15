@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Material Exchange Format
+UTTypeIdentifier: org.videolan.mxf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mxf

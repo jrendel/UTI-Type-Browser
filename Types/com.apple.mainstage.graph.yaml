@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: MainStage Graph Preset
+UTTypeIdentifier: com.apple.mainstage.graph
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mainstageGraph

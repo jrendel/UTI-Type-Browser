@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.ada-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ada
+  - adb
+  - ads

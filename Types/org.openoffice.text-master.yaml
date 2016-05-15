@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Master
+UTTypeIdentifier: org.openoffice.text-master
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sxg
+  public.mime-type:
+  - application/vnd.sun.xml.writer.global

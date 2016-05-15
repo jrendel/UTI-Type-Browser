@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.archive
+UTTypeDescription: BOM-compatible archive
+UTTypeIdentifier: com.apple.bom-archive

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: ColorSync profile
+UTTypeIdentifier: com.apple.colorsync-profile
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - prof
+  public.filename-extension:
+  - icc
+  - icm
+  - pf

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Log File
+UTTypeIdentifier: com.apple.log
+UTTypeTagSpecification:
+  public.filename-extension:
+  - log

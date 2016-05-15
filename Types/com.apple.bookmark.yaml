@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.data
+UTTypeDescription: bookmark
+UTTypeIdentifier: com.apple.bookmark

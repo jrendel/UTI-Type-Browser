@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: VMware virtual machine snapshot
+UTTypeIdentifier: com.vmware.vm-snapshot
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmsn
+  public.mime-type:
+  - application/x-vmware-snapshot

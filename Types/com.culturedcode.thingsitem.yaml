@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Things item
+UTTypeIconFile: ThingsDocumentIcon.icns
+UTTypeIdentifier: com.culturedcode.thingsitem
+UTTypeReferenceURL: http://culturedcode.com/things/wiki/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - thxi
+  public.filename-extension:
+  - thingsitem

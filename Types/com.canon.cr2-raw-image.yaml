@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Canon CR2 raw image
+UTTypeIdentifier: com.canon.cr2-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cr2

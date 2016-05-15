@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: file internet location
+UTTypeIdentifier: com.apple.file-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilfi
+  public.filename-extension:
+  - fileloc

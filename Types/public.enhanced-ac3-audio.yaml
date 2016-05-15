@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Enhanced AC-3 audio
+UTTypeIdentifier: public.enhanced-ac3-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ec-3
+  public.filename-extension:
+  - eac3
+  public.mime-type:
+  - audio/eac3

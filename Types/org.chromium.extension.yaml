@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Chromium Extra
+UTTypeIdentifier: org.chromium.extension
+UTTypeTagSpecification:
+  public.filename-extension:
+  - crx

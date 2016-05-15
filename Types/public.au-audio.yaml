@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AU audio
+UTTypeIdentifier: public.au-audio
+UTTypeTagSpecification:
+  public.filename-extension:
+  - au
+  - snd
+  public.mime-type:
+  - audio/basic

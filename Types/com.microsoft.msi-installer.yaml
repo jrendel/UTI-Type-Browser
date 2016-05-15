@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Microsoft MSI Installer
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.microsoft.msi-installer
+UTTypeTagSpecification:
+  public.filename-extension:
+  - msi

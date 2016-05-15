@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: RealMedia Audio
+UTTypeIdentifier: com.real.realaudio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PNRA
+  public.filename-extension:
+  - ra
+  - ram
+  public.mime-type:
+  - audio/vnd.rn-realaudio
+  - audio/x-pn-realaudio
+  - audio/x-realaudio

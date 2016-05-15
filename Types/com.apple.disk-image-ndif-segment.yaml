@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.disk-image-ndif
+UTTypeDescription: Classic Disk Image Segment
+UTTypeIdentifier: com.apple.disk-image-ndif-segment
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dseg
+  public.filename-extension:
+  - imgpart

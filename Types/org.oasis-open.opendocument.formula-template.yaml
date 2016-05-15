@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.content
+UTTypeDescription: Open Document formula template
+UTTypeIdentifier: org.oasis-open.opendocument.formula-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otf
+  public.mime-type:
+  - application/vnd.oasis.opendocument.formula-template

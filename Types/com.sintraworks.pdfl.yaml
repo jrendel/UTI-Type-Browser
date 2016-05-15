@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: SintraWorks PDFClerk license file
+UTTypeIconFile: PDFClerkLicenseFileIcon
+UTTypeIdentifier: com.sintraworks.pdfl
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pdfclerklicense

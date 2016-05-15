@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: ASP.NET document
+UTTypeIdentifier: com.microsoft.asp.net
+UTTypeReferenceURL: http://www.asp.net
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ascx
+  - ashx
+  - asmx
+  - aspx

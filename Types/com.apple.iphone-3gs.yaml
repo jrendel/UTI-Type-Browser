@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 3GS
+UTTypeIdentifier: com.apple.iphone-3gs
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N88AP
+  - iPhone2,1

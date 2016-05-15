@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Billings Project
+UTTypeIdentifier: com.marketcircle.billings.project
+UTTypeTagSpecification:
+  public.filename-extension:
+  - biproj

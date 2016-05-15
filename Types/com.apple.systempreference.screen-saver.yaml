@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Screen Saver
+UTTypeIdentifier: com.apple.systempreference.screen-saver
+UTTypeTagSpecification:
+  public.filename-extension:
+  - saver

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+- public.item
+UTTypeDescription: SintraWorks PDFClerk document
+UTTypeIconFile: PDFClerkDocumentIcon
+UTTypeIdentifier: com.sintraworks.pdfp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pdfp

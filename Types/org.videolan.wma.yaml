@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Windows Media Audio
+UTTypeIdentifier: org.videolan.wma
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wma

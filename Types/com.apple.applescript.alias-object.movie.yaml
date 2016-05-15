@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.alias-object
+UTTypeDescription: Movie files
+UTTypeIdentifier: com.apple.applescript.alias-object.movie

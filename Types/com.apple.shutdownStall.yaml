@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: Shutdown Stall
+UTTypeIdentifier: com.apple.shutdownStall
+UTTypeTagSpecification:
+  public.filename-extension:
+  - shutdownStall

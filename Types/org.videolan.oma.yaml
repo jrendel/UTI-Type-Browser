@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Sony OpenMG Music File
+UTTypeIdentifier: org.videolan.oma
+UTTypeTagSpecification:
+  public.filename-extension:
+  - oma

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeIdentifier: public.python-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - py

@@ -1,0 +1,19 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: MPEG movie
+UTTypeIdentifier: public.mpeg
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - MPEG
+  - 'MPG '
+  public.filename-extension:
+  - m15
+  - m75
+  - mpe
+  - mpeg
+  - mpg
+  public.mime-type:
+  - video/mpeg
+  - video/mpg
+  - video/x-mpeg
+  - video/x-mpg

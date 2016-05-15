@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.adobe.postscript-font
+UTTypeDescription: PostScript Type 1 outline font
+UTTypeIdentifier: com.adobe.postscript-pfb-font
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pfb

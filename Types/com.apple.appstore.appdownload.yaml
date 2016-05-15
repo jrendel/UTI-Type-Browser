@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: App Store Download
+UTTypeIdentifier: com.apple.appstore.appdownload
+UTTypeTagSpecification:
+  public.filename-extension:
+  - appdownload

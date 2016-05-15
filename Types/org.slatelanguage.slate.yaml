@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Slate source
+UTTypeIdentifier: org.slatelanguage.slate
+UTTypeReferenceURL: http://slatelanguage.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - slate

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.zip-archive
+UTTypeDescription: Office Open XML
+UTTypeIdentifier: org.openxmlformats.openxml

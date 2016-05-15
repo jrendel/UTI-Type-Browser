@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.xml
+UTTypeDescription: OmniGraffle document
+UTTypeIdentifier: com.omnigroup.omnigraffle.graffle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - graffle

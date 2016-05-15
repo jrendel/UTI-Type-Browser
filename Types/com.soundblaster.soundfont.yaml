@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: SoundFont audio
+UTTypeIdentifier: com.soundblaster.soundfont
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sf2

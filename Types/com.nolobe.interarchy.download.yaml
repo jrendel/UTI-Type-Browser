@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Interarchy Partial Download
+UTTypeIconFile: com.nolobe.interarchy.download.icns
+UTTypeIdentifier: com.nolobe.interarchy.download
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iadownload

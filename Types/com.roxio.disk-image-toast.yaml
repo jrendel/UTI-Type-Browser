@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: DVD/CD-R Master Image
+UTTypeIdentifier: com.roxio.disk-image-toast
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - GImg
+  - PImg
+  public.filename-extension:
+  - toast

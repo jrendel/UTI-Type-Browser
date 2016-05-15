@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: SQL File
+UTTypeIconFile: ''
+UTTypeIdentifier: com.sequelpro.SequelPro.sql
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sql text
+  public.filename-extension:
+  - sql

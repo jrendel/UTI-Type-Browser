@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Verilog Source File
+UTTypeIdentifier: org.n8gray.verilog
+UTTypeTagSpecification:
+  public.filename-extension:
+  - v

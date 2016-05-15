@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: GZip archive
+UTTypeIdentifier: org.gnu.gnu-zip-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gz
+  - gzip
+  public.mime-type:
+  - application/gzip
+  - application/x-gzip

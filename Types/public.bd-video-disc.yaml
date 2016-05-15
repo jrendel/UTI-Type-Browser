@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: BD Video Disc
+UTTypeIdentifier: public.bd-video-disc

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Exedore Document
+UTTypeIconFile: exedoredoc.icns
+UTTypeIdentifier: com.celestialteapot.exedoredoc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - exedore

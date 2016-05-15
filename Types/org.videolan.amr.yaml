@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Adaptive Multi-Rate Codec File
+UTTypeIdentifier: org.videolan.amr
+UTTypeTagSpecification:
+  public.filename-extension:
+  - amr

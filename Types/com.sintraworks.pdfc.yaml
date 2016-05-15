@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Legacy SintraWorks PDFClerk document
+UTTypeIconFile: PDFClerkDocumentIcon
+UTTypeIdentifier: com.sintraworks.pdfc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pdfc

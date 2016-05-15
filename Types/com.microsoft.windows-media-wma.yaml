@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.microsoft.advanced-systems-format
+- public.audio
+UTTypeDescription: Windows media audio
+UTTypeIdentifier: com.microsoft.windows-media-wma
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wma
+  public.mime-type:
+  - video/x-ms-wma

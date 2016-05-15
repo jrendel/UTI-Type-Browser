@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MPEG-4 audio
+UTTypeIdentifier: public.mpeg-4-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'MP4 '
+  - mpg4
+  public.filename-extension:
+  - mp4
+  - mpg4
+  public.mime-type:
+  - audio/mp4

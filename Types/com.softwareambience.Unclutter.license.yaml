@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Unclutter License
+UTTypeIconFile: License.icns
+UTTypeIdentifier: com.softwareambience.Unclutter.license
+UTTypeReferenceURL: http://www.unclutterapp.com
+UTTypeTagSpecification:
+  public.filename-extension:
+  - Unclutter

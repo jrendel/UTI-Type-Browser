@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeIdentifier: public.ruby-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rb
+  - rbw

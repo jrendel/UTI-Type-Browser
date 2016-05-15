@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.pkware.zip-archive
+- public.composite-content
+- public.zip-archive
+UTTypeDescription: Electronic Publication (iBooks)
+UTTypeIdentifier: com.apple.ibooks-container
+UTTypeReferenceURL: http://www.apple.com/ibooks-author/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ibooks
+  public.mime-type:
+  - application/x-ibooks+zip

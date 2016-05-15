@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.finder.clipping
+- public.image
+UTTypeDescription: picture clipping
+UTTypeIdentifier: com.apple.finder.pictclipping
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - clpp
+  public.filename-extension:
+  - pictclipping

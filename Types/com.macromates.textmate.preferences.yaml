@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Preferences
+UTTypeIdentifier: com.macromates.textmate.preferences
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmPreferences

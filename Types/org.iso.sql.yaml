@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SQL source
+UTTypeIdentifier: org.iso.sql
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sql
+  public.mime-type:
+  - application/sql

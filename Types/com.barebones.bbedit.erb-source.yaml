@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Embedded Ruby source file
+UTTypeIdentifier: com.barebones.bbedit.erb-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erb
+  - rhtml

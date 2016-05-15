@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ZOO Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.zoo-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - zoo

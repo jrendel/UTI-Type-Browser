@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch
+UTTypeIdentifier: com.apple.ipod-touch
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N45AP
+  - iPod1,1

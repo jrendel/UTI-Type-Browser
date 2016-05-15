@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Template file
+UTTypeIdentifier: com.panic.coda.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tpl
+  public.mime-type:
+  - text/plain

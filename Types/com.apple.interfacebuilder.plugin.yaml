@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Interface Builder Plug-in
+UTTypeIdentifier: com.apple.interfacebuilder.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ibplugin

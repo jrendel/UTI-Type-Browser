@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: preprocessed source code
+UTTypeIdentifier: public.source-code.preprocessed

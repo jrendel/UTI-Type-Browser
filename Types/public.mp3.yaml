@@ -1,0 +1,24 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MP3 audio
+UTTypeIdentifier: public.mp3
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'MP3 '
+  - MP3!
+  - MPG3
+  - 'Mp3 '
+  - mp3!
+  - mpg3
+  public.filename-extension:
+  - mp3
+  - mpga
+  public.mime-type:
+  - audio/mp3
+  - audio/mpeg
+  - audio/mpeg3
+  - audio/mpg
+  - audio/x-mp3
+  - audio/x-mpeg
+  - audio/x-mpeg3
+  - audio/x-mpg

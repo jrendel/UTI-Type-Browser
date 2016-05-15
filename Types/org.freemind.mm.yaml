@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: FreeMind document
+UTTypeIdentifier: org.freemind.mm
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mm

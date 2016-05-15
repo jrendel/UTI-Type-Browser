@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.calendar-store.item
+UTTypeDescription: Reminders
+UTTypeIdentifier: com.apple.calendar-store.todo

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.lemkesoft.itemanpa
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ANPA

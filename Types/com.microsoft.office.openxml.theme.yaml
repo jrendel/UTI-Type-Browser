@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft PowerPoint document
+UTTypeIdentifier: com.microsoft.office.openxml.theme
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - THMX
+  public.filename-extension:
+  - thmx
+  public.mime-type:
+  - application/vnd.ms-officetheme

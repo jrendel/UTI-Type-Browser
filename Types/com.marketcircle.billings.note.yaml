@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Billings Note
+UTTypeIdentifier: com.marketcircle.billings.note
+UTTypeTagSpecification:
+  public.filename-extension:
+  - binote

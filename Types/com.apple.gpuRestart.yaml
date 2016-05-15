@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: GPU Restart
+UTTypeIdentifier: com.apple.gpuRestart
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gpuRestart

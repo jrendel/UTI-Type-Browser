@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Java web start
+UTTypeIdentifier: com.sun.java-web-start
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jnlp
+  public.mime-type:
+  - application/jnlp
+  - application/x-java-jnlp-file

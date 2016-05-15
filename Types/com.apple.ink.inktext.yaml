@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: writing
+UTTypeIdentifier: com.apple.ink.inktext
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple InkText pasteboard type
+  com.apple.ostype:
+  - inkt

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.bundle
+UTTypeDescription: BBEdit language module
+UTTypeIdentifier: com.barebones.bbedit.language-module
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bblm

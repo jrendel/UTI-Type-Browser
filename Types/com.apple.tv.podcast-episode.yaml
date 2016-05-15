@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: podcast episode
+UTTypeIdentifier: com.apple.tv.podcast-episode

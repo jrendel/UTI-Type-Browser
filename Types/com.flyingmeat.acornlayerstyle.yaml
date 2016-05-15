@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Acorn Layer Style
+UTTypeIconFile: Acorn-STYLE
+UTTypeIdentifier: com.flyingmeat.acornlayerstyle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - acstyle

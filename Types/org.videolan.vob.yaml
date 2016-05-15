@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: VOB File (DVD Video)
+UTTypeIdentifier: org.videolan.vob
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vob

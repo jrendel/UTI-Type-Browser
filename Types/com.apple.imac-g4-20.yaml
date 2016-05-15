@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-g4-20
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac6,3

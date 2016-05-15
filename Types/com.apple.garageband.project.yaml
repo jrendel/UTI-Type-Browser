@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.audiovisual-content
+UTTypeDescription: GarageBand Project
+UTTypeIdentifier: com.apple.garageband.project
+UTTypeReferenceURL: http://www.apple.com/ilife/garageband/
+UTTypeTagSpecification:
+  com.apple.os-type:
+  - EMP1
+  public.filename-extension:
+  - band
+  - gbProj

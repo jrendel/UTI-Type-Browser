@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.data
+- public.movie
+UTTypeDescription: Screenium Recording
+UTTypeIdentifier: com.syniumsoftware.screeniumRecord
+UTTypeTagSpecification:
+  public.filename-extension:
+  - screeniumRecord

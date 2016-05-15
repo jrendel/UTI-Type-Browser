@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Canon TIF raw image
+UTTypeIdentifier: com.canon.tif-raw-image

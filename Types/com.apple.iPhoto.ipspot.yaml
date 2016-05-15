@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: iPhoto Spotlight Document
+UTTypeIdentifier: com.apple.iPhoto.ipspot
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ipspot

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: uLaw audio
+UTTypeIdentifier: public.ulaw-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ULAW
+  public.filename-extension:
+  - ul
+  - ulaw
+  - ulw

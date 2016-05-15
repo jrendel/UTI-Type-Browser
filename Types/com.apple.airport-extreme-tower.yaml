@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.airport
+UTTypeDescription: AirPort Extreme
+UTTypeIdentifier: com.apple.airport-extreme-tower
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AirPort7,120

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+- public.item
+- public.movie
+UTTypeDescription: Motion Document
+UTTypeIconFile: MotionDocument.icns
+UTTypeIdentifier: com.apple.motion.project
+UTTypeReferenceURL: http://www.apple.com/motion/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mopr
+  - motn

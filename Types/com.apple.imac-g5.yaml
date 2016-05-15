@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeDescription: iMac G5
+UTTypeIdentifier: com.apple.imac-g5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac8,1
+  - PowerMac8,2

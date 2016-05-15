@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Apple CoreAudio format
+UTTypeIdentifier: com.apple.coreaudio-format
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - caff
+  public.filename-extension:
+  - caf

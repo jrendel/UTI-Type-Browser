@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: AppleSingle archive
+UTTypeIdentifier: com.apple.applesingle-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - as

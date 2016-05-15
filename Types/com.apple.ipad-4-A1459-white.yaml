@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad (4th generation Model A1459)
+UTTypeIconFile: com.apple.ipad-2-white.icns
+UTTypeIdentifier: com.apple.ipad-4-A1459-white
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - P102AP
+  - iPad3,5

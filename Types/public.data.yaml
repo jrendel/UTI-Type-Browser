@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: data
+UTTypeIdentifier: public.data
+UTTypeTagSpecification:
+  public.mime-type:
+  - application/octet-stream

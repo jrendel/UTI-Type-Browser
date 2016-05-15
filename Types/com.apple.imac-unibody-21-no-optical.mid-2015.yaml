@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.imac-unibody-21-no-optical
+UTTypeIconFile: com.apple.imac-unibody-21-no-optical.icns
+UTTypeIdentifier: com.apple.imac-unibody-21-no-optical.mid-2015
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac16,1
+  - iMac16,2

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: text selection
+UTTypeIdentifier: com.apple.cocoa.pasteboard.multiple-text-selection
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple multiple text selection pasteboard type

@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: Time Capsule
+UTTypeIdentifier: com.apple.time-capsule
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AirPort6
+  - AirPort6,106
+  - TimeCapsule
+  - TimeCapsule6
+  - TimeCapsule6,106
+  - TimeCapsule6,109
+  - TimeCapsule6,113
+  - TimeCapsule6,116

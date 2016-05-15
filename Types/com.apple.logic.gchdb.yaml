@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Guitar Chord Library
+UTTypeIdentifier: com.apple.logic.gchdb
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gchdb

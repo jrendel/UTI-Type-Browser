@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Word 97-2004 document
+UTTypeIdentifier: com.microsoft.word.doc
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - W8BN
+  public.filename-extension:
+  - doc
+  public.mime-type:
+  - application/msword

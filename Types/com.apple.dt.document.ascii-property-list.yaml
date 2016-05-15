@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.property-list
+- public.plain-text
+UTTypeIdentifier: com.apple.dt.document.ascii-property-list

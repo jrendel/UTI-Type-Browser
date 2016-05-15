@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.url
+UTTypeDescription: iTunes Music Store URL
+UTTypeIdentifier: com.apple.iTunes.itms
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - itms
+  public.filename-extension:
+  - itms

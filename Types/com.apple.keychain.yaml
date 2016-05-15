@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: keychain
+UTTypeIdentifier: com.apple.keychain
+UTTypeTagSpecification:
+  public.filename-extension:
+  - keychain

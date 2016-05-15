@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Yacc source code
+UTTypeIdentifier: public.yacc-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - y
+  - ym
+  - ymm
+  - ypp
+  - yxx

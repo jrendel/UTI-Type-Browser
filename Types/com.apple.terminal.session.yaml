@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Terminal session
+UTTypeIconFile: term_icon.icns
+UTTypeIdentifier: com.apple.terminal.session
+UTTypeTagSpecification:
+  public.filename-extension:
+  - term

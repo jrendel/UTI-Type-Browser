@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: 7-Zip Archive
+UTTypeIconFile: 7z.icns
+UTTypeIdentifier: org.7-zip.7-zip-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - 7z
+  public.mime-type:
+  - application/x-7z-compressed

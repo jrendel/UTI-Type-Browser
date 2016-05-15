@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.3d-content
+- public.text
+UTTypeDescription: Geometry Definition File Format
+UTTypeIdentifier: public.geometry-definition-format
+UTTypeTagSpecification:
+  public.filename-extension:
+  - obj

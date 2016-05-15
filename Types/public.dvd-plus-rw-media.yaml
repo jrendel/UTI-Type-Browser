@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.dvd-based-media
+UTTypeDescription: DVD+RW
+UTTypeIdentifier: public.dvd-plus-rw-media

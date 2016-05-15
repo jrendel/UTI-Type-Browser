@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Sony raw image
+UTTypeIdentifier: com.sony.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - srf

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Adaptive Multi-rate audio
+UTTypeIdentifier: org.3gpp.adaptive-multi-rate-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'amr '
+  public.filename-extension:
+  - amr
+  public.mime-type:
+  - audio/amr

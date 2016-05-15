@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Coldfusion Source Code
+UTTypeIdentifier: com.adobe.coldfusion
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cfc
+  - cfm
+  - cfml

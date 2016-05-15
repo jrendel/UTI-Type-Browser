@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: FTP internet location
+UTTypeIdentifier: com.apple.ftp-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilft
+  public.filename-extension:
+  - ftploc

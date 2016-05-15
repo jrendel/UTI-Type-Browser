@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.apple-tv
+UTTypeDescription: Apple TV (3rd generation)
+UTTypeIconFile: com.apple.apple-tv-3.icns
+UTTypeIdentifier: com.apple.apple-tv-3
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AppleTV3,1
+  - J33AP

@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AIFF-C audio
+UTTypeIdentifier: public.aifc-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AIFC
+  - cdda
+  public.filename-extension:
+  - aif
+  - aifc
+  - aiff
+  - cdda
+  public.mime-type:
+  - audio/aiff
+  - audio/x-aiff

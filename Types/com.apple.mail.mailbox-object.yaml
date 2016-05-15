@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.mail.item-object
+UTTypeDescription: Mail mailboxes
+UTTypeIdentifier: com.apple.mail.mailbox-object

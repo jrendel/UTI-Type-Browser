@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Additive Manufacturing File
+UTTypeIdentifier: com.ultimaker.amf
+UTTypeReferenceURL: https://en.wikipedia.org/wiki/Additive_Manufacturing_File_Format
+UTTypeTagSpecification:
+  public.filename-extension:
+  - amf
+  public.mime-type:
+  - text/plain

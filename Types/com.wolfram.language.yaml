@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Wolfram Language Package
+UTTypeIconFile: Notebook.icns
+UTTypeIdentifier: com.wolfram.language
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wl

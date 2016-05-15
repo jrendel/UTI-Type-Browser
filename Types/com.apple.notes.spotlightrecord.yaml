@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Spotlight Notes Record
+UTTypeIdentifier: com.apple.notes.spotlightrecord
+UTTypeTagSpecification:
+  public.filename-extension:
+  - notesspotlightrecord

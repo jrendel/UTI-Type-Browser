@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.binary-property-list
+UTTypeIdentifier: com.apple.xcode.plugindata.compiled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcplugindata

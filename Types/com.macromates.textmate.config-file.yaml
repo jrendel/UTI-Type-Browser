@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Configuration file
+UTTypeIdentifier: com.macromates.textmate.config-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cfg
+  - conf
+  - config
+  - htaccess

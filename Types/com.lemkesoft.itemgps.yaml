@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.lemkesoft.itemgps
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'GPS '

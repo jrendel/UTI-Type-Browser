@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: certificate (X.509)
+UTTypeIdentifier: public.x509-certificate
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cer
+  - crt
+  - der
+  - pem
+  public.mime-type:
+  - application/x-x509-ca-cert

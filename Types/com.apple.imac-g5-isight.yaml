@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-g5-isight
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac12,1

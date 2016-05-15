@@ -1,0 +1,18 @@
+UTTypeConformsTo:
+- public.data
+- public.plain-text
+UTTypeDescription: MacSpice source
+UTTypeIconFile: MacSpiceSrcTEXT.icns
+UTTypeIdentifier: uk.co.cdhw.macspice.source
+UTTypeReferenceURL: http://www.macspice.com/Features.html#files
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TEXT
+  public.filename-extension:
+  - cir
+  - net
+  - source
+  - sp3
+  - src
+  public.mime-type:
+  - text/plain

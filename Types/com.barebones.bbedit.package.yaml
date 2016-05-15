@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: BBEdit package
+UTTypeIdentifier: com.barebones.bbedit.package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bbpackage

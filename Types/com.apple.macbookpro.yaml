@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mac.laptop
+UTTypeDescription: MacBook Pro
+UTTypeIdentifier: com.apple.macbookpro
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBookPro

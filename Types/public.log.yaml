@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: Generic Log Type
+UTTypeIdentifier: public.log

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Araxis Merge Text Comparison
+UTTypeIconFile: MergeSavedComparison
+UTTypeIdentifier: com.araxis.merge.comparison.text
+UTTypeReferenceURL: http://www.araxis.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AMtc
+  public.filename-extension:
+  - textcomparison
+public.mime-type: application/octet-stream

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.pkware.zip-archive
+UTTypeDescription: Zip archive
+UTTypeIdentifier: public.zip-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - zip
+  public.mime-type:
+  - application/x-zip-compressed
+  - application/zip

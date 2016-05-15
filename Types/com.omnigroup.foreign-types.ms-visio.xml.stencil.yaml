@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Visio XML Stencil
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio.xml.stencil
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vsx

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: MindNode document
+UTTypeIdentifier: com.mindnode.mindnode.mindmap
+UTTypeReferenceURL: http://www.mindnode.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mindnode

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: VMware virtual machine VIX meta-data
+UTTypeIdentifier: com.vmware.vm-foundry
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmxf
+  public.mime-type:
+  - application/x-vmware-vmfoundry

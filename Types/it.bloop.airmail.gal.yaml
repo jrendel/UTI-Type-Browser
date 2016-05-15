@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Global Address List
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.gal
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  public.mime-type:
+  - application/octet-stream

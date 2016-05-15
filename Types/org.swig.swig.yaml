@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SWIG source
+UTTypeIdentifier: org.swig.swig
+UTTypeReferenceURL: http://swig.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - i
+  - swg

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-aluminum-24
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac9,1

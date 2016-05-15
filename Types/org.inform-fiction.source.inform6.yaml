@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Inform 6 source file
+UTTypeIconFile: infFile.icns
+UTTypeIdentifier: org.inform-fiction.source.inform6
+UTTypeTagSpecification:
+  public.filename-extension:
+  - i6
+  - inf

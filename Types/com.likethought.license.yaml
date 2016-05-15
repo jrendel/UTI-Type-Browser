@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: License File
+UTTypeIdentifier: com.likethought.license
+UTTypeReferenceURL: http://likethought.com/

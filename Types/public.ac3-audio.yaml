@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AC-3 audio
+UTTypeIdentifier: public.ac3-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ac-3
+  public.filename-extension:
+  - ac3
+  public.mime-type:
+  - audio/ac3

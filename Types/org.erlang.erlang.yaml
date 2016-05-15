@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Erlang source
+UTTypeIdentifier: org.erlang.erlang
+UTTypeReferenceURL: http://www.erlang.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erl
+  - hrl

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+- public.stored-url
+UTTypeDescription: Windows Internet shortcut
+UTTypeIdentifier: com.microsoft.internet-shortcut
+UTTypeTagSpecification:
+  public.filename-extension:
+  - url

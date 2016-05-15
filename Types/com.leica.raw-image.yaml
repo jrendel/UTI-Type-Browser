@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Leica raw image
+UTTypeIdentifier: com.leica.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - raw

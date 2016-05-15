@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Numbers Spreadsheet
+UTTypeIdentifier: com.apple.iwork.numbers.numbers-tef
+UTTypeTagSpecification:
+  public.filename-extension:
+  - numbers-tef

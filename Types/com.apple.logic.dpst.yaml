@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Drummer Editor Preset
+UTTypeIconFile: DPST.icns
+UTTypeIdentifier: com.apple.logic.dpst
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dpst

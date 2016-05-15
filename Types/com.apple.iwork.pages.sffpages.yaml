@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.zip-archive
+UTTypeDescription: Pages Publication
+UTTypeIdentifier: com.apple.iwork.pages.sffpages
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pages
+  public.mime-type:
+  - application/x-iwork-pages-sffpages

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.database
+UTTypeDescription: iTunes Database File
+UTTypeIdentifier: com.apple.iTunes.db
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - hkdb
+  public.filename-extension:
+  - itl

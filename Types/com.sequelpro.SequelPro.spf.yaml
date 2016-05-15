@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Sequel Pro Connection
+UTTypeIconFile: ''
+UTTypeIdentifier: com.sequelpro.SequelPro.spf
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - connection
+  public.filename-extension:
+  - spf

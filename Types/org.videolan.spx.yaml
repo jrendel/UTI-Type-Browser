@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Speex Audio File
+UTTypeIdentifier: org.videolan.spx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spx

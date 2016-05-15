@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.xml
+UTTypeDescription: DTerm License
+UTTypeIconFile: DTermLicense.icns
+UTTypeIdentifier: net.decimus.dterm.license
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dtermlicense

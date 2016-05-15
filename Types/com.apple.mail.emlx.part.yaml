@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Mail Message Part
+UTTypeIdentifier: com.apple.mail.emlx.part
+UTTypeTagSpecification:
+  public.filename-extension:
+  - emlxpart

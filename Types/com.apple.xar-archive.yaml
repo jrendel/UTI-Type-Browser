@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: XAR Archive
+UTTypeIdentifier: com.apple.xar-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xar

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.database
+UTTypeDescription: iTunes Database File
+UTTypeIdentifier: com.apple.iTunes.dbp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - itlb

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: CD Track
+UTTypeIdentifier: com.apple.iTunes.cdda
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AIFC
+  public.filename-extension:
+  - cdda

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Pass
+UTTypeIdentifier: com.apple.pkpass
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pkpass
+  public.mime-type:
+  - application/vnd.apple.pkpass

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.data
+UTTypeDescription: iCloud synchronization file
+UTTypeIdentifier: com.apple.icloud-file-fault
+UTTypeTagSpecification:
+  public.filename-extension:
+  - icloud

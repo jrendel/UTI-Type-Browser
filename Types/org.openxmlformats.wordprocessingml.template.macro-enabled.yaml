@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Word Macro-Enabled template
+UTTypeIdentifier: org.openxmlformats.wordprocessingml.template.macro-enabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - DOTM
+  public.filename-extension:
+  - dotm

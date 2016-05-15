@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Media properties associated with a Master entity.
+UTTypeIdentifier: com.apple.cloudphotos.mediaproperties
+UTTypeTagSpecification: {}

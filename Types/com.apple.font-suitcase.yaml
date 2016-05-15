@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.font
+UTTypeDescription: font suitcase
+UTTypeIdentifier: com.apple.font-suitcase
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - FFIL
+  - ffil
+  - sfnt
+  - tfil
+  public.filename-extension:
+  - suit

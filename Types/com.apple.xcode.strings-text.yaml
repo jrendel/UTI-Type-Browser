@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: com.apple.xcode.strings-text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - strings

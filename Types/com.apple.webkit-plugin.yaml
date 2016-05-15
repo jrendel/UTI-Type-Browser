@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: WebKit plug-in
+UTTypeIdentifier: com.apple.webkit-plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webplugin

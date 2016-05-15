@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.opencl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cl

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.json
+UTTypeDescription: Apple Push Notification Service File
+UTTypeIdentifier: com.apple.dt.document.apns
+UTTypeTagSpecification:
+  public.filename-extension:
+  - apns

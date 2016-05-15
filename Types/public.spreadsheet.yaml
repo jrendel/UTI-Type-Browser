@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.content
+UTTypeDescription: Spreadsheet
+UTTypeIdentifier: public.spreadsheet

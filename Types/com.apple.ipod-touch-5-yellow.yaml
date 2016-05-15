@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch (5th generation)
+UTTypeIconFile: com.apple.ipod-touch-5-yellow.icns
+UTTypeIdentifier: com.apple.ipod-touch-5-yellow
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N78AP
+  - iPod
+  - iPod5,1

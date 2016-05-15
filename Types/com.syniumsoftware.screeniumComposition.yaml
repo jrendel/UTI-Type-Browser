@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.data
+UTTypeDescription: Screenium Composition
+UTTypeIdentifier: com.syniumsoftware.screeniumComposition
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - SCRC
+  public.filename-extension:
+  - screeniumComposition

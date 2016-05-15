@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: XSL stylesheet
+UTTypeIdentifier: org.w3.xsl
+UTTypeReferenceURL: http://www.w3.org/Style/XSL/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xsl
+  - xslt
+  public.mime-type:
+  - xslt+xml

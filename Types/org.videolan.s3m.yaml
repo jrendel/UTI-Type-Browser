@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: ScreamTracker 3 Module
+UTTypeIdentifier: org.videolan.s3m
+UTTypeTagSpecification:
+  public.filename-extension:
+  - s3m

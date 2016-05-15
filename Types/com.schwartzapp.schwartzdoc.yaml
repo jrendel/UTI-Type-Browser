@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Schwartz Document
+UTTypeIconFile: schwartzdoc.icns
+UTTypeIdentifier: com.schwartzapp.schwartzdoc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - schwartz

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: Apple TV
+UTTypeIdentifier: com.apple.apple-tv
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AppleTV
+  - AppleTV1,1

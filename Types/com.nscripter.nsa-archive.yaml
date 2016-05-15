@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: NSA Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.nscripter.nsa-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nsa

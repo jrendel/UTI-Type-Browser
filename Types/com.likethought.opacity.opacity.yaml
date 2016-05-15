@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Opacity image
+UTTypeIdentifier: com.likethought.opacity.opacity
+UTTypeReferenceURL: http://likethought.com/opacity/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opacity

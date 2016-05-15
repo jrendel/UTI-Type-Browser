@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Opacity Template
+UTTypeIdentifier: com.likethought.opacity.template
+UTTypeReferenceURL: http://likethought.com/opacity/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otemplate

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeIdentifier: com.apple.library-folder
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - "\u0192lib"

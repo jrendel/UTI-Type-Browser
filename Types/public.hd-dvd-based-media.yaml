@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.optical-storage-media
+UTTypeDescription: HD DVD
+UTTypeIdentifier: public.hd-dvd-based-media

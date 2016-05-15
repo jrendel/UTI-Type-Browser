@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: SketchUp Style file
+UTTypeIdentifier: com.sketchup.style
+UTTypeReferenceURL: http://www.sketchup.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - style

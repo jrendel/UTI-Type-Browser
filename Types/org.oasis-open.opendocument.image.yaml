@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.image
+UTTypeDescription: Open Document image
+UTTypeIdentifier: org.oasis-open.opendocument.image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - odi
+  public.mime-type:
+  - application/vnd.oasis.opendocument.image

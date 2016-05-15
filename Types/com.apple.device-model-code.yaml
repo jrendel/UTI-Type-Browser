@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: device model code
+UTTypeIdentifier: com.apple.device-model-code

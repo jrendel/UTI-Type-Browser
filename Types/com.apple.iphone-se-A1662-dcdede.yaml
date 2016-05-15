@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone SE (Model A1662, A1723, A1724)
+UTTypeIconFile: com.apple.iphone-se-dcdede.icns
+UTTypeIdentifier: com.apple.iphone-se-A1662-dcdede
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N69AP
+  - iPhone
+  - iPhone8,4

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: PC Drive Container
+UTTypeIdentifier: com.apple.disk-image-pc
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - OPCD

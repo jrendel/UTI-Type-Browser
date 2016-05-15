@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.mac.laptop
+UTTypeDescription: iBook G4
+UTTypeIdentifier: com.apple.ibook-g4
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerBook6,3
+  - PowerBook6,5
+  - PowerBook6,7

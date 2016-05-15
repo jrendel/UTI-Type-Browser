@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.macbook
+UTTypeIdentifier: com.apple.macbook-unibody-plastic
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBook6,1
+  - MacBook7,1

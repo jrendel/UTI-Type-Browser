@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: RealMedia Variable Bitrate
+UTTypeIdentifier: com.real.realmedia-vbr
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rmvb
+  public.mime-type:
+  - application/vnd.rn-realmedia-vbr

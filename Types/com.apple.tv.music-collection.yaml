@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: abstract song or opus collection
+UTTypeIdentifier: com.apple.tv.music-collection

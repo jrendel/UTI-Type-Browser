@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Macro
+UTTypeIdentifier: com.macromates.textmate.macro
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmMacro

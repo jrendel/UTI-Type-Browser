@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Linux RPM Archive
+UTTypeIconFile: rpm.icns
+UTTypeIdentifier: com.redhat.rpm-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rpm
+  public.mime-type:
+  - application/x-rpm

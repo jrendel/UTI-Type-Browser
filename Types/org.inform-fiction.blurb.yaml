@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Blurb file
+UTTypeIconFile: blurbfile.icns
+UTTypeIdentifier: org.inform-fiction.blurb
+UTTypeTagSpecification:
+  public.filename-extension:
+  - blurb

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.xml-property-list
+UTTypeIdentifier: com.apple.xcode.entitlements-property-list
+UTTypeTagSpecification:
+  public.filename-extension:
+  - entitlements

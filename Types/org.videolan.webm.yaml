@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: WebM Video File
+UTTypeIdentifier: org.videolan.webm
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webm

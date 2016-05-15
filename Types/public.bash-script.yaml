@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: Bourne-Again Shell script
+UTTypeIdentifier: public.bash-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bash

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: TLV Document
+UTTypeIdentifier: io.schwa.tlv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tlv

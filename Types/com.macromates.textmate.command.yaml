@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Command
+UTTypeIdentifier: com.macromates.textmate.command
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmCommand

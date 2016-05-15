@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Sound Designer II audio
+UTTypeIdentifier: com.digidesign.sd2-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Sd2f
+  public.filename-extension:
+  - sd2

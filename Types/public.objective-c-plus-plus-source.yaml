@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.objective-c-plus-plus-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - M
+  - mm

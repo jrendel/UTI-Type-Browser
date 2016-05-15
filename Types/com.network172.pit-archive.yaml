@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: PackIt Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.network172.pit-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pit

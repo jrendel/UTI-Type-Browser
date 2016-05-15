@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: XZ File
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: org.tukaani.xz-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xz
+  public.mime-type:
+  - application/x-xz

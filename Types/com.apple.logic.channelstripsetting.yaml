@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Logic Audio Channel Strip Setting proprietary format
+UTTypeIconFile: LogicCST.icns
+UTTypeIdentifier: com.apple.logic.channelstripsetting
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - .CST
+  public.filename-extension:
+  - cst

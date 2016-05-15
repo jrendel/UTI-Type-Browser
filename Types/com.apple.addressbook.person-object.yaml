@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.addressbook.item-object
+UTTypeDescription: Contacts people
+UTTypeIdentifier: com.apple.addressbook.person-object

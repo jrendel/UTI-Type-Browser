@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: TeX document
+UTTypeIdentifier: org.tug.tex
+UTTypeReferenceURL: http://www.latex-project.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cls
+  - sty
+  - tex

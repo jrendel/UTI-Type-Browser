@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: Tenex C Shell script
+UTTypeIdentifier: public.tcsh-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tcsh

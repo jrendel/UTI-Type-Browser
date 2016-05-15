@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 5c (Model A1456)
+UTTypeIconFile: com.apple.iphone-5c-f5f4f7.icns
+UTTypeIdentifier: com.apple.iphone-5c-A1456-f5f4f7
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N48AP
+  - iPhone
+  - iPhone5,3

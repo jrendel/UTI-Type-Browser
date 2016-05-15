@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Font Book collection reference
+UTTypeIdentifier: com.apple.fontbook.font-collection-object

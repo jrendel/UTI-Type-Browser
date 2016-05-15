@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Mathematica Kernel Resource
+UTTypeIconFile: Notebook.icns
+UTTypeIdentifier: com.wolfram.kernelresource
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mx

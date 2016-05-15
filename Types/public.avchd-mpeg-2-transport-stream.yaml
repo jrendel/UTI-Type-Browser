@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.mpeg-2-transport-stream
+UTTypeDescription: AVCHD MPEG-2 Transport Stream
+UTTypeIdentifier: public.avchd-mpeg-2-transport-stream
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m2ts
+  - mts

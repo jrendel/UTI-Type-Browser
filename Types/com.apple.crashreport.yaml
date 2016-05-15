@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: Crash Report
+UTTypeIdentifier: com.apple.crashreport
+UTTypeTagSpecification:
+  public.filename-extension:
+  - crash

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.executable
+- public.presentation
+UTTypeDescription: Office Open XML presentation (macros enabled)
+UTTypeIdentifier: org.openxmlformats.presentationml.presentation.macroenabled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pptm
+  public.mime-type:
+  - application/vnd.ms-powerpoint.presentation.macroEnabled.12

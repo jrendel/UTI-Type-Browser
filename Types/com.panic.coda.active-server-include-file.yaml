@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Active Server Include file
+UTTypeIdentifier: com.panic.coda.active-server-include-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - inc
+  public.mime-type:
+  - text/plain

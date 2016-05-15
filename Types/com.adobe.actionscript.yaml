@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: ActionScript source
+UTTypeIdentifier: com.adobe.actionscript
+UTTypeReferenceURL: http://www.adobe.com/devnet/actionscript.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - as
+  public.mime-type:
+  - application/ecmascript

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Slow Motion Video Sidecar
+UTTypeIdentifier: com.apple.photos.slow-motion-video-sidecar
+UTTypeTagSpecification:
+  public.filename-extension:
+  - slm

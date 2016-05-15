@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Windows Media Video
+UTTypeIdentifier: org.videolan.wmv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wmv

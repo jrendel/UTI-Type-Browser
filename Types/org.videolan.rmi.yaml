@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: RMID MIDI File
+UTTypeIdentifier: org.videolan.rmi
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rmi

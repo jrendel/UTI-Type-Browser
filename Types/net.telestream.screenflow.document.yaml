@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: ScreenFlow Document
+UTTypeIdentifier: net.telestream.screenflow.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - screenflow

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MP2 audio
+UTTypeIdentifier: com.apple.iTunes.mp2
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - MPG2
+  public.filename-extension:
+  - mp2
+  public.mime-type:
+  - audio/mpeg
+  - audio/x-mpeg

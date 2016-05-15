@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: System Profile Report
+UTTypeIdentifier: com.apple.systemprofiler.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spx

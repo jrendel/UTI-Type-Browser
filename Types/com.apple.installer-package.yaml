@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Installer package
+UTTypeIdentifier: com.apple.installer-package
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - pkg1
+  public.filename-extension:
+  - pkg

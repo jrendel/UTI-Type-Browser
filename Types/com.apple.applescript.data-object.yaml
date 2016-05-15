@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Data
+UTTypeIdentifier: com.apple.applescript.data-object

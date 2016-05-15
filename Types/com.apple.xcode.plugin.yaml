@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeIdentifier: com.apple.xcode.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcplugin

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.xlm
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLM4
+  public.filename-extension:
+  - xlm
+  public.mime-type:
+  - application/vnd.ms-excel

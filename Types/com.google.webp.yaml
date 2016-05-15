@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: WebP image
+UTTypeIdentifier: com.google.webp
+UTTypeReferenceURL: http://code.google.com/speed/webp/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webp

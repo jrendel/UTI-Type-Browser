@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Adobe Illustrator document
+UTTypeIdentifier: com.omnigroup.foreign-types.ai
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ai

@@ -1,0 +1,8 @@
+OFTUTIDeclarationUsageType: OFExportOnlyDeclaration
+UTTypeConformsTo:
+- public.comma-separated-values-text
+UTTypeDescription: CSV
+UTTypeIdentifier: com.omnigroup.omnifocus2.export-filetype.comma-separated-values
+UTTypeTagSpecification:
+  public.filename-extension:
+  - csv

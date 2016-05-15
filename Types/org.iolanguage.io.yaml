@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Io source
+UTTypeIdentifier: org.iolanguage.io
+UTTypeReferenceURL: http://iolanguage.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - io

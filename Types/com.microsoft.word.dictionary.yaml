@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Word document
+UTTypeIdentifier: com.microsoft.word.dictionary
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - WDCD
+  - WEXD
+  public.filename-extension:
+  - dic

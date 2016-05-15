@@ -1,0 +1,8 @@
+UTKEXTIdentifier: com.apple.iokit.IODVDStorageFamily
+UTTypeConformsTo:
+- public.dvd-based-media
+UTTypeDescription: DVD-RW
+UTTypeIdentifier: public.dvd-rw-media
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dvdw

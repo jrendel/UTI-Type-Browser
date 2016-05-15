@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.image
+- public.message
+UTTypeDescription: fax
+UTTypeIdentifier: public.fax

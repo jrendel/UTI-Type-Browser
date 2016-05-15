@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.url
+UTTypeIdentifier: com.reinvented.Together.grouplink
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - TRGroupPboardType

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+- public.spreadsheet
+UTTypeDescription: Numbers Template
+UTTypeIdentifier: com.apple.iwork.numbers.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nmbtemplate

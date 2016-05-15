@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+- public.xml
+UTTypeDescription: Reveal License File
+UTTypeIconFile: RevealLicense
+UTTypeIdentifier: com.ittybittyapps.Reveal.license
+UTTypeTagSpecification:
+  public.filename-extension:
+  - RevealLicense

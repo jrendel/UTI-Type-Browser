@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Together note
+UTTypeIconFile: NoteDocument
+UTTypeIdentifier: com.reinvented.together.note
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trnote

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.xserve
+UTTypeDescription: Xserve G5
+UTTypeIdentifier: com.apple.xserve-g5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - RackMac3,1

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.fortran-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f
+  - f77
+  - f95
+  - for

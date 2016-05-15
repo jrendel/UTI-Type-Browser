@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: OmniFocus Perspective
+UTTypeIconName: Perspectives.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-perspective
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-perspective

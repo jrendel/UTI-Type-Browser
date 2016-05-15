@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: FLC animation
+UTTypeIdentifier: public.flc-animation
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'FLI '
+  public.filename-extension:
+  - cel
+  - flc
+  - fli
+  public.mime-type:
+  - video/flc

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Synalyze It! Grammar
+UTTypeIconFile: SynalyzeItPro-Document.icns
+UTTypeIdentifier: net.synalysis.grammar
+UTTypeReferenceURL: http://www.synalysis.net/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - grammar

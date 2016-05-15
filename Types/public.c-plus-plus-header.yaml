@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.c-plus-plus-header
+UTTypeTagSpecification:
+  public.filename-extension:
+  - h++
+  - hh
+  - hp
+  - hpp
+  - hxx

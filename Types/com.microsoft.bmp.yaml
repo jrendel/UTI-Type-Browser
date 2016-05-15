@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Windows bitmap image
+UTTypeIdentifier: com.microsoft.bmp
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'BMP '
+  - BMPf
+  public.filename-extension:
+  - bmp
+  public.mime-type:
+  - image/bmp

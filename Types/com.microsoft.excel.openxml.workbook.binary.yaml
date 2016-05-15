@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.openxml.workbook.binary
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLSB
+  public.filename-extension:
+  - xlsb
+  public.mime-type:
+  - application/vnd.ms-excel.sheet.binary.macroEnabled.12

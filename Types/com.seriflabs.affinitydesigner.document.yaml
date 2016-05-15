@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Affinity Designer Document
+UTTypeIconFile: DesignerAppIcon
+UTTypeIdentifier: com.seriflabs.affinitydesigner.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - afdesign

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.charlessoft.com.CSHexEditView.pasteboard-data
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - CSHexEditViewDataPboardType

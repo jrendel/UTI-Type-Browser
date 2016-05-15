@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ACE Archive
+UTTypeIconFile: ace.icns
+UTTypeIdentifier: com.winace.ace-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ace
+  public.mime-type:
+  - application/x-ace-compressed

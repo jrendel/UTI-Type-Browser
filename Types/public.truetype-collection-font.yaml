@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.truetype-font
+UTTypeDescription: TrueType collection font
+UTTypeIdentifier: public.truetype-collection-font
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ttcf
+  public.filename-extension:
+  - ttc

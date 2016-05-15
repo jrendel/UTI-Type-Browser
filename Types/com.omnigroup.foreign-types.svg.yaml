@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Scalable Vector Graphics XML File Type
+UTTypeIdentifier: com.omnigroup.foreign-types.svg
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'svg '
+  public.filename-extension:
+  - svg
+  public.mime-type:
+  - image/svg+xml

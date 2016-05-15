@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Installer BOM archive listing
+UTTypeIdentifier: com.mothersruin.installer-bom-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bom

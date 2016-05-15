@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.font
+UTTypeDescription: PostScript font
+UTTypeIdentifier: com.adobe.postscript-font

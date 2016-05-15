@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: Expression Encoder Screen Capture File
+UTTypeIdentifier: org.videolan.xesc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xesc

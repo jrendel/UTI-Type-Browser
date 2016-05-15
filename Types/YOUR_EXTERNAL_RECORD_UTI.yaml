@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Your Document Kind String
+UTTypeIdentifier: YOUR_EXTERNAL_RECORD_UTI
+UTTypeReferenceURL: http://www.company.com/yourproduct
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XXXX
+  public.filename-extension:
+  - YOUR_EXTERNAL_RECORD_EXTENSION

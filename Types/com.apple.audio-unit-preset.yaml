@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.xml-property-list
+UTTypeDescription: audio unit preset
+UTTypeIdentifier: com.apple.audio-unit-preset
+UTTypeTagSpecification:
+  public.filename-extension:
+  - aupreset

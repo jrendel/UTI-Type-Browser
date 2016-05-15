@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Canon CRW raw image
+UTTypeIdentifier: com.canon.crw-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - crw
+  public.mime-type:
+  - image/x-canon-crw

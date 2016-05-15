@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.archive
+UTTypeDescription: disk image
+UTTypeIdentifier: public.disk-image

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.itunes.item-object
+UTTypeDescription: iTunes tracks
+UTTypeIdentifier: com.apple.itunes.track-object

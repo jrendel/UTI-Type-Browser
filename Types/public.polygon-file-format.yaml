@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.3d-content
+- public.data
+UTTypeDescription: Polygon File Format
+UTTypeIdentifier: public.polygon-file-format
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ply

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Mathematica Notebook (Obsolete)
+UTTypeIconFile: Notebook.icns
+UTTypeIdentifier: com.wolfram.notebookv2
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ma

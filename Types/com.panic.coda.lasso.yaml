@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Lasso file
+UTTypeIconFile: ''
+UTTypeIdentifier: com.panic.coda.lasso
+UTTypeTagSpecification:
+  public.filename-extension:
+  - las
+  - lasso
+  - lhtml
+  public.mime-type:
+  - text/plain

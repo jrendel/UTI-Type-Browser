@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: ISO Disk Image
+UTTypeIdentifier: public.iso-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iso

@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: ELF binary
+UTTypeIdentifier: public.elf-binary

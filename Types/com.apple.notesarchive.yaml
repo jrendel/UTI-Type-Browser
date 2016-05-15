@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Notes Archive
+UTTypeIdentifier: com.apple.notesarchive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - notesArchive

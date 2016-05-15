@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: DTS Encoded Audio File
+UTTypeIdentifier: org.videolan.dts
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dts

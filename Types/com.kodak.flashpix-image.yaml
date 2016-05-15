@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: FlashPix image
+UTTypeIdentifier: com.kodak.flashpix-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fpx
+  public.mime-type:
+  - application/vnd.fpx
+  - image/fpx

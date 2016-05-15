@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: DVD-Audio Audio Object File
+UTTypeIdentifier: org.videolan.aob
+UTTypeTagSpecification:
+  public.filename-extension:
+  - aob

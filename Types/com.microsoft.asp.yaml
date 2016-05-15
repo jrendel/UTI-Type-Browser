@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: ASP document
+UTTypeIdentifier: com.microsoft.asp
+UTTypeReferenceURL: http://en.wikipedia.org/wiki/Active_Server_Pages
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asa
+  - asp

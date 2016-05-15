@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: BinHex archive
+UTTypeIdentifier: com.apple.binhex-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hqx
+  public.mime-type:
+  - application/binhex
+  - application/mac-binhex
+  - application/mac-binhex40

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: OmniOutliner 2
+UTTypeIdentifier: com.omnigroup.omnioutliner.oooutline
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ooutline

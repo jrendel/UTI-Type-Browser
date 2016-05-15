@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: GraphViz dot Document
+UTTypeIdentifier: com.omnigroup.foreign-types.graphviz-dot
+UTTypeReferenceURL: http://www.graphviz.org/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dot
+  - gv
+  public.mime-type:
+  - text/x-graphviz

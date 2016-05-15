@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.message
+UTTypeDescription: email message
+UTTypeIdentifier: public.email-message

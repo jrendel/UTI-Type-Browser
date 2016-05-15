@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.keynote.kth
+- com.apple.package
+- public.presentation
+UTTypeDescription: Keynote theme
+UTTypeIdentifier: com.apple.iWork.Keynote.kth
+UTTypeReferenceURL: http://www.apple.com/iwork/keynote/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - kth

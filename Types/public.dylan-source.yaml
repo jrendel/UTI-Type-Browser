@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Dylan source code
+UTTypeIdentifier: public.dylan-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dlyan
+  - lid

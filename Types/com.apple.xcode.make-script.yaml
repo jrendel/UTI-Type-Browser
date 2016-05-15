@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.script
+UTTypeIdentifier: com.apple.xcode.make-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - make

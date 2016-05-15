@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: VHDL source file
+UTTypeIdentifier: com.barebones.bbedit.vhdl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vhd
+  - vhdl

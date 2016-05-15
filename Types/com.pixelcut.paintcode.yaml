@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: PaintCode 1.0 Document
+UTTypeIdentifier: com.pixelcut.paintcode
+UTTypeReferenceURL: http://www.pixelcut.com
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ????
+  public.filename-extension:
+  - paintcode

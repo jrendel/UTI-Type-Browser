@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: iDVD items
+UTTypeIdentifier: com.apple.idvd.item-object

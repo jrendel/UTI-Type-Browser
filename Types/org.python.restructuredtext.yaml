@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: reStructuredText document
+UTTypeIdentifier: org.python.restructuredtext
+UTTypeReferenceURL: http://docutils.sourceforge.net/rst.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rest
+  - rst

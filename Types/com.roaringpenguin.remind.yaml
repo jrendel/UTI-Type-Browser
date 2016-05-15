@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Remind document
+UTTypeIdentifier: com.roaringpenguin.remind
+UTTypeReferenceURL: http://www.roaringpenguin.com/products/remind
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rem
+  - remind

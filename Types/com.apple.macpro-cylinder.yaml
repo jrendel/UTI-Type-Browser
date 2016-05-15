@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.macpro
+UTTypeDescription: Mac Pro
+UTTypeIconFile: com.apple.macpro-cylinder.icns
+UTTypeIdentifier: com.apple.macpro-cylinder
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacPro6,1

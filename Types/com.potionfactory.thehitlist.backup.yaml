@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: The Hit List Backup
+UTTypeIconFile: Backup.icns
+UTTypeIdentifier: com.potionfactory.thehitlist.backup
+UTTypeReferenceURL: http://www.potionfactory.com/thehitlist/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - thlbackup

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- cx.c3.compress-archive
+UTTypeDescription: Unix Compress Tar Archive
+UTTypeIconFile: z.icns
+UTTypeIdentifier: cx.c3.compress-tar-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tar-z
+  - taz

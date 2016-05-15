@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.font
+UTTypeDescription: OpenType Collection font
+UTTypeIdentifier: com.apple.otc-font
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otc

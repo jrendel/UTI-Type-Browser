@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.macmini
+UTTypeIdentifier: com.apple.macmini-unibody
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Macmini4,1

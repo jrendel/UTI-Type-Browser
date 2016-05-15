@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SQL with embedded Ruby
+UTTypeIdentifier: org.rubyonrails.erb-sql
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erbsql

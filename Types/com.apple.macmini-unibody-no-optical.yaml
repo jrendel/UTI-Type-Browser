@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.macmini
+UTTypeIdentifier: com.apple.macmini-unibody-no-optical
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Macmini
+  - Macmini5,1
+  - Macmini5,2
+  - Macmini5,3
+  - Macmini6,1
+  - Macmini6,2

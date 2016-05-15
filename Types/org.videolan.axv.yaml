@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Annodex Video File
+UTTypeIdentifier: org.videolan.axv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - axv

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.apple.mac.tower
+UTTypeDescription: Mac Pro
+UTTypeIdentifier: com.apple.macpro
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacPro
+  - MacPro1,1
+  - MacPro2,1
+  - MacPro3,1
+  - MacPro4,1
+  - MacPro5,1

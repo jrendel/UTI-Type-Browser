@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Inform 7 extension file
+UTTypeIdentifier: org.inform-fiction.inform7.extension
+UTTypeTagSpecification:
+  public.filename-extension:
+  - i7x

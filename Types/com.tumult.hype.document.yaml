@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Hype Document
+UTTypeIconFile: HypeDocument.icns
+UTTypeIdentifier: com.tumult.hype.document
+UTTypeReferenceURL: http://tumult.com/hype/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hype

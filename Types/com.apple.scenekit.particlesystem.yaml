@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: SceneKit Particle System Document (.scnp)
+UTTypeIdentifier: com.apple.scenekit.particlesystem
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scnp

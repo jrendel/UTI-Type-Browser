@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.delimited-values-text
+UTTypeDescription: tab-separated values
+UTTypeIdentifier: public.tab-separated-values-text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tsv
+  public.mime-type:
+  - text/tab-separated-values

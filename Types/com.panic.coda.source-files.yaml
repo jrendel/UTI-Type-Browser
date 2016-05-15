@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Misc
+UTTypeIdentifier: com.panic.coda.source-files
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cpt
+  - dtd
+  - pm
+  - sgml
+  - sh
+  - xsl
+  - xslt
+  - yaml
+  public.mime-type:
+  - text/plain

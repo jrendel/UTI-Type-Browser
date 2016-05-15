@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 6s Plus
+UTTypeIconFile: com.apple.iphone-6s-plus-b9b7ba.icns
+UTTypeIdentifier: com.apple.iphone-6s-plus-b9b7ba
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N66AP
+  - N66mAP
+  - iPhone
+  - iPhone8,2

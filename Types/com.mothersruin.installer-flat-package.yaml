@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Installer package
+UTTypeIdentifier: com.mothersruin.installer-flat-package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pkg

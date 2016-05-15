@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+- public.item
+- public.movie
+UTTypeDescription: Motion Transition
+UTTypeIconFile: Transition.icns
+UTTypeIdentifier: com.apple.motion.transition
+UTTypeReferenceURL: http://www.apple.com/motion/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - motr

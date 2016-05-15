@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.application
+- com.apple.localizable-name-bundle
+- com.apple.package
+UTTypeIdentifier: com.apple.application-bundle
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - APPL
+  public.filename-extension:
+  - app

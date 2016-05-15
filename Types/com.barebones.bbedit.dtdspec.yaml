@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: BBEdit DTD specification
+UTTypeIdentifier: com.barebones.bbedit.dtdspec
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dtdspec

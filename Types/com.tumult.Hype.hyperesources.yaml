@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- ''
+UTTypeIdentifier: com.tumult.Hype.hyperesources
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hyperesources

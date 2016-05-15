@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 3 (Model A1601)
+UTTypeIconFile: com.apple.ipad-mini3-wwan-b4b5b9.icns
+UTTypeIdentifier: com.apple.ipad-mini3-A1601-b4b5b9
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J87mAP
+  - iPad4,9

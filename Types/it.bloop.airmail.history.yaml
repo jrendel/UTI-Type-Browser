@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: History
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.history
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  public.mime-type:
+  - application/octet-stream

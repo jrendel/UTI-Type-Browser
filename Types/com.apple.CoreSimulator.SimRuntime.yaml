@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.CoreSimulator.bundle
+UTTypeDescription: Simulator Runtime
+UTTypeIdentifier: com.apple.CoreSimulator.SimRuntime
+UTTypeTagSpecification:
+  public.filename-extension:
+  - simruntime

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Java Web Installer (XML)
+UTTypeIdentifier: org.n8gray.javaInstaller
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jnlp

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 6 Plus
+UTTypeIconFile: com.apple.iphone-6-plus-b4b5b9.icns
+UTTypeIdentifier: com.apple.iphone-6-plus-b4b5b9
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N56AP
+  - iPhone
+  - iPhone7,1

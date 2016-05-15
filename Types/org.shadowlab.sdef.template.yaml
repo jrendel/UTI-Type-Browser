@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: Sdef Editor Template
+UTTypeIdentifier: org.shadowlab.sdef.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sdtpl

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: search options
+UTTypeIdentifier: com.apple.cocoa.pasteboard.find-panel-search-options
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSFindPanel search options pasteboard type

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.pkware.zip-archive
+UTTypeDescription: iOS Device Backup
+UTTypeIdentifier: com.apple.configurator.ios-backup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iosdevicebackup

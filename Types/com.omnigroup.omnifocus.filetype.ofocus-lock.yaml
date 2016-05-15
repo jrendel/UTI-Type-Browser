@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: com.omnigroup.omnifocus.filetype.ofocus-lock
+UTTypeIconName: Document.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-lock
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-lock

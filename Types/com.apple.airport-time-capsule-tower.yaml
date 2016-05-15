@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.time-capsule
+UTTypeDescription: Time Capsule
+UTTypeIdentifier: com.apple.airport-time-capsule-tower
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - TimeCapsule8,119

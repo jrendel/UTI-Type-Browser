@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: QLColorCode Test File
+UTTypeIdentifier: org.n8gray.bogusextension
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bogus_extension

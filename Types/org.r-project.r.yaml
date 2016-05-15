@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: R source
+UTTypeIdentifier: org.r-project.r
+UTTypeReferenceURL: http://www.r-project.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - r
+  - s

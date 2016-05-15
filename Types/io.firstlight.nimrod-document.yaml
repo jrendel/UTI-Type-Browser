@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Nimrod Document
+UTTypeIdentifier: io.firstlight.nimrod-document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nimrod-document

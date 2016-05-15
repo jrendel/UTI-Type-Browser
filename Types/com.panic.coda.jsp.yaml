@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: JavaServer Pages file
+UTTypeIdentifier: com.panic.coda.jsp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jsp
+  - jspx
+  - sqljsp
+  public.mime-type:
+  - text/html

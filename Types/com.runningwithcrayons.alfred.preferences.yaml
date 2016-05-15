@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Alfred Preferences
+UTTypeIconFile: appicon
+UTTypeIdentifier: com.runningwithcrayons.alfred.preferences
+UTTypeTagSpecification:
+  public.filename-extension:
+  - alfredpreferences

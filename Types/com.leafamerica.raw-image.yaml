@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Leaf raw image
+UTTypeIdentifier: com.leafamerica.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mos

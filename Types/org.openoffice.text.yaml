@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Text
+UTTypeIdentifier: org.openoffice.text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sdw
+  - sxw
+  public.mime-type:
+  - application/vnd.stardivision.writer
+  - application/vnd.sun.xml.writer

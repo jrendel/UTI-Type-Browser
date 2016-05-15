@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.mac
+UTTypeDescription: Mac mini
+UTTypeIdentifier: com.apple.macmini

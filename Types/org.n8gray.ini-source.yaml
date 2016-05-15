@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: .ini Source File
+UTTypeIdentifier: org.n8gray.ini-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ini
+  public.mime-type:
+  - text/x-ini

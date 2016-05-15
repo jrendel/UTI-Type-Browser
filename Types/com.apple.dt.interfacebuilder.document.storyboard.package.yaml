@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.dt.interfacebuilder.document.storyboard
+- com.apple.package
+UTTypeDescription: Interface Builder Compiled Storyboard Document
+UTTypeIdentifier: com.apple.dt.interfacebuilder.document.storyboard.package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - storyboardc

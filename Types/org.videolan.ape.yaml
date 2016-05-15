@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Monkey's Audio Lossless Audio
+UTTypeIdentifier: org.videolan.ape
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ape

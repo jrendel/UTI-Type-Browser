@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.html
+UTTypeDescription: iTunes LP
+UTTypeIdentifier: com.apple.iTunes.itlp
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - itlp
+  public.filename-extension:
+  - itlp

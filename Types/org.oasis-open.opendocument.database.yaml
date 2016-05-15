@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Open Document database
+UTTypeIdentifier: org.oasis-open.opendocument.database
+UTTypeTagSpecification:
+  public.filename-extension:
+  - odb
+  public.mime-type:
+  - application/vnd.oasis.opendocument.database

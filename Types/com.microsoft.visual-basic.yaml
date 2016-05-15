@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: VisualBasic
+UTTypeIdentifier: com.microsoft.visual-basic
+UTTypeReferenceURL: http://msdn.microsoft.com/en-US/vstudio/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vb

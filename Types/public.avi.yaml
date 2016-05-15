@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: AVI movie
+UTTypeIdentifier: public.avi
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'VfW '
+  - 'Vfw '
+  public.filename-extension:
+  - avi
+  - vfw
+  public.mime-type:
+  - video/avi
+  - video/msvideo
+  - video/x-msvideo

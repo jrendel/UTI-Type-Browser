@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- org.khronos.glsl-source
+UTTypeIdentifier: org.khronos.glsl.vertex-shader
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vert
+  - vertex
+  - vs
+  - vsh

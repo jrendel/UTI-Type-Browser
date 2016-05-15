@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: Burn Folder
+UTTypeIdentifier: com.apple.finder.burn-folder
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - bfld
+  public.filename-extension:
+  - fpbf

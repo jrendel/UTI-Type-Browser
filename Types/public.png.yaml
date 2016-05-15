@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Portable Network Graphics image
+UTTypeIdentifier: public.png
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple PNG pasteboard type
+  com.apple.ostype:
+  - PNGf
+  public.filename-extension:
+  - png
+  public.mime-type:
+  - image/png

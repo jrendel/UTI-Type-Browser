@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: DoubleTake Test
+UTTypeIdentifier: com.echoone.doubletake.dttest
+UTTypeReferenceURL: http://echoone.com/doubletake/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dttest

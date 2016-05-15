@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: Microsoft Windows application
+UTTypeIdentifier: com.microsoft.windows-executable
+UTTypeTagSpecification:
+  public.filename-extension:
+  - exe
+  public.mime-type:
+  - application/x-msdownload

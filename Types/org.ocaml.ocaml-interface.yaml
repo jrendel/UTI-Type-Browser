@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: OCaml Interface File
+UTTypeIdentifier: org.ocaml.ocaml-interface
+UTTypeReferenceURL: http://www.ocaml.org/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mli

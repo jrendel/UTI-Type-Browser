@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: OmniFocus Task Pasteboard (v1)
+UTTypeIdentifier: com.omnigroup.omnifocus.pboard.tasks.v1
+UTTypeTagSpecification: {}

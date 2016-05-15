@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.delimited-values-text
+UTTypeDescription: Microsoft Project Exchange (MPX)
+UTTypeIdentifier: com.microsoft.mpx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mpx

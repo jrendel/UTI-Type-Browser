@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.xml
+UTTypeDescription: Microsoft Word 2003 XML document
+UTTypeIdentifier: com.microsoft.word.wordml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xml

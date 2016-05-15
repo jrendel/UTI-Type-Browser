@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Pass
+UTTypeIdentifier: com.apple.pkpass-data
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pkpass

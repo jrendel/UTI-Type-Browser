@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Advanced Streaming Format
+UTTypeIdentifier: org.videolan.asf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asf

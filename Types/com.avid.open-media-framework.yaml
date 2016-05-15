@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+UTTypeDescription: Open Media Framework interchange format
+UTTypeIdentifier: com.avid.open-media-framework
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'OMF '
+  public.filename-extension:
+  - omf

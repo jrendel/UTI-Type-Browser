@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Acorn Brush
+UTTypeIconFile: AcornBrushIcon
+UTTypeIdentifier: com.flyingmeat.acornbrush
+UTTypeTagSpecification:
+  public.filename-extension:
+  - acbrush

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Araxis Merge Options
+UTTypeIconFile: MergeSavedOptions
+UTTypeIdentifier: com.araxis.merge.options
+UTTypeReferenceURL: http://www.araxis.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AMmo
+  public.filename-extension:
+  - mergeoptions
+public.mime-type: application/octet-stream

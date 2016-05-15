@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.presentation
+- public.zip-archive
+UTTypeDescription: Keynote document
+UTTypeIdentifier: com.apple.iWork.Keynote.sffkey
+UTTypeReferenceURL: http://www.apple.com/iwork/keynote/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - key
+  public.mime-type:
+  - application/x-iwork-keynote-sffkey

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Synalyze It! Script
+UTTypeIdentifier: net.synalysis.script
+UTTypeReferenceURL: http://www.synalysis.net/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - script

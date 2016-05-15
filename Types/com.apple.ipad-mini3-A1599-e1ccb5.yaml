@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 3 (Model A1599)
+UTTypeIconFile: com.apple.ipad-mini3-wifi-e1ccb5.icns
+UTTypeIdentifier: com.apple.ipad-mini3-A1599-e1ccb5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J85mAP
+  - iPad4,7

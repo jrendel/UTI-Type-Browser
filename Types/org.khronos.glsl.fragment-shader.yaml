@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.khronos.glsl-source
+UTTypeIdentifier: org.khronos.glsl.fragment-shader
+UTTypeTagSpecification:
+  public.filename-extension:
+  - frag
+  - fragment
+  - fragsh
+  - fs
+  - fsh

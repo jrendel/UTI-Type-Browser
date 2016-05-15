@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: XHTML Source File
+UTTypeIdentifier: org.n8gray.xhtml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xhtml

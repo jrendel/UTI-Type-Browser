@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: HTML Task List
+UTTypeIdentifier: com.omnigroup.omniplan.HTMLTaskList
+UTTypeTagSpecification:
+  public.filename-extension:
+  - html

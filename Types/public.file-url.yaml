@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.url
+UTTypeDescription: file URL
+UTTypeIdentifier: public.file-url
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - furl

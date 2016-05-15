@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: TGA image
+UTTypeIdentifier: com.truevision.tga-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TPIC
+  public.filename-extension:
+  - tga
+  public.mime-type:
+  - application/tga
+  - image/targa
+  - image/tga

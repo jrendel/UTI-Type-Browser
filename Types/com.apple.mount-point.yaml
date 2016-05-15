@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.item
+UTTypeDescription: mount point
+UTTypeIdentifier: com.apple.mount-point

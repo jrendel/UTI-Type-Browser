@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch (4th generation)
+UTTypeIconFile: com.apple.ipod-touch-4-black.icns
+UTTypeIdentifier: com.apple.ipod-touch-4-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N81AP
+  - iPod
+  - iPod4,1

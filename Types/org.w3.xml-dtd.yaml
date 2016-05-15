@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Document Type Definition
+UTTypeIdentifier: org.w3.xml-dtd
+UTTypeReferenceURL: http://www.w3.org/XML/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dtd
+  public.mime-type:
+  - application/xml-dtd

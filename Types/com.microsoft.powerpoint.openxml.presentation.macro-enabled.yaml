@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.microsoft.powerpoint.openxml.presentation
+- public.data
+UTTypeDescription: Microsoft PowerPoint document
+UTTypeIdentifier: com.microsoft.powerpoint.openxml.presentation.macro-enabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PPTM
+  public.filename-extension:
+  - pptm
+  public.mime-type:
+  - application/vnd.ms-powerpoint.presentation.macroEnabled.12

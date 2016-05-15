@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: BBEdit text factory
+UTTypeIdentifier: com.barebones.bbedit.text-factory
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TxEN
+  public.filename-extension:
+  - textfactory

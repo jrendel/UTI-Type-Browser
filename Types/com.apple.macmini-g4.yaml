@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.macmini
+UTTypeIdentifier: com.apple.macmini-g4
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac10,1
+  - PowerMac10,2

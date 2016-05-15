@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SQL source file
+UTTypeIdentifier: com.barebones.bbedit.sql-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mssql
+  - mysql
+  - pgsql
+  - pls
+  - sql
+  - tql

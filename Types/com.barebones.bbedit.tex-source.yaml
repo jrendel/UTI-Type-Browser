@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: TeX source file
+UTTypeIdentifier: com.barebones.bbedit.tex-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - latex
+  - tex

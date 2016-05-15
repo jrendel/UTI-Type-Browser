@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.lex-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - l
+  - lm
+  - lmm
+  - lpp
+  - lxx

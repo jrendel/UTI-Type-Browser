@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Open TL format
+UTTypeIdentifier: com.tascam.opentl
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - OPTL
+  public.filename-extension:
+  - tl

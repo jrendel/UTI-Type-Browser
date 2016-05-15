@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+- public.spreadsheet
+UTTypeDescription: Numbers document
+UTTypeIdentifier: com.apple.iWork.Numbers.numbers
+UTTypeReferenceURL: http://www.apple.com/iwork/numbers/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - numbers

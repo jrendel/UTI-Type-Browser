@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: Mail Cached IMAP Mailbox
+UTTypeIconFile: mailbox.icns
+UTTypeIdentifier: com.apple.mail.imapmbox
+UTTypeTagSpecification:
+  public.filename-extension:
+  - imapmbox

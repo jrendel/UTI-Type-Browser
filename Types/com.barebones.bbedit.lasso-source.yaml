@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lasso source file
+UTTypeIdentifier: com.barebones.bbedit.lasso-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lasso

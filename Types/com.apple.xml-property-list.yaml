@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.property-list
+- public.xml
+UTTypeDescription: XML property list
+UTTypeIdentifier: com.apple.xml-property-list
+UTTypeTagSpecification:
+  public.filename-extension:
+  - plist

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Slow Motion Video Sidecar
+UTTypeIdentifier: com.apple.photos.apple-adjustment-envelope
+UTTypeTagSpecification:
+  public.filename-extension:
+  - aae

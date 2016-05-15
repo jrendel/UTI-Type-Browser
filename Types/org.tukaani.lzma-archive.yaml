@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LZMA File
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: org.tukaani.lzma-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lzma

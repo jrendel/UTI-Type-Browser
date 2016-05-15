@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.application
+- public.data
+UTTypeIdentifier: com.apple.application-file
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - APPL
+  public.filename-extension:
+  - app

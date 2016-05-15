@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Adobe Photoshop brushes file
+UTTypeIdentifier: com.adobe.photoshop.brush
+UTTypeTagSpecification:
+  public.filename-extension:
+  - abr

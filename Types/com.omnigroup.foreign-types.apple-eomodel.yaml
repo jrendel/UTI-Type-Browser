@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: EOModeler Model
+UTTypeIdentifier: com.omnigroup.foreign-types.apple-eomodel
+UTTypeTagSpecification:
+  public.filename-extension:
+  - eomodeld

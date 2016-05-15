@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.truetype-font
+UTTypeDescription: TrueType OpenType font
+UTTypeIdentifier: public.truetype-ttf-font
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ttf

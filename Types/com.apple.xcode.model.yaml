@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeIdentifier: com.apple.xcode.model
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/

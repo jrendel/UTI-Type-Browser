@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad mini (Model A1517)
+UTTypeIconFile: com.apple.ipad-mini2-99989b.icns
+UTTypeIdentifier: com.apple.ipad-mini2-A1517-99989b
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J86AP
+  - iPad4,5

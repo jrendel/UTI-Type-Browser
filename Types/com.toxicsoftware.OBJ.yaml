@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: OBJ file
+UTTypeIdentifier: com.toxicsoftware.OBJ
+UTTypeTagSpecification:
+  public.filename-extension:
+  - obj

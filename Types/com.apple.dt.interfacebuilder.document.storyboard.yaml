@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Interface Builder Storyboard Document
+UTTypeIdentifier: com.apple.dt.interfacebuilder.document.storyboard
+UTTypeTagSpecification:
+  public.filename-extension:
+  - storyboard

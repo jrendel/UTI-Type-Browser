@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Meridian Lossless Packing Audio File
+UTTypeIdentifier: org.videolan.mlp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mlp

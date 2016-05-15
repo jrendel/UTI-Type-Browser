@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.structured-text
+UTTypeDescription: Transit Information (Structured Text)
+UTTypeIdentifier: com.apple.structured-text.transit-information

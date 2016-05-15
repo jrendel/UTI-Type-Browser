@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: text
+UTTypeIdentifier: public.text

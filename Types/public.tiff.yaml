@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: TIFF image
+UTTypeIdentifier: public.tiff
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSTIFFPboardType
+  - NeXT TIFF v4.0 pasteboard type
+  com.apple.ostype:
+  - TIFF
+  public.filename-extension:
+  - tif
+  - tiff
+  public.mime-type:
+  - image/tiff

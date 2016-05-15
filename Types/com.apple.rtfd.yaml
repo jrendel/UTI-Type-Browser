@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: rich text with attachments (RTFD)
+UTTypeIdentifier: com.apple.rtfd
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rtfd

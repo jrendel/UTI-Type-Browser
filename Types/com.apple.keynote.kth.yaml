@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.presentation
+UTTypeDescription: Keynote theme
+UTTypeIdentifier: com.apple.keynote.kth

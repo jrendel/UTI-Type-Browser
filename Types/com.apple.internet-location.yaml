@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: internet location
+UTTypeIdentifier: com.apple.internet-location

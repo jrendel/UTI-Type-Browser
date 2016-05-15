@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Visio Drawing
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vsd

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeIdentifier: com.apple.xcode.docset
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - docset

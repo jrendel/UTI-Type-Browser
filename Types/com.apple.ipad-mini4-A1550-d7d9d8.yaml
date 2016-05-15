@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 4 (Model A1550)
+UTTypeIconFile: com.apple.ipad-mini4-wwan-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-mini4-A1550-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J97AP
+  - iPad5,2

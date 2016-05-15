@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MPEG Audio File
+UTTypeIdentifier: org.videolan.mpeg-audio
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m2a
+  - m4a
+  - mp1
+  - mp2
+  - mp3
+  - mpa

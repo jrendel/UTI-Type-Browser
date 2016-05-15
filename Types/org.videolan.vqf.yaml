@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: TwinVQ Audio File
+UTTypeIdentifier: org.videolan.vqf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vqf

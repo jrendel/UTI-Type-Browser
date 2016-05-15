@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Snippet
+UTTypeIdentifier: com.macromates.textmate.snippet
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmSnippet

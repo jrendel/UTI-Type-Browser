@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 5s (Model A1453)
+UTTypeIconFile: com.apple.iphone-5s-99989b.icns
+UTTypeIdentifier: com.apple.iphone-5s-A1453-99989b
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N51AP
+  - iPhone
+  - iPhone6,1

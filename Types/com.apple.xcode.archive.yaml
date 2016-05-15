@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeIdentifier: com.apple.xcode.archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcarchive

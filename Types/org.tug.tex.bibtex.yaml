@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: BibTeX Database
+UTTypeIdentifier: org.tug.tex.bibtex
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bib

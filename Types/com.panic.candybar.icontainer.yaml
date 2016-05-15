@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Icon Container
+UTTypeIdentifier: com.panic.candybar.icontainer
+UTTypeTagSpecification:
+  public.filename-extension:
+  - icontainer

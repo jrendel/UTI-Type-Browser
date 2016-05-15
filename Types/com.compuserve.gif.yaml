@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Graphics Interchange Format (GIF)
+UTTypeIdentifier: com.compuserve.gif
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - GIFf
+  public.filename-extension:
+  - gif
+  public.mime-type:
+  - image/gif

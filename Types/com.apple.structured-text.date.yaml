@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.structured-text
+UTTypeDescription: Date (Structured Text)
+UTTypeIdentifier: com.apple.structured-text.date

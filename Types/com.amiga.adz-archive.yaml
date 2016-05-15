@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Compressed Amiga Disk File
+UTTypeIconFile: adz.icns
+UTTypeIdentifier: com.amiga.adz-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - adz

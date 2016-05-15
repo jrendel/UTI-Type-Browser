@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: music album
+UTTypeIdentifier: com.apple.tv.music-album

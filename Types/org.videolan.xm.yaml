@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: XM audio file
+UTTypeIdentifier: org.videolan.xm
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xm

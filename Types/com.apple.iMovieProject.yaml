@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.apple.iMovieProject
+UTTypeTagSpecification:
+  public.filename-extension:
+  - imovieproject

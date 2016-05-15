@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mac.tower
+UTTypeDescription: Power Mac
+UTTypeIdentifier: com.apple.powermac
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac

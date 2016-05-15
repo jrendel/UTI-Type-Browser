@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.audiovisual-content
+UTTypeDescription: MagicMentor GarageBand Template
+UTTypeIconFile: GarageBand Document.icns
+UTTypeIdentifier: com.apple.garageband.template.magicmentor
+UTTypeReferenceURL: http://www.apple.com/ilife/garageband/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mwand

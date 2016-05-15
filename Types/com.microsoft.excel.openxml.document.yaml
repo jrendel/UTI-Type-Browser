@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.data
+UTTypeDescription: Excel 2010 Format (xlsx)
+UTTypeIdentifier: com.microsoft.excel.openxml.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlsx

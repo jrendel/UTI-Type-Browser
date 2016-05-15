@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- com.pkware.zip-archive
+- public.zip-archive
+UTTypeDescription: Zip Archive
+UTTypeIconFile: Zip
+UTTypeIdentifier: com.macitbetter.zip-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - epub
+  - nth
+  - pk3
+  - pk4
+  - swc
+  - xpi

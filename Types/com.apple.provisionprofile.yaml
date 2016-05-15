@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+- public.item
+- public.text
+- public.xml
+UTTypeIdentifier: com.apple.provisionprofile
+UTTypeTagSpecification: {}

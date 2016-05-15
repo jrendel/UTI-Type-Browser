@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: XPC Service
+UTTypeIdentifier: com.apple.xpc-service
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xpc

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.tab-separated-values-text
+- public.utf8-plain-text
+UTTypeIdentifier: public.utf8-tab-separated-values-text
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NeXT tabular text pasteboard type

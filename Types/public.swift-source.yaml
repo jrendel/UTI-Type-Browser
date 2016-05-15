@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Swift Source Code
+UTTypeIdentifier: public.swift-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - swift

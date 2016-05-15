@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 4 (CDMA)
+UTTypeIconFile: com.apple.iphone-4-cdma-white.icns
+UTTypeIdentifier: com.apple.iphone-4-cdma-white
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N92AP
+  - iPhone3,3

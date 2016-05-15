@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeIdentifier: com.apple.xcode.plugindata
+UTTypeTagSpecification:
+  public.filename-extension:
+  - plugindata

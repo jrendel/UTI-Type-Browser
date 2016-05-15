@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga DCS Disk Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.dcs-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dcs

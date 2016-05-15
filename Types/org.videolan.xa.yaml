@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: The Sims Audio File
+UTTypeIdentifier: org.videolan.xa
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xa

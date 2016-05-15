@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Adobe Acrobat Forms Document (XFDF)
+UTTypeIdentifier: com.adobe.xfdf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xfdf

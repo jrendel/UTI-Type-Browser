@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.omnigroup.applescript.object
+UTTypeDescription: OmniOutliner row
+UTTypeIdentifier: com.omnigroup.omnioutliner.item-reference

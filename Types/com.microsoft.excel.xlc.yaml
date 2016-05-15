@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.xlc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlc

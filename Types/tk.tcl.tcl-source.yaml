@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Tcl Source File
+UTTypeIdentifier: tk.tcl.tcl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tcl

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Coda Syntax Mode
+UTTypeIconFile: ''
+UTTypeIdentifier: com.panic.coda.mode
+UTTypeReferenceURL: http://www.panic.com/coda/developer/howto/modes.php
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mode

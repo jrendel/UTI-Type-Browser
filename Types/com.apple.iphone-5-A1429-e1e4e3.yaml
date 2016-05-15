@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 5 (Model A1429)
+UTTypeIconFile: com.apple.iphone-5-white.icns
+UTTypeIdentifier: com.apple.iphone-5-A1429-e1e4e3
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N42AP
+  - iPhone
+  - iPhone5,2

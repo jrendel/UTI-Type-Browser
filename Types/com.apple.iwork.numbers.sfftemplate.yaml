@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.spreadsheet
+- public.zip-archive
+UTTypeDescription: Numbers Template
+UTTypeIdentifier: com.apple.iwork.numbers.sfftemplate
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nmbtemplate
+  public.mime-type:
+  - application/x-iwork-numbers-sfftemplate

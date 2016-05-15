@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Apple QuickTime container
+UTTypeIdentifier: org.videolan.quicktime
+UTTypeTagSpecification:
+  public.filename-extension:
+  - moov
+  - mov
+  - qt

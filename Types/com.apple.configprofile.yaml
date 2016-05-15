@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: configuration profile
+UTTypeIdentifier: com.apple.configprofile
+UTTypeTagSpecification:
+  public.filename-extension:
+  - configprofile

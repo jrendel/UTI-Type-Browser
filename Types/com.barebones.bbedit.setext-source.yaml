@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Setext source file
+UTTypeIdentifier: com.barebones.bbedit.setext-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - etx
+  - setext
+  - stx

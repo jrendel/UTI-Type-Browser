@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.xml
+UTTypeDescription: OmniOutliner 3 document
+UTTypeIdentifier: com.omnigroup.omnioutliner.oo3
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - OutL
+  public.filename-extension:
+  - oo3

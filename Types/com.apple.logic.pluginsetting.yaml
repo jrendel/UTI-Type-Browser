@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Logic Audio Plug-In Setting proprietary format
+UTTypeIconFile: LogicPluginSetting.icns
+UTTypeIdentifier: com.apple.logic.pluginsetting
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - EM9S
+  public.filename-extension:
+  - pst

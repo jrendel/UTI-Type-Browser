@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: C# source
+UTTypeIdentifier: com.microsoft.c-sharp
+UTTypeReferenceURL: http://www.microsoft.com/en-us/download/details.aspx?id=7029
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cs

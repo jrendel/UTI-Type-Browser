@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Script bundle
+UTTypeIconFile: SEScriptDocument
+UTTypeIdentifier: com.apple.applescript.script-bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scptd

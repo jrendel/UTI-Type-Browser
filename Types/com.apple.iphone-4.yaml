@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 4
+UTTypeIdentifier: com.apple.iphone-4
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N90AP
+  - iPhone
+  - iPhone3,1

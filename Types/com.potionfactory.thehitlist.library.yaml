@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: The Hit List Library
+UTTypeIconFile: Library.icns
+UTTypeIdentifier: com.potionfactory.thehitlist.library
+UTTypeReferenceURL: http://www.potionfactory.com/thehitlist/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - thllibrary

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch (2nd generation, Rev A)
+UTTypeIconFile: com.apple.ipod-touch-2.icns
+UTTypeIdentifier: com.apple.ipod-touch-2b
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N72BAP
+  - iPod2,2

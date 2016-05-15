@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.calendar-event
+- public.item
+- public.text
+UTTypeDescription: VCS File
+UTTypeIdentifier: com.apple.ical.vcs
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vcal
+  - vcs
+  public.mime-type:
+  - text/x-vcalendar

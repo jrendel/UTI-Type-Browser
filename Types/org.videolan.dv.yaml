@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: DV file
+UTTypeIdentifier: org.videolan.dv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dv

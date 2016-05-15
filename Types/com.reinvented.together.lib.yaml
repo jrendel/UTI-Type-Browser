@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Together Library
+UTTypeIconFile: LibraryDocument
+UTTypeIdentifier: com.reinvented.together.lib
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trlib

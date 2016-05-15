@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Evernote Note
+UTTypeIdentifier: com.evernote.note-metadata
+UTTypeReferenceURL: http://www.evernote.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ennote

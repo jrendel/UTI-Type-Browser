@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: XML Localization Interchange File Format
+UTTypeIconFile: XLIFF_Icon.icns
+UTTypeIdentifier: org.oasis-open.xliff
+UTTypeReferenceURL: http://docs.oasis-open.org/xliff/xliff-core/xliff-core.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlf
+  - xliff
+  public.mime-type:
+  - application/x-xliff+xml

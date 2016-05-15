@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Groovy Source Code
+UTTypeIdentifier: org.codehaus.groovy-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - groovy

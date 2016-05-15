@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Windows cursor image
+UTTypeIdentifier: com.microsoft.cur
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cur

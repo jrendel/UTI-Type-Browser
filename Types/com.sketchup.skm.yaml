@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: SketchUp Materials file
+UTTypeIdentifier: com.sketchup.skm
+UTTypeReferenceURL: http://www.sketchup.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - skm

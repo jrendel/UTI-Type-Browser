@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: text with multimedia
+UTTypeIdentifier: com.apple.txn.text-multimedia-data
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - txtn

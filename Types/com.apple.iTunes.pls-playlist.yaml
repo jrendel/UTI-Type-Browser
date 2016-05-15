@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.playlist
+- public.text
+UTTypeDescription: PLS Playlist
+UTTypeIdentifier: com.apple.iTunes.pls-playlist
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pls
+  public.mime-type:
+  - audio/x-scpls

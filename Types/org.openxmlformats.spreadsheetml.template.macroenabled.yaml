@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Excel 2007/2010 Open XML macro-enabled workbook template
+  file
+UTTypeIdentifier: org.openxmlformats.spreadsheetml.template.macroenabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLTM
+  public.filename-extension:
+  - xltm

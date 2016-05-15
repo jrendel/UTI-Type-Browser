@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: public.xml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - XHTML
+  - XML
+  - xhtml
+  - xml

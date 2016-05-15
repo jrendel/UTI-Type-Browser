@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Drawing Template
+UTTypeIdentifier: org.openoffice.graphics-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - std
+  public.mime-type:
+  - application/vnd.sun.xml.draw.template

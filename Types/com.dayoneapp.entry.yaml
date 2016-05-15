@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.xml-property-list
+UTTypeDescription: Day One Entry
+UTTypeIconFile: agent-icon
+UTTypeIdentifier: com.dayoneapp.entry
+UTTypeReferenceURL: http://www.dayoneapp.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - doentry

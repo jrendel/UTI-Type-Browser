@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: script
+UTTypeIdentifier: public.script

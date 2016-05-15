@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: AirPort Express
+UTTypeIdentifier: com.apple.airport-express
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AirPort4
+  - AirPort4,102
+  - AirPort4,107

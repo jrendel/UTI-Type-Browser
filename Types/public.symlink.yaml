@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.item
+UTTypeDescription: symbolic link
+UTTypeIdentifier: public.symlink

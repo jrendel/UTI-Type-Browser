@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.executable
+- public.source-code
+UTTypeDescription: JavaScript
+UTTypeIdentifier: com.netscape.javascript-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - javascript
+  - js
+  - jscript
+  public.mime-type:
+  - text/javascript

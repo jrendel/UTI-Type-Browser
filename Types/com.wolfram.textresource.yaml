@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Mathematica Text Resource
+UTTypeIconFile: Notebook.icns
+UTTypeIdentifier: com.wolfram.textresource
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tr

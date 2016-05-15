@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: iMovie Theater
+UTTypeIdentifier: com.apple.iMovieTheater
+UTTypeTagSpecification:
+  public.filename-extension:
+  - theater

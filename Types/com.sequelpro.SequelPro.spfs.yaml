@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Sequel Pro Session
+UTTypeIconFile: ''
+UTTypeIdentifier: com.sequelpro.SequelPro.spfs
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - connections
+  public.filename-extension:
+  - spfs

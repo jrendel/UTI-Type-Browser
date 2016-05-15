@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.c-plus-plus-header
+UTTypeDescription: C++ Inline Header
+UTTypeIdentifier: public.c-plus-plus-inline-header
+UTTypeTagSpecification:
+  public.filename-extension:
+  - inl

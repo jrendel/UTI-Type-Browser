@@ -1,0 +1,18 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LhA Archive
+UTTypeIconFile: lha.icns
+UTTypeIdentifier: cx.c3.lha-archive
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'LHA '
+  public.filename-extension:
+  - lha
+  - lzh
+  public.mime-type:
+  - application/lha
+  - application/lzh
+  - application/x-lha
+  - application/x-lzh
+  - application/x-lzh-compressed

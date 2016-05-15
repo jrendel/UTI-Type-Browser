@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: 1Password 4 Vault
+UTTypeIconFile: opvault
+UTTypeIdentifier: com.agilebits.opvault
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opvault

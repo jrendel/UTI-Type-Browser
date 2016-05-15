@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.microsoft.word.openxml.document
+- public.data
+UTTypeDescription: Microsoft Word document
+UTTypeIdentifier: com.microsoft.word.openxml.template.macro-enabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - WXTM
+  public.filename-extension:
+  - dotm
+  public.mime-type:
+  - application/vnd.ms-word.template.macroEnabled.12

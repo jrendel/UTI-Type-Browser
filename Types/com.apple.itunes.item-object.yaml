@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: iTunes items
+UTTypeIdentifier: com.apple.itunes.item-object

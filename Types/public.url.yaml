@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: URL
+UTTypeIdentifier: public.url
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'url '

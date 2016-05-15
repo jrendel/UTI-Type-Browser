@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Pentax raw image
+UTTypeIdentifier: com.pentax.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pef

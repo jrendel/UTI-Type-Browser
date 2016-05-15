@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: C Shell script
+UTTypeIdentifier: public.csh-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - csh

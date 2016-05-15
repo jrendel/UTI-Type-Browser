@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Aperture Library
+UTTypeIdentifier: com.apple.Aperture.library
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - fslb
+  public.filename-extension:
+  - aplibrary

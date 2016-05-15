@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AAC file
+UTTypeIdentifier: org.videolan.aac
+UTTypeTagSpecification:
+  public.filename-extension:
+  - aac

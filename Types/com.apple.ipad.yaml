@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad
+UTTypeIdentifier: com.apple.ipad
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - K48AP
+  - iPad
+  - iPad1,1

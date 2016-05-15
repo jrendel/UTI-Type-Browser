@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MIDI audio
+UTTypeIdentifier: public.midi-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Midi
+  public.filename-extension:
+  - kar
+  - mid
+  - midi
+  - smf
+  public.mime-type:
+  - audio/midi
+  - audio/x-midi

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Evernote Archive
+UTTypeIdentifier: com.evernote.enex
+UTTypeTagSpecification:
+  public.filename-extension:
+  - enex

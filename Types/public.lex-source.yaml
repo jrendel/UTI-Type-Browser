@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lex source code
+UTTypeIdentifier: public.lex-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - l
+  - lm
+  - lmm
+  - lpp
+  - lxx

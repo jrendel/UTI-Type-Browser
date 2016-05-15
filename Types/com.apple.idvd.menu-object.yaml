@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.idvd.item-object
+UTTypeDescription: iDVD menus
+UTTypeIdentifier: com.apple.idvd.menu-object

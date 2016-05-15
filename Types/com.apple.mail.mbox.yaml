@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: Mail Mailbox
+UTTypeIconFile: mailbox.icns
+UTTypeIdentifier: com.apple.mail.mbox
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mbox

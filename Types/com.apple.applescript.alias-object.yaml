@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Files/Folders
+UTTypeIdentifier: com.apple.applescript.alias-object

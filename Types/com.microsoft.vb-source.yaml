@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Visual Basic Source File
+UTTypeIdentifier: com.microsoft.vb-source
+UTTypeReferenceURL: http://www.microsoft.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vb

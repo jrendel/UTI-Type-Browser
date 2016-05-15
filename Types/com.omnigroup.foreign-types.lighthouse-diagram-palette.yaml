@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.content
+UTTypeDescription: Lighthouse Diagram2 Palette
+UTTypeIdentifier: com.omnigroup.foreign-types.lighthouse-diagram-palette
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dpalette2

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+- public.email-message
+UTTypeDescription: Email Message
+UTTypeIconFile: document.icns
+UTTypeIdentifier: com.apple.mail.email
+UTTypeTagSpecification:
+  public.filename-extension:
+  - eml
+  public.mime-type:
+  - message/rfc822

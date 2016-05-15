@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Simulator Bundle
+UTTypeIdentifier: com.apple.CoreSimulator.bundle

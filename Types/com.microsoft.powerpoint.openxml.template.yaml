@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+- public.presentation
+UTTypeDescription: Microsoft PowerPoint document
+UTTypeIdentifier: com.microsoft.powerpoint.openxml.template
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - POTX
+  public.filename-extension:
+  - potx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.presentationml.template

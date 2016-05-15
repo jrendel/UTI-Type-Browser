@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: PHP script
+UTTypeIdentifier: public.php-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ph3
+  - ph4
+  - php
+  - php3
+  - php4
+  - phtml
+  public.mime-type:
+  - application/php
+  - text/php
+  - text/x-php-script

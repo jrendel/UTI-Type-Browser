@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeIdentifier: public.utf16-external-plain-text
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ut16

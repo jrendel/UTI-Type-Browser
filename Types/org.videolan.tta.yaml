@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: True Audio Free Lossless Audio
+UTTypeIdentifier: org.videolan.tta
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tta

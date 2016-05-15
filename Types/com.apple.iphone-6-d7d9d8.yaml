@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 6
+UTTypeIconFile: com.apple.iphone-6-d7d9d8.icns
+UTTypeIdentifier: com.apple.iphone-6-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N61AP
+  - iPhone
+  - iPhone7,2

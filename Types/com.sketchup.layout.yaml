@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: LayOut file
+UTTypeIdentifier: com.sketchup.layout
+UTTypeReferenceURL: http://www.sketchup.com/product/layout.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - layout

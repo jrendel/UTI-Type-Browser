@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: WAVE Audio File
+UTTypeIdentifier: org.videolan.wav
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wav

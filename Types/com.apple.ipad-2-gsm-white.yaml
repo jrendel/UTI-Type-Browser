@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad 2 Wi-Fi + 3G (GSM)
+UTTypeIconFile: com.apple.ipad-2-white.icns
+UTTypeIdentifier: com.apple.ipad-2-gsm-white
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - K94AP
+  - iPad2,2

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: iMovie Library
+UTTypeIdentifier: com.apple.iMovieLibrary
+UTTypeTagSpecification:
+  public.filename-extension:
+  - imovielibrary

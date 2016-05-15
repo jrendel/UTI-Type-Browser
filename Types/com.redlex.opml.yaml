@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Mellel OPML document
+UTTypeIdentifier: com.redlex.opml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opml

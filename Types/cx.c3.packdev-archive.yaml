@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga PackDev Disk Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.packdev-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pkd

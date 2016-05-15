@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.ical.item-object
+UTTypeDescription: Calendar calendars
+UTTypeIdentifier: com.apple.ical.calendar-object

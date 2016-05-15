@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+UTTypeDescription: Open Document chart
+UTTypeIdentifier: org.oasis-open.opendocument.chart
+UTTypeTagSpecification:
+  public.filename-extension:
+  - odc
+  public.mime-type:
+  - application/vnd.oasis.opendocument.chart

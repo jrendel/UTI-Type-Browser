@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPhone
+UTTypeIdentifier: com.apple.iphone
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - M68AP
+  - iPhone1,1

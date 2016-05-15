@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Drawing
+UTTypeIdentifier: org.openoffice.graphics
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sda
+  - sxd
+  public.mime-type:
+  - application/vnd.stardivision.draw
+  - application/vnd.sun.xml.draw

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Markdown source file
+UTTypeIdentifier: net.daringfireball.markdown
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mark
+  - markdown
+  - md
+  - text

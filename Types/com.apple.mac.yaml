@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.computer
+UTTypeDescription: Mac
+UTTypeIdentifier: com.apple.mac
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Macintosh

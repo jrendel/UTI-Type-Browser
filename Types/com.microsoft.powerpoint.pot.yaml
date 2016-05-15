@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.data
+- public.presentation
+UTTypeDescription: Microsoft PowerPoint 97-2004 template
+UTTypeIdentifier: com.microsoft.powerpoint.pot
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PPOT
+  public.filename-extension:
+  - pot
+  public.mime-type:
+  - application/mspowerpoint
+  - application/vnd.ms-powerpoint

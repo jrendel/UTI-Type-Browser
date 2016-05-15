@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: Automator Action
+UTTypeIconFile: AutomatorAction.icns
+UTTypeIdentifier: com.apple.automator-action
+UTTypeReferenceURL: http://www.apple.com/macosx/features/automator/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - action

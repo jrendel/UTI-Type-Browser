@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Self-Extracting Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.apple.self-extracting-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sea

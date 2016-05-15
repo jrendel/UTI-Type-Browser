@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Automator Workflow Document
+UTTypeIconFile: AutomatorDocument.icns
+UTTypeIdentifier: com.apple.automator-workflow
+UTTypeReferenceURL: http://www.apple.com/macosx/features/automator/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - workflow

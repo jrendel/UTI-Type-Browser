@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: song or track
+UTTypeIdentifier: com.apple.tv.music-song

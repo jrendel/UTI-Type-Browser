@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: NSIS Archive
+UTTypeIconFile: Plain
+UTTypeIdentifier: org.7-zip.nsis-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nsis

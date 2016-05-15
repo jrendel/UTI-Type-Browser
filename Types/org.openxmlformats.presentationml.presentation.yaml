@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.presentation
+UTTypeDescription: Office Open XML presentation
+UTTypeIdentifier: org.openxmlformats.presentationml.presentation
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pptx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.presentationml.presentation

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.apple.iphone.developerprofile
+UTTypeTagSpecification:
+  public.filename-extension:
+  - developerprofile

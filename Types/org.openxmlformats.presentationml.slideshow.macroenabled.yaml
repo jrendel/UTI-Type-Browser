@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.executable
+- public.presentation
+UTTypeDescription: Office Open XML slide show (macros enabled)
+UTTypeIdentifier: org.openxmlformats.presentationml.slideshow.macroenabled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ppsm
+  public.mime-type:
+  - application/vnd.ms-powerpoint.slideshow.macroEnabled.12

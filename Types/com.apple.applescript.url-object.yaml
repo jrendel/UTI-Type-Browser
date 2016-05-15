@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.text-object
+UTTypeDescription: URLs
+UTTypeIdentifier: com.apple.applescript.url-object

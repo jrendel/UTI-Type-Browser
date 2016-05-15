@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.lemkesoft.itemrowb
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - rowB

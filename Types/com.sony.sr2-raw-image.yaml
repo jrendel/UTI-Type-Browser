@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Sony SR2 raw image
+UTTypeIdentifier: com.sony.sr2-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sr2
+  public.mime-type:
+  - image/x-sony-sr2

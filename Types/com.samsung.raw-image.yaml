@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Samsung raw image
+UTTypeIdentifier: com.samsung.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - srw

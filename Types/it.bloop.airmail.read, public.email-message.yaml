@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.data
+- public.email-message
+UTTypeDescription: Mail Reader
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.read, public.email-message
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  - eml
+  - emlx
+  public.mime-type:
+  - application/octet-stream
+  - message/rfc822

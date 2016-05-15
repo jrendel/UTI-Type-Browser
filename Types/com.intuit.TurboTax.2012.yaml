@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.intuit.TurboTax.tax
+UTTypeDescription: TurboTax 2012 Tax Return
+UTTypeIconFile: TaxDataFile.icns
+UTTypeIdentifier: com.intuit.TurboTax.2012
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tax12
+  - tax2012

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: System Menu Extra
+UTTypeIdentifier: com.apple.menu-extra
+UTTypeTagSpecification:
+  public.filename-extension:
+  - menu

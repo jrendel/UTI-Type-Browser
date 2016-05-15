@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: BeanShell script
+UTTypeIdentifier: org.beanshell.beanshell
+UTTypeReferenceURL: http://www.beanshell.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bsh

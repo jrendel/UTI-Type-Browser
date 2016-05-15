@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: SpriteKit Serialized Data
+UTTypeIdentifier: com.apple.spritekit.serialized
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sks

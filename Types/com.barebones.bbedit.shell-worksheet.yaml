@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: BBEdit shell worksheet
+UTTypeIdentifier: com.barebones.bbedit.shell-worksheet
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Shel
+  public.filename-extension:
+  - worksheet

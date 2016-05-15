@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-g4-17
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac4,5
+  - PowerMac6,1

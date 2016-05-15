@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.xar-archive
+UTTypeDescription: XIP Secure Archive
+UTTypeIdentifier: com.apple.xip-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xip

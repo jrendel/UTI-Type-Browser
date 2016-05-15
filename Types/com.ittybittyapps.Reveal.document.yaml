@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Reveal Document File
+UTTypeIconFile: Reveal
+UTTypeIdentifier: com.ittybittyapps.Reveal.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - RevealDocument

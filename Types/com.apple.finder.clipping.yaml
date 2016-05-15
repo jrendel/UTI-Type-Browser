@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: clipping
+UTTypeIdentifier: com.apple.finder.clipping

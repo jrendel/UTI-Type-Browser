@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeIdentifier: public.perl-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pl

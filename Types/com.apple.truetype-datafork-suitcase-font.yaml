@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.truetype-font
+UTTypeDescription: TrueType datafork font
+UTTypeIdentifier: com.apple.truetype-datafork-suitcase-font
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dfon
+  public.filename-extension:
+  - dfont

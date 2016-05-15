@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: MacBinary Archive
+UTTypeIconFile: Plain
+UTTypeIdentifier: "com.apple.macbinary-\u200Barchive"
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - BINA
+  public.filename-extension:
+  - bin
+  public.mime-type:
+  - application/macbinary
+  - application/x-macbinary

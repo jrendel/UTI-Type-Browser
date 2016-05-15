@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: image
+UTTypeIdentifier: public.image

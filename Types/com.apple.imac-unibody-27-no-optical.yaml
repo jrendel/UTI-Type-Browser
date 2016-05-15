@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-unibody-27-no-optical
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac13,2

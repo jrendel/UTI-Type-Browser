@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.apple.FinalCutProProject
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fcpproject

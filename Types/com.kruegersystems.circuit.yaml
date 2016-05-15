@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: com.kruegersystems.circuit
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cir

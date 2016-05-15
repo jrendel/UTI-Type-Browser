@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: OmniFocus Style
+UTTypeIconFile: Style.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-style
+UTTypeReferenceURL: http://www.omnigroup.com/applications/omnifocus/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-style

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Together Unloaded Web PDF
+UTTypeIconFile: UnloadedWebArchive
+UTTypeIdentifier: com.reinvented.together.pdfurl
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trpdfurl

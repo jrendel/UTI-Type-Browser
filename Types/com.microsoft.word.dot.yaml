@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Word 97-2004 template
+UTTypeIdentifier: com.microsoft.word.dot
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - W8TN
+  public.filename-extension:
+  - dot
+  public.mime-type:
+  - application/msword

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.apple-tv
+UTTypeDescription: Apple TV
+UTTypeIconFile: com.apple.apple-tv-4.icns
+UTTypeIdentifier: com.apple.apple-tv-4
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AppleTV5,3
+  - J42dAP

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.macbook-retina
+UTTypeIconFile: com.apple.macbook-retina-space-gray.icns
+UTTypeIdentifier: com.apple.macbook-retina-space-gray
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBook8,1@ECOLOR=155,158,159
+  - MacBook8,1@ECOLOR=157,157,160
+  - MacBook9,1@ECOLOR=157,157,160

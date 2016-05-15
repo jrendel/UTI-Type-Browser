@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.pascal-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pas

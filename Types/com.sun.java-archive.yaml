@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.executable
+- public.zip-archive
+UTTypeDescription: Java archive
+UTTypeIdentifier: com.sun.java-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jar
+  public.mime-type:
+  - application/java-archive

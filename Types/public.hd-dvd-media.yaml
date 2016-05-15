@@ -1,0 +1,5 @@
+UTKEXTIdentifier: com.apple.iokit.IODVDStorageFamily
+UTTypeConformsTo:
+- public.hd-dvd-based-media
+UTTypeDescription: HD DVD
+UTTypeIdentifier: public.hd-dvd-media

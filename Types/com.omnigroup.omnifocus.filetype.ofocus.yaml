@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: OmniFocus Document
+UTTypeIconName: Document.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus

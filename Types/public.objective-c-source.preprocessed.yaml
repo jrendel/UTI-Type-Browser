@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.objective-c-source
+UTTypeIdentifier: public.objective-c-source.preprocessed
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mi

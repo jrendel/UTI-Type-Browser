@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Acorn Image
+UTTypeIconFile: AcornIcon
+UTTypeIdentifier: com.flyingmeat.acorn
+UTTypeTagSpecification:
+  public.filename-extension:
+  - acorn

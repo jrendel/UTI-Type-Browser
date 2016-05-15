@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.iphoto.item-object
+UTTypeDescription: iPhoto albums
+UTTypeIdentifier: com.apple.iphoto.album-object

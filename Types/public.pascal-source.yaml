@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Pascal source code
+UTTypeIdentifier: public.pascal-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pas

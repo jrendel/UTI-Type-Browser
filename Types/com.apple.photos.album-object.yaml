@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.photos.item-object
+UTTypeDescription: Photos album
+UTTypeIdentifier: com.apple.photos.album-object

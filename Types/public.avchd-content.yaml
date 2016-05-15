@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: AVCHD Content
+UTTypeIdentifier: public.avchd-content
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bdm
+  - bdmv

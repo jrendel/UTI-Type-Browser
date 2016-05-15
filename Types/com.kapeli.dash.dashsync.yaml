@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeIdentifier: com.kapeli.dash.dashsync
+UTTypeReferenceURL: http://kapeli.com/dash
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dashsync

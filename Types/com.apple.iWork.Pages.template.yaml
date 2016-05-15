@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Pages template
+UTTypeIdentifier: com.apple.iWork.Pages.template
+UTTypeReferenceURL: http://www.apple.com/iwork/pages/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - template

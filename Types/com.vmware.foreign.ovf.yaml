@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Open Virtualization Format package
+UTTypeIdentifier: com.vmware.foreign.ovf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ova
+  - ovf

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mac
+UTTypeDescription: Laptop
+UTTypeIdentifier: com.apple.mac.laptop
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Laptop

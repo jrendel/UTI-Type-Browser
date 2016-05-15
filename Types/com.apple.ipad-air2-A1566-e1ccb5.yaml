@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad Air 2 (Model A1566)
+UTTypeIconFile: com.apple.ipad-air2-wifi-e1ccb5.icns
+UTTypeIdentifier: com.apple.ipad-air2-A1566-e1ccb5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J81AP
+  - iPad5,3

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.script
+UTTypeDescription: CGI script
+UTTypeIdentifier: com.macromates.textmate.cgi-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cgi
+  - fcgi

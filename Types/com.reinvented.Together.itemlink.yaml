@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.url
+UTTypeIdentifier: com.reinvented.Together.itemlink
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - TRItemLinkPboardType

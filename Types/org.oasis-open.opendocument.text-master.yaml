@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+UTTypeDescription: Open Document text master
+UTTypeIdentifier: org.oasis-open.opendocument.text-master
+UTTypeTagSpecification:
+  public.filename-extension:
+  - odm
+  public.mime-type:
+  - application/vnd.oasis.opendocument.text-master

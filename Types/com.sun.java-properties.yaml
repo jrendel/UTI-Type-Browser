@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Java Properties File
+UTTypeIdentifier: com.sun.java-properties
+UTTypeReferenceURL: http://www.java.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - properties

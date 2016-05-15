@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Textile source file
+UTTypeIdentifier: com.barebones.bbedit.textile-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - textile

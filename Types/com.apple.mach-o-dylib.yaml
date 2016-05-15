@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mach-o-binary
+UTTypeDescription: Mach-O dynamic library
+UTTypeIdentifier: com.apple.mach-o-dylib
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dylib

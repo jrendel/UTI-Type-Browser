@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.case-insensitive-text
+UTTypeDescription: file name extension
+UTTypeIdentifier: public.filename-extension

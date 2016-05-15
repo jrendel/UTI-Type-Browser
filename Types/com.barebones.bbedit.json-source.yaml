@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: JSON source file
+UTTypeIdentifier: com.barebones.bbedit.json-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - json

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: MindNode document
+UTTypeIdentifier: com.mindnode.mindnode.sffmindmap
+UTTypeReferenceURL: http://www.mindnode.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mindnode

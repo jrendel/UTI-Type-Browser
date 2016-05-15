@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.intuit.TurboTax.tax
+UTTypeDescription: TurboTax 2015 Tax Return
+UTTypeIconFile: TaxDataFile.icns
+UTTypeIdentifier: com.intuit.TurboTax.2015
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tax15
+  - tax2015

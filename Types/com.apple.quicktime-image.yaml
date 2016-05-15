@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: QuickTime image
+UTTypeIdentifier: com.apple.quicktime-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - qtif
+  public.filename-extension:
+  - qti
+  - qtif
+  public.mime-type:
+  - image/x-quicktime

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: downloadable sound
+UTTypeIdentifier: public.downloadable-sound
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dls
+  public.mime-type:
+  - audio/dls

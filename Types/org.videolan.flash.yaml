@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Flash Video File
+UTTypeIdentifier: org.videolan.flash
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f4v
+  - flv

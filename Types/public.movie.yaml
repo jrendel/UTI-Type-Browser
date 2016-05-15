@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+UTTypeDescription: movie
+UTTypeIdentifier: public.movie

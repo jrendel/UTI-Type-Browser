@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.calendar-store.item
+UTTypeDescription: Calendar events
+UTTypeIdentifier: com.apple.calendar-store.event

@@ -1,0 +1,8 @@
+UTKEXTIdentifier: com.apple.iokit.IOStorageFamily
+UTTypeConformsTo:
+- public.storage
+UTTypeDescription: Removable Disk
+UTTypeIdentifier: com.apple.storage-removable
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - flpy

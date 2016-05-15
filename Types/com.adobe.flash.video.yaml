@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Flash video
+UTTypeIdentifier: com.adobe.flash.video
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f4a
+  - f4b
+  - f4p
+  - f4v
+  - flv
+  public.mime-type:
+  - video/x-flv

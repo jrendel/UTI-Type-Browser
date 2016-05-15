@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Olympus raw image
+UTTypeIdentifier: com.olympus.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - orf

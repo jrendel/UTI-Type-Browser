@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: External Notes Record
+UTTypeIconFile: NotesDocument.icns
+UTTypeIdentifier: com.apple.notes.externalrecord
+UTTypeTagSpecification:
+  public.filename-extension:
+  - notesexternalrecord

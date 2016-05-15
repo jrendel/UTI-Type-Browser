@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Virtual PC Disk
+UTTypeIdentifier: com.vmware.foreign.vhd
+UTTypeTagSpecification:
+  public.filename-extension:
+  - exe
+  - vhd

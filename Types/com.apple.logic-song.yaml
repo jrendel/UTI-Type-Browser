@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+- public.data
+UTTypeDescription: Logic Song
+UTTypeIconFile: LogicSong.icns
+UTTypeIdentifier: com.apple.logic-song
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - EM3F
+  - sM3F
+  public.filename-extension:
+  - lso

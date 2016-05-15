@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-iSight-24
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac6,1

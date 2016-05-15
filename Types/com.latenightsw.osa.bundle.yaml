@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.applescript.script
+- com.apple.package
+UTTypeDescription: Compiled OSA Script (Bundle)
+UTTypeIconFile: scptd
+UTTypeIdentifier: com.latenightsw.osa.bundle
+UTTypeReferenceURL: http://www.latenightsw.com
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scptd

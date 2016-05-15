@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.composite-content
+- public.executable
+- public.spreadsheet
+UTTypeDescription: Office Open XML spreadsheet (macros enabled)
+UTTypeIdentifier: org.openxmlformats.spreadsheetml.sheet.macroenabled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlsm
+  public.mime-type:
+  - application/vnd.ms-excel.sheet.macroEnabled.12

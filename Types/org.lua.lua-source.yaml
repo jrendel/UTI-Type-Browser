@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lua Source File
+UTTypeIdentifier: org.lua.lua-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lua

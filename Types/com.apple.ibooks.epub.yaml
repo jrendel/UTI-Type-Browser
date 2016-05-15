@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Electronic Publication Folder (ePub)
+UTTypeIconFile: iBooksBookIcon
+UTTypeIdentifier: com.apple.ibooks.epub
+UTTypeReferenceURL: http://www.apple.com/ibooks/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - epub

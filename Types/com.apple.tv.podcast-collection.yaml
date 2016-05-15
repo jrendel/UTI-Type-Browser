@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: abstract podcast collection
+UTTypeIdentifier: com.apple.tv.podcast-collection

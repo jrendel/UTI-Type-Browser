@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Adobe Photoshop document
+UTTypeIdentifier: com.adobe.photoshop-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 8BPS
+  public.filename-extension:
+  - psd
+  public.mime-type:
+  - application/photoshop
+  - image/photoshop
+  - image/psd
+  - image/vnd.adobe.photoshop
+  - image/x-photoshop

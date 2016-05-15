@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Together Item
+UTTypeIconFile: MDItemDocument
+UTTypeIdentifier: com.reinvented.together.itemmetadata
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tritemdata

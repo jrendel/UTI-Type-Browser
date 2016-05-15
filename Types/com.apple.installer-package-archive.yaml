@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Installer package archive
+UTTypeIdentifier: com.apple.installer-package-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mpkg
+  - pkg

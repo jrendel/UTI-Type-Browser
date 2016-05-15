@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Spillo Bookmark
+UTTypeIconFile: Document
+UTTypeIdentifier: com.ddeville.spillo.bookmark.metadata
+UTTypeReferenceURL: ''
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spillometadata

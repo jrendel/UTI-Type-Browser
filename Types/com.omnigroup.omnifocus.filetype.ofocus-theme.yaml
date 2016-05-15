@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: OmniFocus Theme
+UTTypeIconName: Themes.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-theme
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-theme

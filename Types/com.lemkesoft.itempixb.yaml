@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.lemkesoft.itempixb
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PixB

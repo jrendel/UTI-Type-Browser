@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: rich text with attachments (RTFD) data
+UTTypeIdentifier: com.apple.flat-rtfd
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSRTFDPboardType
+  - NeXT RTFD pasteboard type
+  com.apple.ostype:
+  - rtfd

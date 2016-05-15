@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.delimited-values-text
+UTTypeDescription: Microsoft Project (MPP)
+UTTypeIdentifier: com.microsoft.mpp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mpp
+  - mpt

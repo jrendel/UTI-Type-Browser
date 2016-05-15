@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad Air (Model A1475)
+UTTypeIconFile: com.apple.ipad-air-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-Air-A1475-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J72AP
+  - iPad4,2

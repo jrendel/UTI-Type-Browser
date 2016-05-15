@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.composite-content
+- public.spreadsheet
+UTTypeDescription: Office Open XML spreadsheet
+UTTypeIdentifier: org.openxmlformats.spreadsheetml.sheet
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlsx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet

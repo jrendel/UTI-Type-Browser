@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Mail Log
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.log
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  public.mime-type:
+  - application/octet-stream

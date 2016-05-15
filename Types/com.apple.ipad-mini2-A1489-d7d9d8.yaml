@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad mini (Model A1489)
+UTTypeIconFile: com.apple.ipad-mini2-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-mini2-A1489-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J85AP
+  - iPad4,4

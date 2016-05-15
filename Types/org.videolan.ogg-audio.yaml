@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Ogg Audio File
+UTTypeIdentifier: org.videolan.ogg-audio
+UTTypeTagSpecification:
+  public.filename-extension:
+  - oga
+  - ogg

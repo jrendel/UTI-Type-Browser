@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+- public.email-message
+UTTypeDescription: Mail Message
+UTTypeIconFile: document.icns
+UTTypeIdentifier: com.apple.mail.emlx
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - EMLX
+  public.filename-extension:
+  - emlx

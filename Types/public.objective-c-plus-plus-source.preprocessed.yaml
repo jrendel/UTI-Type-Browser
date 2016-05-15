@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.objective-c-plus-plus-source
+UTTypeIdentifier: public.objective-c-plus-plus-source.preprocessed
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mii

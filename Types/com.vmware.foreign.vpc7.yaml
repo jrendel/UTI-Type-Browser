@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Virtual PC Document
+UTTypeIdentifier: com.vmware.foreign.vpc7
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vpc7

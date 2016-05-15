@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Logic X Project
+UTTypeIconFile: LogicXProject.icns
+UTTypeIdentifier: com.apple.logicx.project
+UTTypeTagSpecification:
+  public.filename-extension:
+  - logicx

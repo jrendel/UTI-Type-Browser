@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.bundle
+UTTypeDescription: framework
+UTTypeIdentifier: com.apple.framework
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - FMWK
+  public.filename-extension:
+  - framework

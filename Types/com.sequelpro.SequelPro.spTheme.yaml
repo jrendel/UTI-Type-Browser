@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Sequel Pro Color Theme
+UTTypeIconFile: ''
+UTTypeIdentifier: com.sequelpro.SequelPro.spTheme
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - theme
+  public.filename-extension:
+  - spTheme
+  - sptheme

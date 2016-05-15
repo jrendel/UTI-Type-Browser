@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.url
+UTTypeDescription: iTunes store URL
+UTTypeIdentifier: com.apple.itunes.store-url
+UTTypeTagSpecification:
+  public.filename-extension:
+  - itms

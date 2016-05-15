@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.script
+UTTypeDescription: shell script
+UTTypeIdentifier: public.shell-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sh

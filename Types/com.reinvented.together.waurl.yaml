@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Together Unloaded Web Archive
+UTTypeIconFile: UnloadedWebArchive
+UTTypeIconName: UnloadedWebArchive.icns
+UTTypeIdentifier: com.reinvented.together.waurl
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trwaurl

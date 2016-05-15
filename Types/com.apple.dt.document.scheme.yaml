@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeIdentifier: com.apple.dt.document.scheme
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcscheme

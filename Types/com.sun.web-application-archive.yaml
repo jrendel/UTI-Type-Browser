@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.sun.java-archive
+UTTypeDescription: web application archive
+UTTypeIdentifier: com.sun.web-application-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - war

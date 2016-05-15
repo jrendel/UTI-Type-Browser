@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MIDI File
+UTTypeIdentifier: org.videolan.mid
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mid

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: DiskDoubler Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.symantec.dd-archive
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ddap
+  public.filename-extension:
+  - dd

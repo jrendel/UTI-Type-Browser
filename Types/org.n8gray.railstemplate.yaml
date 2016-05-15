@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Ruby on Rails File
+UTTypeIdentifier: org.n8gray.railstemplate
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erb
+  - rhtml
+  - rjs

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: CSS File
+UTTypeIdentifier: public.css
+UTTypeTagSpecification:
+  public.filename-extension:
+  - css

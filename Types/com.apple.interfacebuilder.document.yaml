@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeIdentifier: com.apple.interfacebuilder.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nib

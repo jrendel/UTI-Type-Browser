@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Internet Setup Assistant (INSS)
+UTTypeIdentifier: com.apple.SetupAssistant.internet-signup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - inss

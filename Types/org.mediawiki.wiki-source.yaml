@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Mediawiki document
+UTTypeIdentifier: org.mediawiki.wiki-source
+UTTypeReferenceURL: http://www.mediawiki.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mediawiki
+  - wiki
+  - wikipedia

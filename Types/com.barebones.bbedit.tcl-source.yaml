@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Tcl source file
+UTTypeIdentifier: com.barebones.bbedit.tcl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tcl

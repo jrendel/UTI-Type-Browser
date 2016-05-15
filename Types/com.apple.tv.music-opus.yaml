@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: group of songs or tracks that comprise a larger work
+UTTypeIdentifier: com.apple.tv.music-opus

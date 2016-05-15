@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- com.allume.stuffit-archive
+UTTypeDescription: StuffIt archive
+UTTypeIdentifier: com.stuffit.archive.sit
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - SIT5
+  public.filename-extension:
+  - sea
+  - sit
+  public.mime-type:
+  - application/x-sit
+  - application/x-stuffit

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: Automator Data Type Definition
+UTTypeIconFile: AutomatorDefinition.icns
+UTTypeIdentifier: com.apple.automator-type-definition
+UTTypeReferenceURL: http://www.apple.com/macosx/features/automator/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - definition

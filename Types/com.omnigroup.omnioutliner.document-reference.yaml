@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.omnigroup.applescript.object
+UTTypeDescription: OmniOutliner document
+UTTypeIdentifier: com.omnigroup.omnioutliner.document-reference

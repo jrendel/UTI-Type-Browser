@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.omnigroup.omnigraffle.graffle
+UTTypeDescription: OmniGraffle Template
+UTTypeIdentifier: com.omnigroup.omnigraffle.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gtemplate

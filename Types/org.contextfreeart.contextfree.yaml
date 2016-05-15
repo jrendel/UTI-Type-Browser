@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: ContextFree Design Document
+UTTypeIdentifier: org.contextfreeart.contextfree
+UTTypeReferenceURL: http://www.contextfreeart.org/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cfdg

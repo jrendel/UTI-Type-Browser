@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Material eXchange Format
+UTTypeIconFile: MXF.icns
+UTTypeIdentifier: org.smpte.mxf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mxf
+  public.mime-type:
+  - application/mxf

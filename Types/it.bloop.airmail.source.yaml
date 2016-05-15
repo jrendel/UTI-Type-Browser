@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Mail Source
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.source
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  public.mime-type:
+  - application/octet-stream

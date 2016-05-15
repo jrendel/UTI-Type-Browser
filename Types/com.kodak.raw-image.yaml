@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Kodak raw image
+UTTypeIdentifier: com.kodak.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dcr

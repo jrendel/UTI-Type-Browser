@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: NVF audio
+UTTypeIdentifier: com.apple.iTunes.nvf
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'NVF '
+  public.filename-extension:
+  - nvf

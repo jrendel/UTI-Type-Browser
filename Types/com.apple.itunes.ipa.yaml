@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.executable
+- public.zip-archive
+UTTypeDescription: iOS App
+UTTypeIdentifier: com.apple.itunes.ipa
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ipa

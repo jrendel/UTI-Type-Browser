@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Standard ML source
+UTTypeIdentifier: com.macromates.textmate.standard-ml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sml

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: ActionScript file
+UTTypeIdentifier: com.panic.coda.actionscript
+UTTypeTagSpecification:
+  public.filename-extension:
+  - as
+  public.mime-type:
+  - text/plain

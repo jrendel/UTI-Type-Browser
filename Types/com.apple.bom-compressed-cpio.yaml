@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bom-archive
+- public.data
+UTTypeDescription: BOM-generated compressed CPIO archive
+UTTypeIdentifier: com.apple.bom-compressed-cpio
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cpgz

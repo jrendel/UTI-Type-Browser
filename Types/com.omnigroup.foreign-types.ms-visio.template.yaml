@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Visio Template
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vst

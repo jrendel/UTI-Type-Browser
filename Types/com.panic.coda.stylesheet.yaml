@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Coda Stylesheet
+UTTypeIconFile: doc-generic.icns
+UTTypeIdentifier: com.panic.coda.stylesheet
+UTTypeReferenceURL: http://www.panic.com/coda/developer/howto/stylesheets.php
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sss
+  public.mime-type:
+  - text/plain

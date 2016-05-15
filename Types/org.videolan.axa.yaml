@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Annodex Audio File
+UTTypeIdentifier: org.videolan.axa
+UTTypeTagSpecification:
+  public.filename-extension:
+  - axa

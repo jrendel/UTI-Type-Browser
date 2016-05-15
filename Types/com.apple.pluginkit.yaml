@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: PlugInKit plug-in
+UTTypeIdentifier: com.apple.pluginkit
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pluginkit

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.3d-content
+- public.data
+UTTypeDescription: SceneKit Scene Document (.scn)
+UTTypeIdentifier: com.apple.scenekit.scene
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scn

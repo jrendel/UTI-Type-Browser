@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.iso-image
+UTTypeDescription: CDI Disk Image
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.padus.cdi-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cdi

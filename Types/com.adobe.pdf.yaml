@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Portable Document Format (PDF)
+UTTypeIdentifier: com.adobe.pdf
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple PDF pasteboard type
+  com.apple.ostype:
+  - 'PDF '
+  public.filename-extension:
+  - pdf
+  public.mime-type:
+  - application/pdf

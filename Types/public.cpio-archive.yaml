@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.bom-archive
+- public.data
+UTTypeDescription: CPIO archive
+UTTypeIdentifier: public.cpio-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cpio
+  - pax

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Screen Slide Saver
+UTTypeIdentifier: com.apple.systempreference.screen-slide-saver
+UTTypeTagSpecification:
+  public.filename-extension:
+  - slideSaver

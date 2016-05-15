@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Deliveries document
+UTTypeIconFile: Document
+UTTypeIdentifier: com.junecloud.deliveries
+UTTypeTagSpecification:
+  com.apple.ostype: []
+  public.filename-extension:
+  - deliveries

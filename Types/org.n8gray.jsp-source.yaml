@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: JSP Source File
+UTTypeIdentifier: org.n8gray.jsp-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jsp

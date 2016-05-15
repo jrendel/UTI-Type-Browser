@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Mail Composer
+UTTypeIconFile: iconx
+UTTypeIdentifier: it.bloop.airmail.new, public.png, public.jpg
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Airmail
+  public.filename-extension:
+  - airmail
+  - jpg
+  - png
+  public.mime-type:
+  - application/octet-stream

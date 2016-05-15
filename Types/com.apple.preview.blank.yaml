@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Blank
+UTTypeIdentifier: com.apple.preview.blank
+UTTypeTagSpecification:
+  public.filename-extension:
+  - blank

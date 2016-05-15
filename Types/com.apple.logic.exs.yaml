@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: EXS instrument
+UTTypeIconFile: EXS24Instrument.icns
+UTTypeIdentifier: com.apple.logic.exs
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - .SBK
+  - .exs
+  public.filename-extension:
+  - exs
+  - sbk

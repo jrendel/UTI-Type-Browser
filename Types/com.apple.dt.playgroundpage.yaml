@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Xcode Playground Page
+UTTypeIdentifier: com.apple.dt.playgroundpage
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcplaygroundpage

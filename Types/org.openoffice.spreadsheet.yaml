@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+- public.spreadsheet
+UTTypeDescription: OpenOffice.org 1.0 Spreadsheet
+UTTypeIdentifier: org.openoffice.spreadsheet
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sdc
+  - sxc
+  public.mime-type:
+  - application/vnd.stardivision.calc
+  - application/vnd.sun.xml.calc

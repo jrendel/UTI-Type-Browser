@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Comicbook Zip Archive
+UTTypeIconFile: Zip
+UTTypeIdentifier: com.macitbetter.cbz-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cbz

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Photo Library
+UTTypeIdentifier: com.apple.photo.library
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - iPlb
+  public.filename-extension:
+  - photolibrary

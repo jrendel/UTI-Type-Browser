@@ -1,0 +1,17 @@
+UTTypeConformsTo:
+- public.contact
+- public.text
+UTTypeDescription: electronic business card
+UTTypeIdentifier: public.vcard
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple VCard pasteboard type
+  com.apple.ostype:
+  - vCrd
+  public.filename-extension:
+  - vcard
+  - vcf
+  public.mime-type:
+  - text/directory
+  - text/vcard
+  - text/x-vcard

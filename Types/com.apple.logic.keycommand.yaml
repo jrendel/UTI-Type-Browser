@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Logic Key Commands proprietary format
+UTTypeIconFile: LogicKeyCommands
+UTTypeIdentifier: com.apple.logic.keycommand
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - LkcS
+  public.filename-extension:
+  - logikcs

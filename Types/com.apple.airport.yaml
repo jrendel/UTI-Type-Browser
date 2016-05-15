@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: AirPort Extreme
+UTTypeIdentifier: com.apple.airport
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AirPort
+  - AirPort5
+  - AirPort5,104
+  - AirPort5,105
+  - AirPort5,108
+  - AirPort5,114
+  - AirPort5,117

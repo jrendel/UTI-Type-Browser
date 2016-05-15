@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Nikon raw image
+UTTypeIdentifier: com.nikon.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nef

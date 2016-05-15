@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.sun.java-class
+UTTypeTagSpecification:
+  public.filename-extension:
+  - class

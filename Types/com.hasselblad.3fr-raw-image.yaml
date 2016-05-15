@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Hasselblad 3FR raw image
+UTTypeIdentifier: com.hasselblad.3fr-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - 3fr

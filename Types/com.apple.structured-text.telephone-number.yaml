@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.structured-text
+UTTypeDescription: Telephone Number (Structured Text)
+UTTypeIdentifier: com.apple.structured-text.telephone-number

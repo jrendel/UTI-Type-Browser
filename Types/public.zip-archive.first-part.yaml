@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.zip-archive
+UTTypeDescription: Zip Archive Part
+UTTypeIconFile: zip.icns
+UTTypeIdentifier: public.zip-archive.first-part
+UTTypeTagSpecification:
+  public.filename-extension:
+  - z01

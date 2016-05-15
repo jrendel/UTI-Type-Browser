@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.playlist
+- public.text
+UTTypeDescription: M3U Playlist
+UTTypeIdentifier: public.m3u-playlist
+UTTypeReferenceURL: http://www.schworak.com/programming/music/playlist_m3u.asp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m3u
+  - m3u8
+  public.mime-type:
+  - application/vnd.apple.mpegurl
+  - audio/mpegurl
+  - audio/x-mpegurl

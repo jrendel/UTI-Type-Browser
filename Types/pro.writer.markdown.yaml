@@ -1,0 +1,18 @@
+UTTypeConformsTo:
+- net.daringfireball.markdown
+- public.plain-text
+UTTypeDescription: Markdown
+UTTypeIdentifier: pro.writer.markdown
+UTTypeTagSpecification:
+  public.filename-extension:
+  - markdown
+  - md
+  - mdml
+  - mdown
+  - mdtext
+  - mdtxt
+  - mdwn
+  - mkd
+  - mkdn
+  - mmd
+  - multimarkdown

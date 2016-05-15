@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.iso-image
+UTTypeDescription: MDF Disk Image
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.alcohol-soft.mdf-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mdf

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: Computer
+UTTypeIdentifier: public.computer

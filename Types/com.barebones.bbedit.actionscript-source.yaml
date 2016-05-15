@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: ActionScript source file
+UTTypeIdentifier: com.barebones.bbedit.actionscript-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - as

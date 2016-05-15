@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- pro.writer.markdown
+UTTypeDescription: Write
+UTTypeIdentifier: pro.writer.write
+UTTypeTagSpecification:
+  public.filename-extension:
+  - write

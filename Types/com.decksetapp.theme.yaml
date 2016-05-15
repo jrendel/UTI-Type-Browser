@@ -1,0 +1,7 @@
+UTTypeDescription: Deckset Theme
+UTTypeIconFile: ''
+UTTypeIdentifier: com.decksetapp.theme
+UTTypeTagSpecification:
+  com.apple.ostype: []
+  public.filename-extension:
+  - dstheme

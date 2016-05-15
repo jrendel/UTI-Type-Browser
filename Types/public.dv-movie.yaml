@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: DV movie
+UTTypeIdentifier: public.dv-movie
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dvc!
+  public.filename-extension:
+  - dif
+  - dv
+  public.mime-type:
+  - video/x-dv

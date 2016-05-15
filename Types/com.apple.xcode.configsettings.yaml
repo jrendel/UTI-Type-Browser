@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeIdentifier: com.apple.xcode.configsettings
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcconfig

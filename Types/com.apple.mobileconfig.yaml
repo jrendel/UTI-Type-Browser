@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Configuration Profile
+UTTypeIdentifier: com.apple.mobileconfig
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mobileconfig

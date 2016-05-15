@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: DVD/CD-R Master Image
+UTTypeIdentifier: com.apple.disk-image-cdr
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cdr
+  - dvdr

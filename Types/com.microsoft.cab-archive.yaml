@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: CAB Archive
+UTTypeIconFile: cab.icns
+UTTypeIdentifier: com.microsoft.cab-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cab
+  public.mime-type:
+  - application/vnd.ms-cab-compressed

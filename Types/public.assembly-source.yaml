@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.assembly-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asm
+  - s

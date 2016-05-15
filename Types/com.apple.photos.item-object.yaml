@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Photos item
+UTTypeIdentifier: com.apple.photos.item-object

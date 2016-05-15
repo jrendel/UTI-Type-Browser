@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: bundle
+UTTypeIdentifier: com.apple.bundle

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Layered Stack Rendition
+UTTypeIdentifier: com.apple.lsr-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lsr

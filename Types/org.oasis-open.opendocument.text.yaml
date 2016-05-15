@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+UTTypeDescription: Open Document text
+UTTypeIdentifier: org.oasis-open.opendocument.text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - odt
+  public.mime-type:
+  - application/vnd.oasis.opendocument.text

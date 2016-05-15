@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Aperture Album
+UTTypeIdentifier: com.apple.Aperture.album-object

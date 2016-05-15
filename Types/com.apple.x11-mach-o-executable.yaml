@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.mach-o-binary
+UTTypeDescription: X11 application
+UTTypeIdentifier: com.apple.x11-mach-o-executable

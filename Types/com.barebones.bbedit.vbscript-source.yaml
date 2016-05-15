@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: VBScript source file
+UTTypeIdentifier: com.barebones.bbedit.vbscript-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vbs

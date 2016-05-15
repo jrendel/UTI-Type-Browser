@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: movie trailer
+UTTypeIdentifier: com.apple.tv.movie-trailer

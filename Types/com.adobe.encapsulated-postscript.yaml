@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.adobe.postscript
+UTTypeDescription: Encapsulated PostScript
+UTTypeIdentifier: com.adobe.encapsulated-postscript
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSPostScriptPboardType
+  - NeXT Encapsulated PostScript v1.2 pasteboard type
+  com.apple.ostype:
+  - EPSF
+  public.filename-extension:
+  - eps

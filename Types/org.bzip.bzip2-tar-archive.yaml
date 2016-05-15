@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: BZip2 Tar Archive
+UTTypeIconFile: BZ2
+UTTypeIdentifier: org.bzip.bzip2-tar-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tbz
+  - tbz2

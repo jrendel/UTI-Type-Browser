@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.mpeg-4
+UTTypeDescription: Apple MPEG-4 movie
+UTTypeIdentifier: com.apple.m4v-video
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'M4V '
+  public.filename-extension:
+  - m4v
+  public.mime-type:
+  - video/x-m4v

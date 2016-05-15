@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: JSON
+UTTypeIdentifier: public.json
+UTTypeTagSpecification:
+  public.filename-extension:
+  - json
+  public.mime-type:
+  - application/json

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.mig-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - defs

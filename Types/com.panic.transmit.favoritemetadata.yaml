@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Transmit Favorite Item
+UTTypeIconFile: TransmitDocument.icns
+UTTypeIdentifier: com.panic.transmit.favoritemetadata
+UTTypeTagSpecification:
+  public.filename-extension:
+  - favoriteMetadata

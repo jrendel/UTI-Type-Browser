@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.playlist
+- public.text
+UTTypeDescription: M3U Playlist
+UTTypeIdentifier: com.apple.iTunes.m3u-playlist
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - MP3U
+  public.filename-extension:
+  - m3u
+  - m3u8
+  public.mime-type:
+  - audio/mpegurl
+  - audio/x-mpegurl

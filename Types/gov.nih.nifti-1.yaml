@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: NIfTI-1
+UTTypeIdentifier: gov.nih.nifti-1
+UTTypeReferenceURL: http://nifti.nimh.nih.gov
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - NII1
+  public.filename-extension:
+  - nii

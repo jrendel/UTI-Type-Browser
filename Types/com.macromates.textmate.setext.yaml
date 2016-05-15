@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Setext document
+UTTypeIdentifier: com.macromates.textmate.setext
+UTTypeReferenceURL: http://docutils.sourceforge.net/mirror/setext/setext_concepts_Aug92.etx.txt
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ext

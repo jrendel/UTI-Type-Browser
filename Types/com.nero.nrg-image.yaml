@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.iso-image
+UTTypeDescription: NRG Disk Image
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.nero.nrg-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nrg

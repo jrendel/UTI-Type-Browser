@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.localizable-name-bundle
+- com.apple.package
+- public.composite-content
+UTTypeDescription: localized PDF
+UTTypeIdentifier: com.apple.localized-pdf-bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lpdf

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Powerpoint slides
+UTTypeIdentifier: com.microsoft.powerpoint.slide-object

@@ -1,0 +1,9 @@
+LSTypeIsPackage: true
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Acorn Plugin
+UTTypeIconFile: plugin
+UTTypeIdentifier: com.flyingmeat.acornplugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - acplugin

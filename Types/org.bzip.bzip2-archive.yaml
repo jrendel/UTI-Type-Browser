@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: BZip2 Archive
+UTTypeIconFile: BZ2
+UTTypeIdentifier: org.bzip.bzip2-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bz
+  - bz2
+  - bzip2
+  public.mime-type:
+  - application/bzip
+  - application/bzip2
+  - application/x-bzip
+  - application/x-bzip2

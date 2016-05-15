@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.ical.item-object
+UTTypeDescription: Reminders
+UTTypeIdentifier: com.apple.ical.todo-object

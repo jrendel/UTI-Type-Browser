@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Drag Command
+UTTypeIdentifier: com.macromates.textmate.drag-command
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmDragCommand

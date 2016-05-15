@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.dt.bundle.unit-test
+UTTypeDescription: XCTest unit test bundle
+UTTypeIdentifier: com.apple.dt.bundle.unit-test.xctest
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xctest

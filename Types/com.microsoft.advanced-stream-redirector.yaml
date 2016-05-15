@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+- public.xml
+UTTypeDescription: Advanced Stream Redirector
+UTTypeIdentifier: com.microsoft.advanced-stream-redirector
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ASX_
+  public.filename-extension:
+  - asx
+  public.mime-type:
+  - video/x-ms-asx

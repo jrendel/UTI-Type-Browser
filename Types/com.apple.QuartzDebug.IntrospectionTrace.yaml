@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: CG Introspection Trace
+UTTypeIdentifier: com.apple.QuartzDebug.IntrospectionTrace
+UTTypeTagSpecification:
+  public.filename-extension:
+  - introspection

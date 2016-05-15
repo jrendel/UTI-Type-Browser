@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeIdentifier: com.apple.symbol-export
+UTTypeTagSpecification:
+  public.filename-extension:
+  - exp

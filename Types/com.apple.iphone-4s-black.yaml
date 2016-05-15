@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 4S
+UTTypeIconFile: com.apple.iphone-4-cdma-black.icns
+UTTypeIdentifier: com.apple.iphone-4s-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N94AP
+  - iPhone
+  - iPhone4,1

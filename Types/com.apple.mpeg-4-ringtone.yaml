@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Ringtone
+UTTypeIdentifier: com.apple.mpeg-4-ringtone
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'M4R '
+  public.filename-extension:
+  - m4r

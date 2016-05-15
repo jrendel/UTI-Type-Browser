@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: FLAC Audio File
+UTTypeIdentifier: org.videolan.flac
+UTTypeTagSpecification:
+  public.filename-extension:
+  - flac

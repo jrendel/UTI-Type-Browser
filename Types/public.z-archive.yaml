@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Z archive
+UTTypeIdentifier: public.z-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - z
+  public.mime-type:
+  - application/x-compress

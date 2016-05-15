@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: JVC Everio Video Capture File
+UTTypeIdentifier: org.videolan.tod
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tod

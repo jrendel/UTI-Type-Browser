@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: OPML document
+UTTypeIdentifier: org.opml.opml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opml

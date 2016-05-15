@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.executable
+- public.zip-archive
+UTTypeDescription: Apple Device Software Update File
+UTTypeIdentifier: com.apple.iTunes.ipsw
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ipsw
+  public.filename-extension:
+  - ipsw

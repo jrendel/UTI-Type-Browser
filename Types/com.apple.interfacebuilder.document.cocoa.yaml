@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeIdentifier: com.apple.interfacebuilder.document.cocoa
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xib

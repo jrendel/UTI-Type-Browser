@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: synchronized multimedia integration language
+UTTypeIdentifier: com.real.smil
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - .SMI
+  - SMIL
+  public.filename-extension:
+  - smi
+  - smil
+  - sml
+  public.mime-type:
+  - application/smil

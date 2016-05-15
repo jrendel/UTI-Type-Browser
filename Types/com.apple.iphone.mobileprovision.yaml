@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.apple.iphone.mobileprovision
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mobileprovision

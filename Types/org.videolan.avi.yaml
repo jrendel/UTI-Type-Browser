@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: AVI container
+UTTypeIdentifier: org.videolan.avi
+UTTypeTagSpecification:
+  public.filename-extension:
+  - avi

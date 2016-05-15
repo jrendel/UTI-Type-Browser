@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: rich text (RTF)
+UTTypeIdentifier: public.rtf
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSRTFPboardType
+  - NeXT Rich Text Format v1.0 pasteboard type
+  com.apple.ostype:
+  - 'RTF '
+  public.filename-extension:
+  - rtf
+  public.mime-type:
+  - text/rtf

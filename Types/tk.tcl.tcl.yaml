@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Tcl source
+UTTypeIdentifier: tk.tcl.tcl
+UTTypeReferenceURL: http://www.tcl.tk
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tcl
+  public.mime-type:
+  - application/x-tcl

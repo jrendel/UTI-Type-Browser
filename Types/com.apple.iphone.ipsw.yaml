@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeIdentifier: com.apple.iphone.ipsw
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ipsw

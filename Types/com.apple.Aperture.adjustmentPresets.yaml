@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.binary-property-list
+UTTypeDescription: Aperture Adjustment Presets
+UTTypeIdentifier: com.apple.Aperture.adjustmentPresets
+UTTypeTagSpecification:
+  public.filename-extension:
+  - AdjustmentPresets

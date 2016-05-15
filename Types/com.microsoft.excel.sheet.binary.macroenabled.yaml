@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.executable
+- public.spreadsheet
+- public.zip-archive
+UTTypeDescription: Microsoft Excel 2007 spreadsheet (macros enabled)
+UTTypeIdentifier: com.microsoft.excel.sheet.binary.macroenabled
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xlsb
+  public.mime-type:
+  - application/vnd.ms-excel.sheet.binary.macroEnabled.12

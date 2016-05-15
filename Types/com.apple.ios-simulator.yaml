@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.ios-device
+UTTypeDescription: iOS Simulator
+UTTypeIdentifier: com.apple.ios-simulator

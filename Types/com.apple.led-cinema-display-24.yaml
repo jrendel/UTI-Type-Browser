@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.display
+UTTypeDescription: LED Cinema Display
+UTTypeIdentifier: com.apple.led-cinema-display-24

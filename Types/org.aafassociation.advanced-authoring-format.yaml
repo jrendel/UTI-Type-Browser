@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Advanced Authoring Format
+UTTypeIdentifier: org.aafassociation.advanced-authoring-format
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'AAF '
+  public.filename-extension:
+  - aaf

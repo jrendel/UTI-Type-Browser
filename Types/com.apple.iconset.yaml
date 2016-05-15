@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: Icon Set
+UTTypeIdentifier: com.apple.iconset
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iconset

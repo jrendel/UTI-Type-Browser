@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.app-category.games
+UTTypeDescription: Trivia Games
+UTTypeIdentifier: public.app-category.trivia-games

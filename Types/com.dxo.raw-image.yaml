@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: DxO raw image
+UTTypeIdentifier: com.dxo.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dxo
+  public.mime-type:
+  - image/x-dxo-dxo

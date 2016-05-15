@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+- public.xml
+UTTypeDescription: Digital Asset Exchange (DAE)
+UTTypeIdentifier: org.khronos.collada.digital-asset-exchange
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dae

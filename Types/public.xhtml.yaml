@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: XHTML
+UTTypeIdentifier: public.xhtml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xht
+  - xhtm
+  - xhtml
+  public.mime-type:
+  - application/xhtml+xml

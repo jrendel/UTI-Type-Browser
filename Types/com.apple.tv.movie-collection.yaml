@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: abstract movie collection
+UTTypeIdentifier: com.apple.tv.movie-collection

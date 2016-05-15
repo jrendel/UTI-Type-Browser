@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: GNU tar archive
+UTTypeIdentifier: org.gnu.gnu-tar-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gtar
+  public.mime-type:
+  - application/x-gtar

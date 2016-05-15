@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.openxml.addin
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLAM
+  public.filename-extension:
+  - xlam
+  public.mime-type:
+  - application/vnd.ms-excel.addin.macroEnabled.12

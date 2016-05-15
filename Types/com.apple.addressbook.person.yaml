@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.contact
+- public.data
+UTTypeDescription: Contacts Person Data
+UTTypeIdentifier: com.apple.addressbook.person
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ABPR
+  public.filename-extension:
+  - abcdp

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: MPEG-2 video
+UTTypeIdentifier: public.mpeg-2-video
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m2v
+  public.mime-type:
+  - video/mpeg2
+  - video/mpeg2-video

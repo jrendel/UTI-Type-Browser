@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.audiovisual-content-collection
+UTTypeDescription: AVCHD Collection
+UTTypeIdentifier: public.avchd-collection
+UTTypeTagSpecification:
+  public.filename-extension:
+  - avchd

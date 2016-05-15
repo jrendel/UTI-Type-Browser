@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.iphoto.item-object
+UTTypeDescription: iPhoto photos
+UTTypeIdentifier: com.apple.iphoto.photo-object

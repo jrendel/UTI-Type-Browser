@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.likethought.license
+UTTypeDescription: Opacity License
+UTTypeIdentifier: com.likethought.opacity.license
+UTTypeReferenceURL: http://likethought.com/opacity/buy/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opacitylicense

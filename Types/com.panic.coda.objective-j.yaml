@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Objective-J file
+UTTypeIdentifier: com.panic.coda.objective-j
+UTTypeTagSpecification:
+  public.filename-extension:
+  - j
+  public.mime-type:
+  - text/x-objective-j

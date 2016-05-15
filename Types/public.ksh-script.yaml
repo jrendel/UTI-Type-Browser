@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: Korn Shell script
+UTTypeIdentifier: public.ksh-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ksh

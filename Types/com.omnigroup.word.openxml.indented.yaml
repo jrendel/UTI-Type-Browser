@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.data
+UTTypeDescription: Microsoft Word (indented)
+UTTypeIdentifier: com.omnigroup.word.openxml.indented
+UTTypeTagSpecification:
+  public.filename-extension:
+  - docx

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: PixelCut Vector Document
+UTTypeIdentifier: com.pixelcut.pcvd
+UTTypeReferenceURL: http://www.pixelcut.com
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Pcvd
+  public.filename-extension:
+  - pcvd

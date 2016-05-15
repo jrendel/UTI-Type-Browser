@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: protected MPEG-4 audio
+UTTypeIdentifier: com.apple.protected-mpeg-4-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'M4B '
+  - 'M4P '
+  public.filename-extension:
+  - m4b
+  - m4p

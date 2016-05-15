@@ -1,0 +1,10 @@
+LSTypeIsPackage: true
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Coda Pop
+UTTypeIdentifier: com.panic.coda.pop
+UTTypeReferenceURL: http://www.panic.com/coda/developer/howto/pops.php
+UTTypeTagSpecification:
+  public.filename-extension:
+  - codapop

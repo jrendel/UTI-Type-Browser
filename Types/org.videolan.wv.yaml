@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: WavePack Audio File
+UTTypeIdentifier: org.videolan.wv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wv

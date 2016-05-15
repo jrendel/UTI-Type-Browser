@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: CoffeeScript source
+UTTypeIdentifier: org.coffeescript.coffeescript
+UTTypeReferenceURL: http://coffeescript.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - coffee

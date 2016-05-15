@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: HTML (Dynamic)
+UTTypeIdentifier: com.omnigroup.OmniOutliner.WordExport.MSWordHTML
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dochtml

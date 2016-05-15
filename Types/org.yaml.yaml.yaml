@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: YAML document
+UTTypeIdentifier: org.yaml.yaml
+UTTypeReferenceURL: http://yaml.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - yaml
+  - yml

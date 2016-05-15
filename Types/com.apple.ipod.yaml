@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPod
+UTTypeIdentifier: com.apple.ipod
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iPod

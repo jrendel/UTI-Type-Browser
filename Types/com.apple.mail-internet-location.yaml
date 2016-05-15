@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: mail internet location
+UTTypeIdentifier: com.apple.mail-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilma
+  public.filename-extension:
+  - mailloc

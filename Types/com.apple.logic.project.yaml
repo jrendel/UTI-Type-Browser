@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Logic Project
+UTTypeIconFile: LogicProject.icns
+UTTypeIdentifier: com.apple.logic.project
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ????
+  public.filename-extension:
+  - logic

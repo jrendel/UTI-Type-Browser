@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.openxml.template
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLTX
+  public.filename-extension:
+  - xltx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.spreadsheetml.template

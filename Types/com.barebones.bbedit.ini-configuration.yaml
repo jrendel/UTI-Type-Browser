@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: INI configuration file
+UTTypeIdentifier: com.barebones.bbedit.ini-configuration
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cfg
+  - ini

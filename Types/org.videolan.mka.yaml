@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Matroska Audio File
+UTTypeIdentifier: org.videolan.mka
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mka

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga Zoom Disk Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.zoom-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - zom

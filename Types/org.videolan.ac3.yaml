@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Digital Audio
+UTTypeIdentifier: org.videolan.ac3
+UTTypeTagSpecification:
+  public.filename-extension:
+  - a52
+  - ac3

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.addressbook.item-object
+UTTypeDescription: Contacts groups
+UTTypeIdentifier: com.apple.addressbook.group-object

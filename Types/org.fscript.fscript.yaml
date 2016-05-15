@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.script
+UTTypeDescription: F-Script source
+UTTypeIdentifier: org.fscript.fscript
+UTTypeReferenceURL: http://www.fscript.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fscript

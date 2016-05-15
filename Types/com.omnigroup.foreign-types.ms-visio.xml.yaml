@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Visio XML Drawing
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio.xml
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vdx

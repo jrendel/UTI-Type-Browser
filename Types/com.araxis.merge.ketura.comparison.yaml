@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Araxis Merge Ketura Comparison Launch File
+UTTypeIconFile: MergeSavedComparison
+UTTypeIdentifier: com.araxis.merge.ketura.comparison
+UTTypeReferenceURL: http://www.araxis.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AMkc
+  public.filename-extension:
+  - keturacomparison
+public.mime-type: application/x-araxis-ketura-comparison

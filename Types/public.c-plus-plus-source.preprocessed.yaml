@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.c-plus-plus-source
+UTTypeIdentifier: public.c-plus-plus-source.preprocessed
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ii

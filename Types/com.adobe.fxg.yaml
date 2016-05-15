@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Adobe FXG File
+UTTypeIdentifier: com.adobe.fxg
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fxg

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.finder.clipping
+UTTypeDescription: text clipping
+UTTypeIdentifier: com.apple.finder.textclipping
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - clpt
+  public.filename-extension:
+  - textclipping

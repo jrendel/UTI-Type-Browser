@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: DivX file
+UTTypeIdentifier: org.videolan.divx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - divx

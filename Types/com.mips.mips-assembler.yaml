@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: MIPS assembler source
+UTTypeIdentifier: com.mips.mips-assembler
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asm
+  - mips
+  - s
+  - spim

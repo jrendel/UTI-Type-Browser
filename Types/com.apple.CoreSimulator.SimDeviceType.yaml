@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.CoreSimulator.bundle
+UTTypeDescription: Simulator Device Type
+UTTypeIdentifier: com.apple.CoreSimulator.SimDeviceType
+UTTypeTagSpecification:
+  public.filename-extension:
+  - simdevicetype

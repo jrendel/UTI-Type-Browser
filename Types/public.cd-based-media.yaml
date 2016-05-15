@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.optical-storage-media
+UTTypeDescription: CD
+UTTypeIdentifier: public.cd-based-media

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: iBooks Author Book
+UTTypeIdentifier: com.apple.ibooksauthor.pkgbook
+UTTypeReferenceURL: http://www.apple.com/ibooks-author/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - book
+  - iba

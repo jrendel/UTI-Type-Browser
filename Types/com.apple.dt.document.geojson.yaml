@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.json
+UTTypeDescription: GeoJSON File
+UTTypeIdentifier: com.apple.dt.document.geojson
+UTTypeTagSpecification:
+  public.filename-extension:
+  - geojson

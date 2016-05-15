@@ -1,0 +1,6 @@
+CFBundleURLTypes:
+- CFBundleURLName: com.toxicsoftware.ibeacon
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: ibeacon
+UTTypeIdentifier: com.toxicsoftware.ibeacon

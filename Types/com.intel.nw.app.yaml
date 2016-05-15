@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- com.pkware.zip-archive
+UTTypeDescription: node-webkit App
+UTTypeIconFile: nw.icns
+UTTypeIdentifier: com.intel.nw.app
+UTTypeReferenceURL: https://github.com/rogerwang/node-webkit/wiki/How-to-package-and-distribute-your-apps
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - node-webkit
+  public.filename-extension:
+  - nw
+  public.mime-type:
+  - application/x-node-webkit-app

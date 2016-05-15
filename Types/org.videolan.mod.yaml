@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MOD Audio File
+UTTypeIdentifier: org.videolan.mod
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mod
+  - xm

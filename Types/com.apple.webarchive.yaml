@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: web archive
+UTTypeIdentifier: com.apple.webarchive
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple Web Archive pasteboard type
+  com.apple.ostype:
+  - weba
+  public.filename-extension:
+  - webarchive
+  public.mime-type:
+  - application/x-webarchive

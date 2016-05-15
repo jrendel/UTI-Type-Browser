@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: ProjectBuilderDocumentType
+UTTypeIdentifier: com.omnigroup.foreign-types.apple-xcode
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pbproj
+  - pbxproj
+  - xcode
+  - xcodeproj

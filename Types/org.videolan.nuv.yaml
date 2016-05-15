@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: NuppleVideo File
+UTTypeIdentifier: org.videolan.nuv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nuv

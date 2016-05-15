@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: Spillo Backup
+UTTypeIdentifier: com.ddeville.spillo.backup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spillobackup

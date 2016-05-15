@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: GPX File
+UTTypeIdentifier: com.apple.dt.document.gpx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gpx

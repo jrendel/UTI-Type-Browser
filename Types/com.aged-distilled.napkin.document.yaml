@@ -1,0 +1,10 @@
+LSTypeIsPackage: true
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Napkin document
+UTTypeIdentifier: com.aged-distilled.napkin.document
+UTTypeReferenceURL: http://aged-and-distilled.com/Napkin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - napkin

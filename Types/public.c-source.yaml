@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.c-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - c

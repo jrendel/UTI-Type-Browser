@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+UTTypeDescription: audio
+UTTypeIdentifier: public.audio

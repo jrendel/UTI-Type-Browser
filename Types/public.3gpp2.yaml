@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: 3GPP2 movie
+UTTypeIdentifier: public.3gpp2
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 3gp2
+  public.filename-extension:
+  - 3g2
+  - 3gp2
+  public.mime-type:
+  - audio/3gpp2
+  - video/3gpp2

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: OCaml source
+UTTypeIdentifier: org.ocaml.ocaml
+UTTypeReferenceURL: http://ocaml.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ml
+  - mli
+  - mll
+  - mly

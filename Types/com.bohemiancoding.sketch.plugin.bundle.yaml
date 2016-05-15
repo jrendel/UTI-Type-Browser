@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Sketch Plugin
+UTTypeIconFile: sketchplugin.icns
+UTTypeIdentifier: com.bohemiancoding.sketch.plugin.bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sketchplugin

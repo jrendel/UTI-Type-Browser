@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.executable
+- public.zip-archive
+UTTypeDescription: iPod Game File
+UTTypeIdentifier: com.apple.iTunes.ipg
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'ipg '
+  public.filename-extension:
+  - ipg

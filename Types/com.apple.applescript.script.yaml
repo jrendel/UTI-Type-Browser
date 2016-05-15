@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: AppleScript
+UTTypeIdentifier: com.apple.applescript.script
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - osas
+  public.filename-extension:
+  - scpt

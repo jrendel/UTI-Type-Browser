@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: HTML
+UTTypeIdentifier: com.omnigroup.omnifocus2.export-filetype.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - html
+  - htmlz

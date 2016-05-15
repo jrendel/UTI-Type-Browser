@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Araxis Merge Comparison (Windows)
+UTTypeIconFile: MergeSavedComparison
+UTTypeIdentifier: com.araxis.merge.windows.comparison
+UTTypeReferenceURL: http://www.araxis.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AMwc
+  public.filename-extension:
+  - cmp7
+public.mime-type: application/octet-stream

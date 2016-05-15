@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.ical.ics
+UTTypeDescription: Calendar Event
+UTTypeIdentifier: com.apple.ical.ics.event
+UTTypeTagSpecification: {}

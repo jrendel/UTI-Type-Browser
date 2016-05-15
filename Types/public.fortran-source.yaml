@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Fortran source code
+UTTypeIdentifier: public.fortran-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f
+  - for

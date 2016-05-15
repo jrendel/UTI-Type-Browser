@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: Quartz Composer compostion
+UTTypeIdentifier: com.apple.quartz-composer-composition
+UTTypeTagSpecification:
+  public.filename-extension:
+  - qtz
+  public.mime-type:
+  - application/x-quartzcomposer

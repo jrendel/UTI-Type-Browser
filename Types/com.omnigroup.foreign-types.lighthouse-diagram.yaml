@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.content
+UTTypeDescription: Lighthouse Diagram2 File
+UTTypeIdentifier: com.omnigroup.foreign-types.lighthouse-diagram
+UTTypeTagSpecification:
+  public.filename-extension:
+  - diagram2

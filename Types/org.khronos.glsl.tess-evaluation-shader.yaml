@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- org.khronos.glsl-source
+UTTypeIdentifier: org.khronos.glsl.tess-evaluation-shader
+UTTypeTagSpecification:
+  public.filename-extension:
+  - eval

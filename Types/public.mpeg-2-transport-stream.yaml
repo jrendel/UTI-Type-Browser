@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: MPEG-2 Transport Stream
+UTTypeIdentifier: public.mpeg-2-transport-stream
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ts

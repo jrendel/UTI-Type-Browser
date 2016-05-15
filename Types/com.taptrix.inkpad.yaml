@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Inkpad Document
+UTTypeIdentifier: com.taptrix.inkpad
+UTTypeTagSpecification:
+  public.filename-extension:
+  - inkpad
+  public.mime-type:
+  - application/x-inkpad

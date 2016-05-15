@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: iThoughts Document
+UTTypeIdentifier: com.toketaware.ithoughtsx
+UTTypeTagSpecification:
+  public.filename-extension:
+  - itmz

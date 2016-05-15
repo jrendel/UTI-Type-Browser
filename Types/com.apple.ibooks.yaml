@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.idpf.epub-container
+UTTypeDescription: Electronic Publication (iBooks)
+UTTypeIconFile: iBooksBookIcon
+UTTypeIdentifier: com.apple.ibooks
+UTTypeReferenceURL: http://www.apple.com/ibooks/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ibooks
+  public.mime-type:
+  - application/x-ibooks+zip

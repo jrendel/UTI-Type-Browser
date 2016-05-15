@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: VectorScript source file
+UTTypeIdentifier: com.barebones.bbedit.vectorscript-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vs
+  - vss

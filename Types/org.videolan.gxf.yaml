@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: General eXchange Format File
+UTTypeIdentifier: org.videolan.gxf
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gxf

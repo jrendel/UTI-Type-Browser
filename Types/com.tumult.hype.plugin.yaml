@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Hype PlugIn
+UTTypeIdentifier: com.tumult.hype.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hypeplugin

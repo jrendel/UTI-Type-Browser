@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.binary-property-list
+UTTypeDescription: Aperture Metadata Presets
+UTTypeIdentifier: com.apple.Aperture.metadataPresets
+UTTypeTagSpecification:
+  public.filename-extension:
+  - apmetadata

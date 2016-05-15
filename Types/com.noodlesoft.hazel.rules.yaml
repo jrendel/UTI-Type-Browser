@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Hazel rules
+UTTypeIconFile: RulesDoc.icns
+UTTypeIdentifier: com.noodlesoft.hazel.rules
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hazelrules

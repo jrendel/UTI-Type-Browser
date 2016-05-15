@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: Microsoft dynamic link library
+UTTypeIdentifier: com.microsoft.windows-dynamic-link-library
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dll
+  public.mime-type:
+  - application/x-msdownload

@@ -1,0 +1,16 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: HTML text
+UTTypeIdentifier: public.html
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple HTML pasteboard type
+  com.apple.ostype:
+  - HTML
+  public.filename-extension:
+  - htm
+  - html
+  - shtm
+  - shtml
+  public.mime-type:
+  - text/html

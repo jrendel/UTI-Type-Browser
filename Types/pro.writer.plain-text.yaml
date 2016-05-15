@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Plain Text
+UTTypeIdentifier: pro.writer.plain-text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - text
+  - txt

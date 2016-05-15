@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: abstract television show collection
+UTTypeIdentifier: com.apple.tv.television-collection

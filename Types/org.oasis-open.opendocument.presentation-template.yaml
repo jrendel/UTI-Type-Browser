@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+UTTypeDescription: Open Document presentation template
+UTTypeIdentifier: org.oasis-open.opendocument.presentation-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otp
+  public.mime-type:
+  - application/vnd.oasis.opendocument.presentation-template

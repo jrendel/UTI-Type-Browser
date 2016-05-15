@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Text Template
+UTTypeIdentifier: org.openoffice.text-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - stw
+  public.mime-type:
+  - application/vnd.sun.xml.writer.template

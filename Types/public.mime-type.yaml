@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.case-insensitive-text
+UTTypeDescription: MIME type
+UTTypeIdentifier: public.mime-type

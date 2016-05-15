@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Smart Folder
+UTTypeIdentifier: com.apple.finder.smart-folder
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sfld
+  public.filename-extension:
+  - savedSearch

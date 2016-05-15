@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Modula-3 source
+UTTypeIdentifier: com.dec.modula-3
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cm3
+  - m3

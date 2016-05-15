@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: OmniPlan Document
+UTTypeIdentifier: com.omnigroup.omniplan.planfile
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - OPln
+  public.filename-extension:
+  - omniplan

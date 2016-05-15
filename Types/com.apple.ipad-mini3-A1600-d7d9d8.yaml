@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad mini 3 (Model A1600)
+UTTypeIconFile: com.apple.ipad-mini3-wwan-d7d9d8.icns
+UTTypeIdentifier: com.apple.ipad-mini3-A1600-d7d9d8
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J86mAP
+  - iPad4,8

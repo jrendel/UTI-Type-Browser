@@ -1,0 +1,9 @@
+UTTypeConformsTo: []
+UTTypeDescription: ASL Query
+UTTypeIconFile: ''
+UTTypeIconName: Console.icns
+UTTypeIdentifier: com.apple.aslquery
+UTTypeTagSpecification:
+  com.apple.ostype: []
+  public.filename-extension:
+  - aslquery

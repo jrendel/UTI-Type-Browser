@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: SketchUp Model file
+UTTypeIdentifier: com.sketchup.skp
+UTTypeReferenceURL: http://www.sketchup.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - SKP
+  - skp

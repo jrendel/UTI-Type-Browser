@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: MoinMoin document
+UTTypeIdentifier: in.moinmo.wiki-source
+UTTypeReferenceURL: http://moinmo.in
+UTTypeTagSpecification:
+  public.filename-extension:
+  - moinmoin

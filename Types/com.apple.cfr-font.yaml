@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.font
+UTTypeDescription: Composite Font Representation font
+UTTypeIdentifier: com.apple.cfr-font
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sfont

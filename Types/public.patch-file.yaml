@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: patch file
+UTTypeIdentifier: public.patch-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - diff
+  - patch

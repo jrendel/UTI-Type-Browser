@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Affinity Document
+UTTypeIdentifier: com.seriflabs.affinity
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fh10
+  - fh11

@@ -1,0 +1,5 @@
+UTKEXTIdentifier: com.apple.iokit.IOCDStorageFamily
+UTTypeConformsTo:
+- public.cd-based-media
+UTTypeDescription: CD-RW
+UTTypeIdentifier: public.cd-rw-media

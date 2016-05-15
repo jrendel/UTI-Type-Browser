@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.microsoft.advanced-stream-redirector
+- public.audio
+UTTypeDescription: Windows media audio
+UTTypeIdentifier: com.microsoft.windows-media-wax
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wax
+  public.mime-type:
+  - video/x-ms-wax

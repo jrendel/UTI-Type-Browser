@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.itunes.item-object
+UTTypeDescription: iTunes playlists
+UTTypeIdentifier: com.apple.itunes.playlist-object

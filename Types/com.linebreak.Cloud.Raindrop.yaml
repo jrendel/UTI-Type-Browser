@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+- public.item
+UTTypeDescription: Cloud Raindrop
+UTTypeIconFile: Raindrop.icns
+UTTypeIdentifier: com.linebreak.Cloud.Raindrop
+UTTypeReferenceURL: http://getcloudapp.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - raindrop

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.data
+UTTypeDescription: alias data
+UTTypeIdentifier: com.apple.alias-record
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - alis

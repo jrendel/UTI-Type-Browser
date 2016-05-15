@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: CSS File
+UTTypeIdentifier: com.blackpixel.kaleidoscope.css
+UTTypeReferenceURL: http://www.kaleidoscopeapp.com
+UTTypeTagSpecification:
+  public.filename-extension:
+  - css
+  public.mime-type:
+  - text/css

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad Wi-Fi + 4G (LTE/CDMA)
+UTTypeIconFile: com.apple.ipad-2-white.icns
+UTTypeIdentifier: com.apple.ipad-3-4g-CDMA-white
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J2AP
+  - iPad3,2

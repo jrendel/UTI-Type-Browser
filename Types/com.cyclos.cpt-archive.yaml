@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Compact Pro Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.cyclos.cpt-archive
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PACT
+  public.filename-extension:
+  - cpt

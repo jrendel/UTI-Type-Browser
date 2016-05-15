@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.netscape.javascript-​source
+- public.script
+UTTypeDescription: Sketch Plugin
+UTTypeIconFile: sketchplugin.icns
+UTTypeIdentifier: com.bohemiancoding.sketch.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sketchplugin

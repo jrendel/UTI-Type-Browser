@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch
+UTTypeIdentifier: com.apple.ipod-touch-2
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N72AP
+  - iPod2,1

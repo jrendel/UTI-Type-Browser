@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: scalable vector graphics (SVG)
+UTTypeIdentifier: public.svg-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'svg '
+  - svgz
+  public.filename-extension:
+  - svg
+  - svgz
+  public.mime-type:
+  - image/svg+xml

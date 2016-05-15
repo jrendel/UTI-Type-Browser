@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- com.microsoft.powerpoint.ppt
+- public.composite-content
+- public.data
+- public.presentation
+UTTypeDescription: Microsoft PowerPoint Stationery
+UTTypeIdentifier: com.microsoft.powerpoint.ppt.stationery
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sLD8
+  public.filename-extension:
+  - ppt
+  public.mime-type:
+  - application/vnd.ms-powerpoint

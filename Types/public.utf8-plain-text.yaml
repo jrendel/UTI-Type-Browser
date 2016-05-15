@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeIdentifier: public.utf8-plain-text
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSStringPboardType
+  com.apple.ostype:
+  - utf8

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Affinity Photo Document
+UTTypeIdentifier: com.seriflabs.affinityphoto.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - afphoto

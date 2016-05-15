@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: Unix executable
+UTTypeIdentifier: public.unix-executable

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: OmniFocus Project Metadata
+UTTypeIconFile: ProjectMetadata.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.project.metadata
+UTTypeReferenceURL: http://www.omnigroup.com/applications/omnifocus/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-project-metadata

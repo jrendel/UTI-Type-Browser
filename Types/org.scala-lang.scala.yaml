@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Scala Source Code
+UTTypeIdentifier: org.scala-lang.scala
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scala

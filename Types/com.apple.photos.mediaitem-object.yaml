@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.photos.item-object
+UTTypeDescription: Photos media item
+UTTypeIdentifier: com.apple.photos.mediaitem-object

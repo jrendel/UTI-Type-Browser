@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Spillo Sharing
+UTTypeIconFile: pinboard_web
+UTTypeIdentifier: com.ddeville.spillo.sharingservice
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spillosharing

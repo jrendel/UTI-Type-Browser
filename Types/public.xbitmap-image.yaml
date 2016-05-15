@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: X bitmap image
+UTTypeIdentifier: public.xbitmap-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xbm
+  public.mime-type:
+  - image/x-xbitmap

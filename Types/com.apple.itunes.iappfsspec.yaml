@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- 'public.file-url '
+UTTypeDescription: iTunes iApp Compatibility 32-bit
+UTTypeIdentifier: com.apple.itunes.iappfsspec
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Hpfl

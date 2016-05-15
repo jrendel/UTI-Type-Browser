@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: 1Password 3 Agile Keychain
+UTTypeIconFile: agilekeychain.icns
+UTTypeIdentifier: ws.agile.agilekeychain
+UTTypeTagSpecification:
+  public.filename-extension:
+  - agilekeychain

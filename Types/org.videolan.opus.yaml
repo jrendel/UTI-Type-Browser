@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: OPUS file
+UTTypeIdentifier: org.videolan.opus
+UTTypeTagSpecification:
+  public.filename-extension:
+  - opus

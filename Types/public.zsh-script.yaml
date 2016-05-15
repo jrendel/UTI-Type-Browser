@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: Z Shell script
+UTTypeIdentifier: public.zsh-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - zsh

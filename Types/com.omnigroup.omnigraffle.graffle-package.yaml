@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: OmniGraffle document
+UTTypeIdentifier: com.omnigroup.omnigraffle.graffle-package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - graffle

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: PostScript
+UTTypeIdentifier: com.adobe.postscript
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ps
+  public.mime-type:
+  - application/postscript

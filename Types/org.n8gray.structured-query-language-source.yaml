@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SQL Source File
+UTTypeIdentifier: org.n8gray.structured-query-language-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sql

@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- com.apple.macbook
+UTTypeIdentifier: com.apple.macbook-white
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBook1,1
+  - MacBook1,1,White
+  - MacBook2,1
+  - MacBook2,1,White
+  - MacBook3,1
+  - MacBook3,1,White
+  - MacBook4,1
+  - MacBook4,1,White
+  - MacBook5,2

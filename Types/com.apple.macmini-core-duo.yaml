@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.macmini
+UTTypeIdentifier: com.apple.macmini-core-duo
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Macmini1,1
+  - Macmini2,1
+  - Macmini3,1

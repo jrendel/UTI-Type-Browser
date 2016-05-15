@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Mail items
+UTTypeIdentifier: com.apple.mail.item-object

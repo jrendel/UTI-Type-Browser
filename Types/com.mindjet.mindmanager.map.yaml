@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Mindjet MindManager document
+UTTypeIdentifier: com.mindjet.mindmanager.map
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mmap

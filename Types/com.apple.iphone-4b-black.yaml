@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.iphone
+UTTypeDescription: iPhone 4 (GSM Rev A)
+UTTypeIconFile: com.apple.iphone-4-black.icns
+UTTypeIdentifier: com.apple.iphone-4b-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N90BAP
+  - iPhone3,2

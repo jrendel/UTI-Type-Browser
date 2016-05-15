@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: group of movies that comprise a larger story
+UTTypeIdentifier: com.apple.tv.movie-series

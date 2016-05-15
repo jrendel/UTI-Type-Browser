@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: SCSS source file
+UTTypeIconFile: BBEditTextDocument.icns
+UTTypeIdentifier: com.barebones.bbedit.scss-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scss

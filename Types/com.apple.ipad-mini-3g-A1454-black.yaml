@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad mini (Model A1454)
+UTTypeIconFile: com.apple.ipad-mini-black-3g.icns
+UTTypeIdentifier: com.apple.ipad-mini-3g-A1454-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - P106AP
+  - iPad2,6

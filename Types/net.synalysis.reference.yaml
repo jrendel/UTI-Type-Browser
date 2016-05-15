@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Synalyze It! Reference File
+UTTypeIconFile: ''
+UTTypeIdentifier: net.synalysis.reference
+UTTypeReferenceURL: http://www.synalysis.net/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - '*'

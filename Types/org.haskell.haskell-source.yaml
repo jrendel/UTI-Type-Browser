@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Haskell Source File
+UTTypeIdentifier: org.haskell.haskell-source
+UTTypeReferenceURL: http://www.haskell.org/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hs

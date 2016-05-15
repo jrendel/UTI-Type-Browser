@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: Instruments Trace Template
+UTTypeIdentifier: com.apple.Instruments.tracetemplate
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tracetemplate

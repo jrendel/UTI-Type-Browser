@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: EiffelStudio project configuration file
+UTTypeIdentifier: com.eiffel.eiffelstudio-project-config
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ecf

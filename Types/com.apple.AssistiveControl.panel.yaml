@@ -1,0 +1,11 @@
+ICBaseRule: iconcompiler.generic
+ICExtension: ''
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Switch Control Panel Configuration
+UTTypeIconFile: PanelCollectionDocumentIcon.icns
+UTTypeIdentifier: com.apple.AssistiveControl.panel
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ASCconfig

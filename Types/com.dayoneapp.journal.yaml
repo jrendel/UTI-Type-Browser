@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Day One Journal
+UTTypeIconFile: icon-datafile
+UTTypeIdentifier: com.dayoneapp.journal
+UTTypeReferenceURL: http://www.dayoneapp.com/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dayone

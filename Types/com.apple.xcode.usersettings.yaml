@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: com.apple.xcode.usersettings
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pbxuser

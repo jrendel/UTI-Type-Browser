@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.3d-content
+- public.data
+UTTypeDescription: Standard Tesselated Geometry File Format
+UTTypeIdentifier: public.standard-tesselated-geometry-format
+UTTypeTagSpecification:
+  public.filename-extension:
+  - stl

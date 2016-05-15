@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: MPEG-2 Stream
+UTTypeIdentifier: org.videolan.mpeg-stream
+UTTypeTagSpecification:
+  public.filename-extension:
+  - m2p
+  - m2ts
+  - mt2s
+  - mts
+  - ps
+  - ts

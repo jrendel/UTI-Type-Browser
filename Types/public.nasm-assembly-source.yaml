@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.nasm-assembly-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nasm

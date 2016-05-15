@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeDescription: Terminal shell script
+UTTypeIconFile: command_icon.icns
+UTTypeIdentifier: com.apple.terminal.shell-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - command
+  - tool

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeIdentifier: com.apple.dt.document.script-terminology-property-list
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scriptTerminology

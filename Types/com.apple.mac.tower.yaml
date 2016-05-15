@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.mac
+UTTypeDescription: Tower
+UTTypeIdentifier: com.apple.mac.tower
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Tower

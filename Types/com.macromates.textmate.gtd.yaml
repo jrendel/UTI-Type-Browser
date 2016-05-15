@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: GTD document
+UTTypeIdentifier: com.macromates.textmate.gtd
+UTTypeReferenceURL: http://en.wikipedia.org/wiki/Getting_Things_Done
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gtd
+  - gtdlog

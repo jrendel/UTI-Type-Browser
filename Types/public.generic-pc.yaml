@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.computer
+UTTypeDescription: PC
+UTTypeIdentifier: public.generic-pc
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Windows
+  - Windows2000
+  - Windows2003
+  - Windows2008
+  - Windows7
+  - WindowsVista
+  - WindowsXP

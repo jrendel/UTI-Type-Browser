@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.script
+UTTypeDescription: AppleScript text
+UTTypeIdentifier: com.apple.applescript.text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - applescript

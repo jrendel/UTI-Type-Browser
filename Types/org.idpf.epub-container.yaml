@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: electronic publication (ePub)
+UTTypeIdentifier: org.idpf.epub-container
+UTTypeTagSpecification:
+  public.filename-extension:
+  - epub
+  public.mime-type:
+  - application/epub+zip

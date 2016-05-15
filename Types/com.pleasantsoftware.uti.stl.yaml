@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Stereo Lithography 3D object
+UTTypeIdentifier: com.pleasantsoftware.uti.stl
+UTTypeReferenceURL: http://en.wikipedia.org/wiki/STL_(file_format)
+UTTypeTagSpecification:
+  public.filename-extension:
+  - stl
+  public.mime-type:
+  - text/plain

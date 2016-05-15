@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: IDL Source File
+UTTypeIdentifier: org.n8gray.idl
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pro

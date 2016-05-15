@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad 2
+UTTypeIconFile: com.apple.ipad-2-black.icns
+UTTypeIdentifier: com.apple.ipad-2-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - K93AP
+  - iPad2,1

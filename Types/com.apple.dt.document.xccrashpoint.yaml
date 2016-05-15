@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Crash Point File
+UTTypeIconFile: crashpoint.icns
+UTTypeIdentifier: com.apple.dt.document.xccrashpoint
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xccrashpoint

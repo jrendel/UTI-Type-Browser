@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.utf8-plain-text
+UTTypeDescription: BBEdit color scheme
+UTTypeIconFile: BBEditTextDocument.icns
+UTTypeIdentifier: com.barebones.bbedit.color-scheme
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bbColorScheme

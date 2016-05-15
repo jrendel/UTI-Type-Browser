@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.zip-archive
+UTTypeDescription: Alfred Workflow
+UTTypeIconFile: workflowicon
+UTTypeIdentifier: com.runningwithcrayons.alfred.workflow
+UTTypeTagSpecification:
+  public.filename-extension:
+  - alfredworkflow

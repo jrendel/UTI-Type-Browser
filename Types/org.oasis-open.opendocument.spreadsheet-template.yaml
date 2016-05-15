@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+- public.spreadsheet
+UTTypeDescription: Open Document spreadsheet template
+UTTypeIdentifier: org.oasis-open.opendocument.spreadsheet-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ots
+  public.mime-type:
+  - application/vnd.oasis.opendocument.spreadsheet-template

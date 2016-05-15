@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: volume
+UTTypeIdentifier: public.volume
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - disk

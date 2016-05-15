@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: scheme Source File
+UTTypeIdentifier: org.n8gray.scheme-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - scm

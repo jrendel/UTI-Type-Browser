@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Pax Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.pax-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pax

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: internet location
+UTTypeIdentifier: com.apple.generic-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilge
+  public.filename-extension:
+  - inetloc

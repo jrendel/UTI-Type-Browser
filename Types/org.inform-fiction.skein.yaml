@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Skein file
+UTTypeIdentifier: org.inform-fiction.skein
+UTTypeTagSpecification:
+  public.filename-extension:
+  - skein

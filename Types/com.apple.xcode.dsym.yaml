@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeIdentifier: com.apple.xcode.dsym
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dSYM
+  - dsym

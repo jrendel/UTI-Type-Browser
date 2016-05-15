@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.bzip2-archive
+UTTypeDescription: Bzip2 compressed tar archive
+UTTypeIdentifier: public.tar-bzip2-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tbz
+  - tbz2

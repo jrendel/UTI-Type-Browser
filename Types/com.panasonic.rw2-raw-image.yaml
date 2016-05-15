@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Panasonic raw 2 image
+UTTypeIdentifier: com.panasonic.rw2-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rw2

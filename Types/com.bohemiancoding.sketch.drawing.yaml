@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Sketch Drawing
+UTTypeIconFile: doc.icns
+UTTypeIdentifier: com.bohemiancoding.sketch.drawing
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sketch

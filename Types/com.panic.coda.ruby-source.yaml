@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Ruby file
+UTTypeIdentifier: com.panic.coda.ruby-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erb
+  - rb
+  - rbx
+  - rhtml
+  - ruby
+  - rxml
+  public.mime-type:
+  - text/plain

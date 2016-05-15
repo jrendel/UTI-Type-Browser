@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Nikon NRW raw image
+UTTypeIdentifier: com.nikon.nrw-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nrw
+  public.mime-type:
+  - image/x-nikon-nrw

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: RealPlayer Media Files
+UTTypeIdentifier: org.videolan.realmedia
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ram
+  - rm
+  - rmvb

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Wavefront OBJ
+UTTypeIdentifier: com.ultimaker.obj
+UTTypeReferenceURL: https://en.wikipedia.org/wiki/Wavefront_.obj_file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - obj
+  public.mime-type:
+  - text/plain

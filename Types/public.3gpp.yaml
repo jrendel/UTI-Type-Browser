@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: 3GPP movie
+UTTypeIdentifier: public.3gpp
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 3gpp
+  - 'sdv '
+  public.filename-extension:
+  - 3gp
+  - 3gpp
+  - sdv
+  public.mime-type:
+  - audio/3gpp
+  - video/3gpp

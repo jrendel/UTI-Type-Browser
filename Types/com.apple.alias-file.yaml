@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.resolvable
+- public.data
+UTTypeDescription: alias
+UTTypeIdentifier: com.apple.alias-file

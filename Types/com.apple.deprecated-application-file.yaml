@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.apple.application-file
+UTTypeIdentifier: com.apple.deprecated-application-file
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - APPC
+  - APPD
+  - APPE
+  - CDEV
+  - appe
+  - cdev
+  - dfil

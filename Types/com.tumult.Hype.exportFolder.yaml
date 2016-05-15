@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- ''
+UTTypeIdentifier: com.tumult.Hype.exportFolder
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ''

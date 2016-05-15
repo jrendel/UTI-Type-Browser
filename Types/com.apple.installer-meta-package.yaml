@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Installer package
+UTTypeIdentifier: com.apple.installer-meta-package
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - mpkg
+  public.filename-extension:
+  - mpkg

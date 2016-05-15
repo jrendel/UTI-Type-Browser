@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Now Compress Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: com.nowsoftware.now-archive
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - NCag
+  - NCap
+  - NCar
+  - NCdo
+  public.filename-extension:
+  - now

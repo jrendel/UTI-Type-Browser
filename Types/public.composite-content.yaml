@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.content
+UTTypeDescription: content
+UTTypeIdentifier: public.composite-content

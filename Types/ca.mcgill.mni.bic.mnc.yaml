@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: MINC Image
+UTTypeIdentifier: ca.mcgill.mni.bic.mnc
+UTTypeReferenceURL: http://www.bic.mni.mcgill.ca/software/minc/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - MINC
+  public.filename-extension:
+  - minc
+  - mnc

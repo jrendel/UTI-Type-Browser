@@ -1,0 +1,18 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: com.apple.xcode.projectdata
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mode0
+  - mode0v3
+  - mode1
+  - mode1v3
+  - mode2
+  - mode2v3
+  - mode3
+  - mode3v3
+  - pbxproj
+  - pbxuser
+  - perspective
+  - perspectivev3

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.omnigroup.omnigraffle.graffle
+UTTypeDescription: OmniGraffle Diagram Style
+UTTypeIdentifier: com.omnigroup.omnigraffle.diagramstyle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gdiagramstyle

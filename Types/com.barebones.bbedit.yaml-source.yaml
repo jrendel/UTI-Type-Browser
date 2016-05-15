@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: YAML source file
+UTTypeIdentifier: com.barebones.bbedit.yaml-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - yaml
+  - yml

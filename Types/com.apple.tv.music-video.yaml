@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: music video
+UTTypeIdentifier: com.apple.tv.music-video

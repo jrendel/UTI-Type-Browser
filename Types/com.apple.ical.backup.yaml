@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+- public.item
+UTTypeDescription: iCal Backup File
+UTTypeIdentifier: com.apple.ical.backup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - icbu

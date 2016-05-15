@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga PowerPacker Archive
+UTTypeIconFile: amiga.icns
+UTTypeIdentifier: cx.c3.pp-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pp

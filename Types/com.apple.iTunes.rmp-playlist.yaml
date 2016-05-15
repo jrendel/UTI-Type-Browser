@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.playlist
+- public.text
+UTTypeDescription: RMP Playlist
+UTTypeIdentifier: com.apple.iTunes.rmp-playlist
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rmp
+  public.mime-type:
+  - application/vnd.rn-rn_music_package

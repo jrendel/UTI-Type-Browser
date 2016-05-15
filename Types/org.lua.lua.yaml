@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lua source
+UTTypeIdentifier: org.lua.lua
+UTTypeReferenceURL: http://www.lua.org
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lua

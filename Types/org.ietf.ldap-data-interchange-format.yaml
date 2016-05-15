@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: LDAP Data Interchange Format
+UTTypeIdentifier: org.ietf.ldap-data-interchange-format
+UTTypeReferenceURL: http://tools.ietf.org/html/rfc2849
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ldif

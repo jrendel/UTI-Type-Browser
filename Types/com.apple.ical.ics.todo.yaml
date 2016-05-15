@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- com.apple.ical.ics
+UTTypeDescription: Reminder Todo
+UTTypeIdentifier: com.apple.ical.ics.todo
+UTTypeTagSpecification: {}

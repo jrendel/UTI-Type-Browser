@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Sketch Drawing
+UTTypeIconFile: doc.icns
+UTTypeIdentifier: com.bohemiancoding.sketch.drawing.single
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sketch

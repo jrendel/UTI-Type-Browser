@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: HTML Resource List
+UTTypeIdentifier: com.omnigroup.omniplan.HTMLResourceList
+UTTypeTagSpecification:
+  public.filename-extension:
+  - html

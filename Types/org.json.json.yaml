@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.netscape.javascript-source
+UTTypeDescription: JSON File
+UTTypeIdentifier: org.json.json
+UTTypeReferenceURL: http://www.ietf.org/rfc/rfc4627.txt?number=4627
+UTTypeTagSpecification:
+  public.filename-extension:
+  - json

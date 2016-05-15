@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: printable encoded archive
+UTTypeIdentifier: public.x509-printable-encoded-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pem

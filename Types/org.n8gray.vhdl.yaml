@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: VHDL Source File
+UTTypeIdentifier: org.n8gray.vhdl
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vhdl

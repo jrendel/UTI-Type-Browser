@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Excel 97-2004 workspace
+UTTypeIdentifier: com.microsoft.excel.xlw
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLW8
+  public.filename-extension:
+  - xlw
+  public.mime-type:
+  - application/msexcel
+  - application/vnd.ms-excel

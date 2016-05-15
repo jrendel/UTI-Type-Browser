@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Cascading Style Sheet file
+UTTypeIdentifier: com.panic.coda.css
+UTTypeTagSpecification:
+  public.filename-extension:
+  - css
+  public.mime-type:
+  - text/css

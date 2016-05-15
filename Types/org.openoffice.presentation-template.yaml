@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: OpenOffice.org 1.0 Presentation Template
+UTTypeIdentifier: org.openoffice.presentation-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sti
+  public.mime-type:
+  - application/vnd.sun.xml.impress.template

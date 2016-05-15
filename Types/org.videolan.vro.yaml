@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: DVD Video Recording Format
+UTTypeIdentifier: org.videolan.vro
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vro

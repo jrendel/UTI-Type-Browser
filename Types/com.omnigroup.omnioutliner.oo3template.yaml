@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.omnigroup.omnioutliner.oo3
+UTTypeDescription: OmniOutliner 3 template
+UTTypeIdentifier: com.omnigroup.omnioutliner.oo3template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - oo3template

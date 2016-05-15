@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.script
+UTTypeDescription: Diff File
+UTTypeIdentifier: org.n8gray.diff-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - diff
+  - patch

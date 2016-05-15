@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.display
+UTTypeDescription: Cinema Display
+UTTypeIdentifier: com.apple.cinema-display

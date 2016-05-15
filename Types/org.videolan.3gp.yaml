@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: 3GPP File
+UTTypeIdentifier: org.videolan.3gp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - 3gp

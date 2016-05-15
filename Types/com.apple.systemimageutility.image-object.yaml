@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Network Disk image reference
+UTTypeIdentifier: com.apple.systemimageutility.image-object

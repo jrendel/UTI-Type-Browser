@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.url
+UTTypeDescription: Podcast Subscription File
+UTTypeIdentifier: com.apple.iTunes.podcast
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - itpc
+  - pcst
+  public.filename-extension:
+  - itpc
+  - pcast

@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: iCloud
+UTTypeIconFile: iCloud.icns
+UTTypeIdentifier: com.apple.iCloud

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.presentation
+- public.zip-archive
+UTTypeDescription: Keynote theme
+UTTypeIdentifier: com.apple.iWork.Keynote.sffkth
+UTTypeReferenceURL: http://www.apple.com/iwork/keynote/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - kth
+  public.mime-type:
+  - application/x-iwork-keynote-sffkth

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Standard ML Source File
+UTTypeIdentifier: org.n8gray.standard-ml-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - sml

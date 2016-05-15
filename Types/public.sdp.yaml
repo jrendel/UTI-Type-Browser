@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.movie
+- public.text
+UTTypeDescription: SDP Session Description
+UTTypeIdentifier: public.sdp
+UTTypeReferenceURL: http://www.ietf.org/rfc/rfc4566.txt
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'SDP '
+  public.filename-extension:
+  - sdp
+  public.mime-type:
+  - application/sdp

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.directory
+UTTypeDescription: folder
+UTTypeIdentifier: public.folder
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - fldr
+  - fold

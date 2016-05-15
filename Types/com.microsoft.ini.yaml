@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: MS Windows initialization file
+UTTypeIdentifier: com.microsoft.ini
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ini

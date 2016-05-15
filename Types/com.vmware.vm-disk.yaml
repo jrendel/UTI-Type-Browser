@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+- public.disk-image
+UTTypeDescription: VMware virtual disk
+UTTypeIdentifier: com.vmware.vm-disk
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vmdk
+  public.mime-type:
+  - application/x-vmware-vmdisk

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: NSPasteboard type
+UTTypeIdentifier: com.apple.nspboard-type

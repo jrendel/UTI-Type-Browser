@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Inform 7 source file
+UTTypeIconFile: niFile.icns
+UTTypeIdentifier: org.inform-fiction.source.inform7
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ni

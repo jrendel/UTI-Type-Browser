@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Impulse Tracker Module File
+UTTypeIdentifier: org.videolan.it
+UTTypeTagSpecification:
+  public.filename-extension:
+  - it

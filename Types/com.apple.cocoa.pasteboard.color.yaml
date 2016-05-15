@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: color
+UTTypeIdentifier: com.apple.cocoa.pasteboard.color
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSColor pasteboard type

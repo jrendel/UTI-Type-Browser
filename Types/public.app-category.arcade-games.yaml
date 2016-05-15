@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.app-category.games
+UTTypeDescription: Arcade Games
+UTTypeIdentifier: public.app-category.arcade-games

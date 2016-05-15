@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.xpc-service
+UTTypeDescription: Application and System Extension
+UTTypeIconFile: KEXT.icns
+UTTypeIdentifier: com.apple.application-and-system-extension
+UTTypeTagSpecification:
+  public.filename-extension:
+  - appex

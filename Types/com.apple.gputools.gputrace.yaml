@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: GPU Trace
+UTTypeIdentifier: com.apple.gputools.gputrace
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gputrace

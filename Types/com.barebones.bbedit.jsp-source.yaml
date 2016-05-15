@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: JSP source file
+UTTypeIdentifier: com.barebones.bbedit.jsp-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jsp

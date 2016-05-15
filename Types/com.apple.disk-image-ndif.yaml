@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: Classic Disk Image
+UTTypeIdentifier: com.apple.disk-image-ndif
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dimg
+  - hdcm
+  - hdro
+  - rohd
+  public.filename-extension:
+  - img
+  - ndif

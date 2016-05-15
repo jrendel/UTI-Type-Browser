@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.spreadsheet
+- public.zip-archive
+UTTypeDescription: Numbers document
+UTTypeIdentifier: com.apple.iWork.Numbers.sffnumbers
+UTTypeReferenceURL: http://www.apple.com/iwork/numbers/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - numbers
+  public.mime-type:
+  - application/x-iwork-numbers-sffnumbers

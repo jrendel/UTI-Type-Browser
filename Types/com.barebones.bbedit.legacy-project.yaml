@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: BBEdit project (old format)
+UTTypeIdentifier: com.barebones.bbedit.legacy-project
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - Bprj
+  public.filename-extension:
+  - bbproject

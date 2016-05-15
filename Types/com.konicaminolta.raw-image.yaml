@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Minolta raw image
+UTTypeIdentifier: com.konicaminolta.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mrw

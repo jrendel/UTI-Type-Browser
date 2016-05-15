@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: QuickTime Player Composition
+UTTypeIdentifier: com.apple.quicktimeplayerx-composition-bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - qtpxcomposition

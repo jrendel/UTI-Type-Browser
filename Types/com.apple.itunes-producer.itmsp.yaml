@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: iTunes Package
+UTTypeIconFile: ITMSP.icns
+UTTypeIdentifier: com.apple.itunes-producer.itmsp
+UTTypeReferenceURL: http://www.apple.com/iTunesProducer
+UTTypeTagSpecification:
+  public.filename-extension:
+  - itmsp

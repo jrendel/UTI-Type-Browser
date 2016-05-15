@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Audible audio
+UTTypeIdentifier: com.apple.iTunes.audible
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AUDB
+  - AUDX
+  public.filename-extension:
+  - aa
+  - aax
+  public.mime-type:
+  - audio/audible
+  - audio/vnd.audible.aax
+  - audio/x-audible

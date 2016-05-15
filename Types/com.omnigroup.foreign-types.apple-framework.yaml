@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: ProjectBuilderDocumentType
+UTTypeIdentifier: com.omnigroup.foreign-types.apple-framework
+UTTypeTagSpecification:
+  public.filename-extension:
+  - framework

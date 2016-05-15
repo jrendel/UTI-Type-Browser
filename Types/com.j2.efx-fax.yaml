@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.fax
+UTTypeDescription: eFax fax
+UTTypeIdentifier: com.j2.efx-fax
+UTTypeTagSpecification:
+  public.filename-extension:
+  - efx
+  public.mime-type:
+  - image/efax

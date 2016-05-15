@@ -1,0 +1,11 @@
+LSTypeIsPackage: true
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Coda Plug-in
+UTTypeIconFile: plug-ins.icns
+UTTypeIdentifier: com.panic.coda.plugin
+UTTypeReferenceURL: http://www.panic.com/coda/developer/howto/plugins.php
+UTTypeTagSpecification:
+  public.filename-extension:
+  - codaplugin

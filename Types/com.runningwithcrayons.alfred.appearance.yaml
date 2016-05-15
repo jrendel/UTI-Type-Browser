@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: Alfred Theme
+UTTypeIconFile: themeicon
+UTTypeIdentifier: com.runningwithcrayons.alfred.appearance
+UTTypeTagSpecification:
+  public.filename-extension:
+  - alfredappearance

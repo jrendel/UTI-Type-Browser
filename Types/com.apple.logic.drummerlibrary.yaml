@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Drummer Library
+UTTypeIconFile: ''
+UTTypeIdentifier: com.apple.logic.drummerlibrary
+UTTypeTagSpecification:
+  public.filename-extension:
+  - glibb

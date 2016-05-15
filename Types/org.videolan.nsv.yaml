@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: Nullsoft Streaming Video
+UTTypeIdentifier: org.videolan.nsv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - nsv

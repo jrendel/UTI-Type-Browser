@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.mach-o-binary
+UTTypeDescription: Mach-O core
+UTTypeIdentifier: com.apple.mach-o-core

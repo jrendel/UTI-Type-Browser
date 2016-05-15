@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: org.khronos.glsl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - glsl

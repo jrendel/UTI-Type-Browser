@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.text
+UTTypeIdentifier: public.plain-text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - text
+  - txt
+  public.mime-type:
+  - text/plain

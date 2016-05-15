@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: mobile provision
+UTTypeIdentifier: com.apple.mobileprovision
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mobileprovision
+  public.mime-type:
+  - application/x-apple-aspen-mobileprovision

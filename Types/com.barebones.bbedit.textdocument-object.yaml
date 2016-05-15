@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.barebones.bbedit.document-object
+UTTypeDescription: BBEdit Text Document
+UTTypeIdentifier: com.barebones.bbedit.textdocument-object

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.video
+UTTypeDescription: Ogg Video File
+UTTypeIdentifier: org.videolan.ogg-video
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ogm
+  - ogv

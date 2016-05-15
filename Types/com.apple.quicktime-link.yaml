@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: QuickTime Link
+UTTypeIdentifier: com.apple.quicktime-link
+UTTypeReferenceURL: http://developer.apple.com/documentation/QuickTime/QT4WebPage/samplechap/special-11.html
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - qtlk
+  public.filename-extension:
+  - qtl
+  public.mime-type:
+  - application/x-quicktimeplayer

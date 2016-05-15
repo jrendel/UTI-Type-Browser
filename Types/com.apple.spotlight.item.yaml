@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.cocoa.path
+UTTypeDescription: Spotlight items
+UTTypeIdentifier: com.apple.spotlight.item

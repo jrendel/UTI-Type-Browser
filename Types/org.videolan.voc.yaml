@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Creative Labs Audio File
+UTTypeIdentifier: org.videolan.voc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - voc

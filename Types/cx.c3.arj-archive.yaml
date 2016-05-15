@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ARJ Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.arj-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - arj

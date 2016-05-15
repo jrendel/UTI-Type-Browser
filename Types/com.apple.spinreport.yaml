@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: Spin Report
+UTTypeIdentifier: com.apple.spinreport
+UTTypeTagSpecification:
+  public.filename-extension:
+  - spin

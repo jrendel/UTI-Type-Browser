@@ -1,0 +1,5 @@
+UTTypeDescription: Writer Archive
+UTTypeIdentifier: pro.writer.archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - writerarchive

@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: public.module-map
+UTTypeTagSpecification:
+  public.filename-extension:
+  - modulemap

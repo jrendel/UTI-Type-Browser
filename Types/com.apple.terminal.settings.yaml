@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Terminal settings
+UTTypeIconFile: terminal_icon.icns
+UTTypeIdentifier: com.apple.terminal.settings
+UTTypeTagSpecification:
+  public.filename-extension:
+  - terminal

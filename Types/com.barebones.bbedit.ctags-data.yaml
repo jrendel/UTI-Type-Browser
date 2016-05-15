@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.utf8-plain-text
+UTTypeDescription: BBEdit ctags data
+UTTypeIdentifier: com.barebones.bbedit.ctags-data
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ctags
+  - tags

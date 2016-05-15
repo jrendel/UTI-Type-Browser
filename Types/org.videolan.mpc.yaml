@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Musepack Audio File
+UTTypeIdentifier: org.videolan.mpc
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mpc

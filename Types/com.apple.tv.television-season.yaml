@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.tv.collection
+UTTypeDescription: television show season
+UTTypeIdentifier: com.apple.tv.television-season

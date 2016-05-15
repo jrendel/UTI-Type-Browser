@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: System Preference pane
+UTTypeIdentifier: com.apple.systempreference.prefpane
+UTTypeTagSpecification:
+  public.filename-extension:
+  - prefPane

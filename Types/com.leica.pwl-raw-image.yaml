@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Leica PWL raw image
+UTTypeIdentifier: com.leica.pwl-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pwl
+  public.mime-type:
+  - image/x-leica-pwl

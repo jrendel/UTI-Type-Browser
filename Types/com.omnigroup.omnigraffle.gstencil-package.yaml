@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.omnigroup.omnigraffle.graffle-package
+UTTypeDescription: OmniGraffle Stencil
+UTTypeIdentifier: com.omnigroup.omnigraffle.gstencil-package
+UTTypeTagSpecification:
+  public.filename-extension:
+  - gstencil

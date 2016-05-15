@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Layered Image File Type
+UTTypeIdentifier: org.liftimage.lift
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lift

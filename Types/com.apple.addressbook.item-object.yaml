@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Contacts items
+UTTypeIdentifier: com.apple.addressbook.item-object

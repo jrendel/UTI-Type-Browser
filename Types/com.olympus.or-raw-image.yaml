@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.olympus.raw-image
+UTTypeDescription: Olympus OR raw image
+UTTypeIdentifier: com.olympus.or-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - orf
+  public.mime-type:
+  - image/x-olympus-or

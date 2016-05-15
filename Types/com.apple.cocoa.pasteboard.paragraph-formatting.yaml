@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: paragraph format
+UTTypeIdentifier: com.apple.cocoa.pasteboard.paragraph-formatting
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NeXT ruler pasteboard type

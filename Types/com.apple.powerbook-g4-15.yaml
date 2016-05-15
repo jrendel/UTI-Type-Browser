@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.powerbook
+UTTypeDescription: PowerBook G4
+UTTypeIdentifier: com.apple.powerbook-g4-15
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerBook5,2
+  - PowerBook5,4
+  - PowerBook5,6
+  - PowerBook5,8

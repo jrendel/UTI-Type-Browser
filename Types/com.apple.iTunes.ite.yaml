@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.html
+UTTypeDescription: iTunes Extra
+UTTypeIdentifier: com.apple.iTunes.ite
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'ite '
+  public.filename-extension:
+  - ite

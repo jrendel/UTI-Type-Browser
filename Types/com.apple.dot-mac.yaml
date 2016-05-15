@@ -1,0 +1,5 @@
+UTTypeDescription: .Mac
+UTTypeIdentifier: com.apple.dot-mac
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - mymc

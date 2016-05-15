@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Ada source code
+UTTypeIdentifier: public.ada-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ada
+  - adb
+  - ads

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: RealMedia
+UTTypeIdentifier: com.real.realmedia
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PNRM
+  public.filename-extension:
+  - rm
+  public.mime-type:
+  - application/vnd.rn-realmedia

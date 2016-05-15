@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.composite-content
+UTTypeDescription: Xcode Application Data Package
+UTTypeIdentifier: com.apple.xcode.appdata
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcappdata

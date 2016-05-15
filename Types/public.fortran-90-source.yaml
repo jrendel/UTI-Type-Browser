@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.fortran-source
+UTTypeIdentifier: public.fortran-90-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f90

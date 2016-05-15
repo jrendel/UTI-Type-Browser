@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeIdentifier: com.apple.server-applications-folder
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sapp

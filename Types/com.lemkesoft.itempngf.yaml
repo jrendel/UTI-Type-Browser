@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.lemkesoft.itempngf
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PNGf

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Visio Stencil
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio.stencil
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vss

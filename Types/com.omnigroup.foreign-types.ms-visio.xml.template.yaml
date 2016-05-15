@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Visio XML Template
+UTTypeIdentifier: com.omnigroup.foreign-types.ms-visio.xml.template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - vtx

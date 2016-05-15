@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Intelligent Suggestions assets
+UTTypeIdentifier: com.apple.intelligentsuggestions.assets
+UTTypeTagSpecification:
+  public.filename-extension:
+  - suggestionsassets

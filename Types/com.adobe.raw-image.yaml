@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Adobe raw image
+UTTypeIdentifier: com.adobe.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - dng
+  public.mime-type:
+  - image/x-adobe-dng

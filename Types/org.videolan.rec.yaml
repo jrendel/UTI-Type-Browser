@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Topfield PVR Recording
+UTTypeIdentifier: org.videolan.rec
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rec

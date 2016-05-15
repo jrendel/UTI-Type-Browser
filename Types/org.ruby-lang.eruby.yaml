@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.html
+UTTypeDescription: HTML with embedded Ruby
+UTTypeIdentifier: org.ruby-lang.eruby
+UTTypeReferenceURL: https://www.ruby-lang.org/en/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rhtml

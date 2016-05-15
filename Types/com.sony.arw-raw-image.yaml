@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Sony ARW raw image
+UTTypeIdentifier: com.sony.arw-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - arw

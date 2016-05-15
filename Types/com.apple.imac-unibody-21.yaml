@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-unibody-21
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac11,2
+  - iMac12,1

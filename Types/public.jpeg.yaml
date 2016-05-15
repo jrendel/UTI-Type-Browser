@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: JPEG image
+UTTypeIdentifier: public.jpeg
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - JPEG
+  public.filename-extension:
+  - jpe
+  - jpeg
+  - jpg
+  public.mime-type:
+  - image/jpeg
+  - image/jpg

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Windows Recorded TV Show
+UTTypeIdentifier: org.videolan.wtv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wtv

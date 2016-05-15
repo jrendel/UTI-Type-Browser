@@ -1,0 +1,8 @@
+UTKEXTIdentifier: com.apple.iokit.IODVDStorageFamily
+UTTypeConformsTo:
+- public.dvd-based-media
+UTTypeDescription: DVD
+UTTypeIdentifier: public.dvd-media
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'dvd '

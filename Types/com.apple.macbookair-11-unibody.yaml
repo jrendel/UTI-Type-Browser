@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.macbookair
+UTTypeIdentifier: com.apple.macbookair-11-unibody
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBookAir3,1
+  - MacBookAir4,1
+  - MacBookAir5,1
+  - MacBookAir6,1

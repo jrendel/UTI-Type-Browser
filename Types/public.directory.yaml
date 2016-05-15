@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.item
+UTTypeDescription: directory
+UTTypeIdentifier: public.directory

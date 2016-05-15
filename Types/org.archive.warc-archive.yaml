@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: WARC Web Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: org.archive.warc-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - warc

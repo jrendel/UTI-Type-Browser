@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.localizable-name-bundle
+- com.apple.package
+UTTypeDescription: MainStage Patch
+UTTypeIconFile: Patch.icns
+UTTypeIdentifier: com.apple.mainstage.patches
+UTTypeTagSpecification:
+  public.filename-extension:
+  - patch

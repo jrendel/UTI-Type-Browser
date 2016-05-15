@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Finder items
+UTTypeIdentifier: com.apple.finder.file-or-folder-object

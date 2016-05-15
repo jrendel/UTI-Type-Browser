@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Eiffel source code file
+UTTypeIdentifier: com.eiffel.source-code
+UTTypeTagSpecification:
+  public.filename-extension:
+  - e

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- org.khronos.glsl-source
+UTTypeIdentifier: org.khronos.glsl.geometry-shader
+UTTypeTagSpecification:
+  public.filename-extension:
+  - geom
+  - geometry
+  - gs
+  - gsh

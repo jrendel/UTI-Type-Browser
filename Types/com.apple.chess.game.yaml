@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.utf8-plain-text
+UTTypeIdentifier: com.apple.chess.game
+UTTypeTagSpecification:
+  public.filename-extension:
+  - game

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Sequel Pro Bundle
+UTTypeIconFile: ''
+UTTypeIdentifier: com.sequelpro.SequelPro.spbundle
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sequel pro bundle
+  public.filename-extension:
+  - spBundle
+  - spbundle

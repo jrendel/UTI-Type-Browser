@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.package
+- public.content
+- public.data
+UTTypeDescription: Together Information
+UTTypeIconFile: TogetherInfoDocument
+UTTypeIdentifier: com.reinvented.together.info
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trinfo

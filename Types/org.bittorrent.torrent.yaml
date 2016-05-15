@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- com.bittorrent.torrent
+- public.data
+- public.item
+UTTypeDescription: BitTorrent Document
+UTTypeIconFile: TransmissionDocument
+UTTypeIdentifier: org.bittorrent.torrent
+UTTypeReferenceURL: http://www.bittorrent.org/beps/bep_0000.html
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TORR
+  public.filename-extension:
+  - torrent
+  public.mime-type:
+  - application/x-bittorrent

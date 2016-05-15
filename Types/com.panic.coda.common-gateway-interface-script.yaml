@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Common Gateway Interface file
+UTTypeIdentifier: com.panic.coda.common-gateway-interface-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cgi
+  - fcg
+  - fcgi
+  public.mime-type:
+  - text/plain

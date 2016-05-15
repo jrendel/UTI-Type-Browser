@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: motion picture
+UTTypeIdentifier: com.apple.tv.movie

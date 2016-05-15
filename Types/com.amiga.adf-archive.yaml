@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Amiga Disk File
+UTTypeIconFile: adf.icns
+UTTypeIdentifier: com.amiga.adf-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - adf

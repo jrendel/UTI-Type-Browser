@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.rez-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - r

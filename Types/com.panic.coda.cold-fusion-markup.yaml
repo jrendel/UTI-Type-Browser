@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Cold Fusion file
+UTTypeIdentifier: com.panic.coda.cold-fusion-markup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cfc
+  - cfm
+  - cfml
+  - cfr
+  public.mime-type:
+  - text/plain

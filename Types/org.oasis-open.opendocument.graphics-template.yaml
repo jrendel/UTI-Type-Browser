@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.oasis-open.opendocument
+- public.composite-content
+UTTypeDescription: Open Document graphics template
+UTTypeIdentifier: org.oasis-open.opendocument.graphics-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otg
+  public.mime-type:
+  - application/vnd.oasis.opendocument.graphics-template

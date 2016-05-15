@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Structured Query Language file
+UTTypeIdentifier: com.panic.coda.structured-query-language-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mysql
+  - sql
+  public.mime-type:
+  - text/x-sql

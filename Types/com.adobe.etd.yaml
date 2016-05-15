@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Adobe Digital Editions (ETD)
+UTTypeIdentifier: com.adobe.etd
+UTTypeTagSpecification:
+  public.filename-extension:
+  - etd

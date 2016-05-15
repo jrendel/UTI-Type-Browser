@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Verilog HDL source file
+UTTypeIdentifier: com.barebones.bbedit.verilog-hdl-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - v
+  - vl

@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Excel 97-2004 template
+UTTypeIdentifier: com.microsoft.excel.xlt
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - sLS8
+  public.filename-extension:
+  - xlt
+  public.mime-type:
+  - application/msexcel
+  - application/vnd.ms-excel

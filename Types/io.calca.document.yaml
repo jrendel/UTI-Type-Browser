@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Calca Document
+UTTypeIdentifier: io.calca.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - calca

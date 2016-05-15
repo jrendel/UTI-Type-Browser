@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: RSS web feed
+UTTypeIdentifier: public.rss
+UTTypeTagSpecification:
+  public.filename-extension:
+  - rss
+  public.mime-type:
+  - application/rss+xml

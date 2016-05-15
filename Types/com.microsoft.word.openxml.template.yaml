@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Microsoft Word document
+UTTypeIdentifier: com.microsoft.word.openxml.template
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - WXTN
+  public.filename-extension:
+  - dotx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.wordprocessingml.template

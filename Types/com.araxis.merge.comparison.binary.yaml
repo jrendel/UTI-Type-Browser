@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Araxis Merge Binary Comparison
+UTTypeIconFile: MergeSavedComparison
+UTTypeIdentifier: com.araxis.merge.comparison.binary
+UTTypeReferenceURL: http://www.araxis.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AMbc
+  public.filename-extension:
+  - binarycomparison
+public.mime-type: application/octet-stream

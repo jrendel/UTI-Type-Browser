@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Mig definition source code
+UTTypeIdentifier: public.mig-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - defs
+  - mig

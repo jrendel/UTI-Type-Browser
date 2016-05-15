@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.audiovisual-content
+UTTypeDescription: Microsoft Advanced Systems Format
+UTTypeIdentifier: com.microsoft.advanced-systems-format
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ASF_
+  public.filename-extension:
+  - asf
+  public.mime-type:
+  - video/x-ms-asf

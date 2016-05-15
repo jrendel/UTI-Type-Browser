@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lua source file
+UTTypeIdentifier: com.barebones.bbedit.lua-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lua

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: iTunes metadata
+UTTypeIdentifier: com.apple.itunes.metadata
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - itun

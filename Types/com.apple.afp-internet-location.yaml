@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: AFP internet location
+UTTypeIdentifier: com.apple.afp-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilaf
+  public.filename-extension:
+  - afploc

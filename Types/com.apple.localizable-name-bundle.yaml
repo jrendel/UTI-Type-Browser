@@ -1,0 +1,3 @@
+UTTypeConformsTo:
+- com.apple.bundle
+UTTypeIdentifier: com.apple.localizable-name-bundle

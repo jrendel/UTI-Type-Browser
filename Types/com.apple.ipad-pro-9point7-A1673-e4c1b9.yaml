@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.ipad
+UTTypeDescription: iPad Pro (9.7-inch) (Model A1673)
+UTTypeIconFile: com.apple.ipad-pro-9point7-wifi-e4c1b9.icns
+UTTypeIdentifier: com.apple.ipad-pro-9point7-A1673-e4c1b9
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J127AP
+  - iPad6,3

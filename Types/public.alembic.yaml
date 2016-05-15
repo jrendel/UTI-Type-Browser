@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.3d-content
+- public.data
+UTTypeDescription: Alembic 3D Scene
+UTTypeIdentifier: public.alembic
+UTTypeTagSpecification:
+  public.filename-extension:
+  - abc

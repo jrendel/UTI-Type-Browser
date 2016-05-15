@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: OmniOutliner XSL plugin
+UTTypeIconFile: KEXT.icns
+UTTypeIdentifier: com.omnigroup.omnioutliner.xslplugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ooxsl

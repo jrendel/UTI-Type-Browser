@@ -1,0 +1,5 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Synalyze It! Diff
+UTTypeIdentifier: com.synalysis.diff
+UTTypeTagSpecification: {}

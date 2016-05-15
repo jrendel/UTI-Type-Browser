@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Contacts Group Data
+UTTypeIdentifier: com.apple.addressbook.group
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ABGR
+  public.filename-extension:
+  - abcdg

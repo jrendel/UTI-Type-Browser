@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.omnigroup.omnifocus.filetype.ofocus
+UTTypeDescription: OmniFocus Backup Document
+UTTypeIconName: Document-Backup.icns
+UTTypeIdentifier: com.omnigroup.omnifocus.filetype.ofocus-backup
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ofocus-backup

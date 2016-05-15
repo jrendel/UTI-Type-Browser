@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+- public.item
+- public.movie
+UTTypeDescription: Motion Title
+UTTypeIconFile: Title.icns
+UTTypeIdentifier: com.apple.motion.title
+UTTypeReferenceURL: http://www.apple.com/motion/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - moti

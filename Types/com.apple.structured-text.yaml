@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Structured Text
+UTTypeIdentifier: com.apple.structured-text

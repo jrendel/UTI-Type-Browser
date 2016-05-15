@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Together Library File
+UTTypeIconFile: LibraryDocument
+UTTypeIdentifier: com.reinvented.together.library
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trlibrary

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Epson raw image
+UTTypeIdentifier: com.epson.raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - erf
+  public.mime-type:
+  - image/x-epson-erf

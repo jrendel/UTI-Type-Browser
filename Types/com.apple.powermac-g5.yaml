@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.powermac
+UTTypeDescription: Power Mac G5
+UTTypeIdentifier: com.apple.powermac-g5
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - PowerMac11,2
+  - PowerMac11,2,Quad
+  - PowerMac7,2
+  - PowerMac7,3
+  - PowerMac9,1

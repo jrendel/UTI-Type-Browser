@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+- public.item
+UTTypeDescription: XAR archive
+UTTypeIdentifier: xar.xar
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xar

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Adobe DRM Activation Key (EDN)
+UTTypeIdentifier: com.adobe.edn
+UTTypeTagSpecification:
+  public.filename-extension:
+  - edn

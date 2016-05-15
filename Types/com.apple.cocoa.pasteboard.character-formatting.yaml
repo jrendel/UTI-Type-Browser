@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: character format
+UTTypeIdentifier: com.apple.cocoa.pasteboard.character-formatting
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NeXT font pasteboard type

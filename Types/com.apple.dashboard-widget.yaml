@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.localizable-name-bundle
+- com.apple.package
+UTTypeDescription: Dashboard widget
+UTTypeIdentifier: com.apple.dashboard-widget
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wdgt

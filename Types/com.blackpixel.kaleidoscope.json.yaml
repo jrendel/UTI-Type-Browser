@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.netscape.javascript-source
+UTTypeDescription: JSON File
+UTTypeIdentifier: com.blackpixel.kaleidoscope.json
+UTTypeReferenceURL: http://www.kaleidoscopeapp.com
+UTTypeTagSpecification:
+  public.mime-type:
+  - application/json

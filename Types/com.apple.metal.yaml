@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.metal
+UTTypeTagSpecification:
+  public.filename-extension:
+  - metal

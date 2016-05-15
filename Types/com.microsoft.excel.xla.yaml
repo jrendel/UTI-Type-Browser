@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.composite-content
+- public.data
+UTTypeDescription: Microsoft Excel 97-2004 add-in
+UTTypeIdentifier: com.microsoft.excel.xla
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLA8
+  public.filename-extension:
+  - xla

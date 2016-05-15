@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Java Server Page
+UTTypeIdentifier: com.sun.java-server-pages
+UTTypeReferenceURL: http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jsp

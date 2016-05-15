@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: Hazel license
+UTTypeIconFile: LicenseDoc.icns
+UTTypeIdentifier: com.noodlesoft.hazel.license
+UTTypeTagSpecification:
+  public.filename-extension:
+  - hazellicense

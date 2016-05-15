@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: HTML (Dynamic)
+UTTypeIdentifier: com.omnigroup.OmniOutliner.HTMLExport.HTMLDynamic

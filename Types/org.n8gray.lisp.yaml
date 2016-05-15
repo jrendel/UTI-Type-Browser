@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lisp Source File
+UTTypeIdentifier: org.n8gray.lisp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asd
+  - el
+  - lisp
+  - lsp

@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Active Server Page file
+UTTypeIdentifier: com.panic.coda.active-server-page
+UTTypeTagSpecification:
+  public.filename-extension:
+  - asp
+  - aspx
+  public.mime-type:
+  - text/x-asp

@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Space Designer Impulse Responses
+UTTypeIconFile: ImpulseResponse.icns
+UTTypeIdentifier: com.apple.Logic.SpaceDesignerImpulseResponse
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - SDIR
+  public.filename-extension:
+  - SDIR
+  - sdir
+  public.mime-type: []

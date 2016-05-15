@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Safari documents
+UTTypeIdentifier: com.apple.safari.document-object

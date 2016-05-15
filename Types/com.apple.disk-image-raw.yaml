@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.disk-image
+UTTypeDescription: Generic Disk Image
+UTTypeIdentifier: com.apple.disk-image-raw
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - DDim
+  - devr
+  - hdrv

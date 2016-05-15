@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: unit test bundle
+UTTypeIdentifier: com.apple.dt.bundle.unit-test
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/

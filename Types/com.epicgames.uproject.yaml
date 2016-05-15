@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Unreal Project
+UTTypeIdentifier: com.epicgames.uproject
+UTTypeTagSpecification:
+  public.filename-extension:
+  - uproject

@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.movie
+UTTypeDescription: Matroska Video File
+UTTypeIdentifier: org.videolan.mkv
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mkv

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.app-category
+UTTypeDescription: Video
+UTTypeIdentifier: public.app-category.video

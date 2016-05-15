@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeIdentifier: com.apple.xcode.yacc-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - y
+  - ym
+  - ymm
+  - ypp
+  - yxx

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.delimited-values-text
+UTTypeDescription: comma-separated values
+UTTypeIdentifier: public.comma-separated-values-text
+UTTypeReferenceURL: http://www.ietf.org/rfc/rfc4180.txt
+UTTypeTagSpecification:
+  public.filename-extension:
+  - csv
+  public.mime-type:
+  - text/comma-separated-values
+  - text/csv

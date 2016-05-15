@@ -1,0 +1,18 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: QuickDraw picture
+UTTypeIdentifier: com.apple.pict
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - Apple PICT pasteboard type
+  - NSPICTPboardType
+  com.apple.ostype:
+  - PICT
+  public.filename-extension:
+  - pct
+  - pic
+  - pict
+  public.mime-type:
+  - image/pict
+  - image/x-macpict
+  - image/x-pict

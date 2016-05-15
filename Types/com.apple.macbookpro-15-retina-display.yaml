@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.macbookpro
+UTTypeIdentifier: com.apple.macbookpro-15-retina-display
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBookPro10,1

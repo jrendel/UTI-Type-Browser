@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.c-header
+UTTypeIdentifier: public.precompiled-c-header
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pch

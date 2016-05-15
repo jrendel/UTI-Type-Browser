@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.property-list
+- public.text
+UTTypeDescription: ascii property list
+UTTypeIdentifier: com.apple.ascii-property-list
+UTTypeTagSpecification:
+  public.filename-extension:
+  - plist

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Audible.com audio
+UTTypeIdentifier: com.audible.aa-audio

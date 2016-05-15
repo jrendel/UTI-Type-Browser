@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- com.apple.macbook
+UTTypeIdentifier: com.apple.macbook-unibody
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - MacBook5,1

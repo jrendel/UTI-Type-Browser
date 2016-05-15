@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+- public.spreadsheet
+UTTypeDescription: OpenOffice.org 1.0 Spreadsheet Template
+UTTypeIdentifier: org.openoffice.spreadsheet-template
+UTTypeTagSpecification:
+  public.filename-extension:
+  - stc
+  public.mime-type:
+  - application/vnd.sun.xml.calc.template

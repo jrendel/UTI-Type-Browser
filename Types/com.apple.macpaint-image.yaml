@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: MacPaint image
+UTTypeIdentifier: com.apple.macpaint-image
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PNTG
+  public.filename-extension:
+  - pntg

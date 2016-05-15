@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.composite-content
+UTTypeDescription: Office Open XML word processing document
+UTTypeIdentifier: org.openxmlformats.wordprocessingml.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - docx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.wordprocessingml.document

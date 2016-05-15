@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad (3rd generation)
+UTTypeIconFile: com.apple.ipad-2-black.icns
+UTTypeIdentifier: com.apple.ipad-3-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - J1AP
+  - iPad
+  - iPad3,1

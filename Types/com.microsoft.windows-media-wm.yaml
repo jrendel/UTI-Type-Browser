@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.microsoft.advanced-systems-format
+- public.movie
+UTTypeDescription: Windows media
+UTTypeIdentifier: com.microsoft.windows-media-wm
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wm
+  public.mime-type:
+  - video/x-ms-wm

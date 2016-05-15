@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Multiple Picture Object image
+UTTypeIdentifier: public.mpo-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mpo

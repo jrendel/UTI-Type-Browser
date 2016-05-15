@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: sound
+UTTypeIdentifier: com.apple.cocoa.pasteboard.sound
+UTTypeTagSpecification:
+  com.apple.nspboard-type:
+  - NSSoundPboardType

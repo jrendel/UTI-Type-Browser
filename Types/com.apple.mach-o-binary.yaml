@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.unix-executable
+UTTypeDescription: Mach-O binary
+UTTypeIdentifier: com.apple.mach-o-binary

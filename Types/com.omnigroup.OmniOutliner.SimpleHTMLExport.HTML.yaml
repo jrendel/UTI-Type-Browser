@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.folder
+UTTypeDescription: HTML
+UTTypeIdentifier: com.omnigroup.OmniOutliner.SimpleHTMLExport.HTML

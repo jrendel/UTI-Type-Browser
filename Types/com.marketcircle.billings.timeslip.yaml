@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Billings Time Slip
+UTTypeIdentifier: com.marketcircle.billings.timeslip
+UTTypeTagSpecification:
+  public.filename-extension:
+  - bislip

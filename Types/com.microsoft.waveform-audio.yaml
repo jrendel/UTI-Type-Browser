@@ -1,0 +1,15 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: Waveform audio
+UTTypeIdentifier: com.microsoft.waveform-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - .WAV
+  - WAVE
+  public.filename-extension:
+  - bwf
+  - wav
+  - wave
+  public.mime-type:
+  - audio/wav
+  - audio/wave

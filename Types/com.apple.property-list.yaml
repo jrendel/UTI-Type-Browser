@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: property list
+UTTypeIdentifier: com.apple.property-list
+UTTypeTagSpecification:
+  public.filename-extension:
+  - plist

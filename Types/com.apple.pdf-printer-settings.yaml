@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: PDF Printing Settings
+UTTypeIdentifier: com.apple.pdf-printer-settings
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pset

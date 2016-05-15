@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: JavaScript source file
+UTTypeIdentifier: com.barebones.bbedit.javascript-source
+UTTypeTagSpecification:
+  public.filename-extension:
+  - js

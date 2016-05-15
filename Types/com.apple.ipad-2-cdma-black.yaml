@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.device
+UTTypeDescription: iPad 2 Wi-Fi + 3G (CDMA)
+UTTypeIconFile: com.apple.ipad-2-black.icns
+UTTypeIdentifier: com.apple.ipad-2-cdma-black
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - K95AP
+  - iPad2,3

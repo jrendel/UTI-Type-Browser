@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.data
+UTTypeIdentifier: com.apple.xcode.mom
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mom

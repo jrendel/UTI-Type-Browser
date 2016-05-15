@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: MP2 audio
+UTTypeIdentifier: public.mp2
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mp2

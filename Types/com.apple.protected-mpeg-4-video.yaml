@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.m4v-video
+UTTypeDescription: protected MPEG-4 movie
+UTTypeIdentifier: com.apple.protected-mpeg-4-video

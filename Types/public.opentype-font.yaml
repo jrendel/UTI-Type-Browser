@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.font
+UTTypeDescription: PostScript OpenType font
+UTTypeIdentifier: public.opentype-font
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - OTTO
+  public.filename-extension:
+  - otf

@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.live-photo
+- com.apple.package
+UTTypeDescription: Private Live Photo Bundle
+UTTypeIdentifier: com.apple.private.live-photo-bundle
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pvt

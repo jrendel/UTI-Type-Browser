@@ -1,0 +1,14 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Encrypted File
+UTTypeIconFile: EncryptedDocument
+UTTypeIdentifier: com.reinvented.together.encrypt
+UTTypeTagSpecification:
+  public.filename-extension:
+  - trencryptbookmark
+  - trencryptdocument
+  - trencryptimage
+  - trencryptmovie
+  - trencryptnote
+  - trencryptsound
+  - trencryptwebpage

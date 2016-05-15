@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- com.microsoft.excel.openxml.workbook
+- public.data
+UTTypeDescription: Microsoft Excel Workbook
+UTTypeIdentifier: com.microsoft.excel.openxml.workbook.macro-enabled
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - XLSM
+  public.filename-extension:
+  - xlsm
+  public.mime-type:
+  - application/vnd.ms-excel.sheet.macroEnabled.12

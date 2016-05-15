@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.data
+- public.presentation
+UTTypeDescription: Microsoft PowerPoint 97-2004 slide show
+UTTypeIdentifier: com.microsoft.powerpoint.pps
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - PPSS
+  public.filename-extension:
+  - pps
+  public.mime-type:
+  - application/mspowerpoint
+  - application/vnd.ms-powerpoint

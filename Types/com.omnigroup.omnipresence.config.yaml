@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: OmniPresence Configuration File
+UTTypeIconFile: OmniPresence.icns
+UTTypeIdentifier: com.omnigroup.omnipresence.config
+UTTypeTagSpecification:
+  public.filename-extension:
+  - omnipresence-config
+  public.mime-type:
+  - application/vnd.omnigroup.omnipresence.config

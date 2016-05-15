@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.fax
+UTTypeDescription: J2 fax
+UTTypeIdentifier: com.j2.jfx-fax
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jfx

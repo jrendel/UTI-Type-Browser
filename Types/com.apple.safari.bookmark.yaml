@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Safari bookmark
+UTTypeIdentifier: com.apple.safari.bookmark
+UTTypeTagSpecification:
+  public.filename-extension:
+  - webbookmark

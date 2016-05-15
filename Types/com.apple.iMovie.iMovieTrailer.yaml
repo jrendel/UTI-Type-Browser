@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: iMovie for iOS Trailer
+UTTypeIconFile: Icon_iMovie_MobileProject
+UTTypeIdentifier: com.apple.iMovie.iMovieTrailer
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iMovieTrailer

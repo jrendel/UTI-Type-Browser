@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.aifc-audio
+UTTypeDescription: AIFF audio
+UTTypeIdentifier: public.aiff-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - AIFF
+  public.filename-extension:
+  - aif
+  - aiff
+  public.mime-type:
+  - audio/aiff
+  - audio/x-aiff

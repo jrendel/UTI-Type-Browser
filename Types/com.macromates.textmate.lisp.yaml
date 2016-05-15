@@ -1,0 +1,12 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Lisp source
+UTTypeIdentifier: com.macromates.textmate.lisp
+UTTypeTagSpecification:
+  public.filename-extension:
+  - cl
+  - el
+  - l
+  - lisp
+  - lsp
+  - mud

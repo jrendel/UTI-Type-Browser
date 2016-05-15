@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: news internet location
+UTTypeIdentifier: com.apple.news-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilnw
+  public.filename-extension:
+  - newsloc

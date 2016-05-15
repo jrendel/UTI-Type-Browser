@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Interarchy Bookmark
+UTTypeIconFile: com.nolobe.interarchy.bookmark.icns
+UTTypeIdentifier: com.nolobe.interarchy.bookmark
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ALST
+  - AURL
+  public.filename-extension:
+  - iabookmark

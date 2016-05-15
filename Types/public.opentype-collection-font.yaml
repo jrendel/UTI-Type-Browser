@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.opentype-font
+UTTypeDescription: PostScript OpenType collection font
+UTTypeIdentifier: public.opentype-collection-font
+UTTypeTagSpecification:
+  public.filename-extension:
+  - otc

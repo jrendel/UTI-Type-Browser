@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Plain Text
+UTTypeIdentifier: com.omnigroup.omnifocus2.export-filetype.plain-text
+UTTypeTagSpecification:
+  public.filename-extension:
+  - text
+  - txt
+  public.mime-type:
+  - text/plain

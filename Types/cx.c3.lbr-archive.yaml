@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LBR Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.lbr-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - lbr
+  - lqr
+  - lzr

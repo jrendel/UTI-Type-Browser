@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.applescript.object
+UTTypeDescription: Font Book typeface reference
+UTTypeIdentifier: com.apple.fontbook.typeface-object

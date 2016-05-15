@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.data
+- public.image
+UTTypeDescription: Radiance
+UTTypeIdentifier: public.radiance
+UTTypeTagSpecification:
+  public.filename-extension:
+  - HDR
+  - PIC
+  - hdr
+  - pic

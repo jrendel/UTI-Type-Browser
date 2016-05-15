@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: LhF Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.lhf-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - f

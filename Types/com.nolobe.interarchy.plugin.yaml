@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.package
+UTTypeDescription: Interarchy Plug-in
+UTTypeIconFile: com.nolobe.interarchy.plugin.icns
+UTTypeIdentifier: com.nolobe.interarchy.plugin
+UTTypeTagSpecification:
+  public.filename-extension:
+  - iaplugin

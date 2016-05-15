@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: source code
+UTTypeIdentifier: public.source-code

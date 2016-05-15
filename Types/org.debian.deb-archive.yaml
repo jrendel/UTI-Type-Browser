@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: Deb Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: org.debian.deb-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - deb
+  public.mime-type:
+  - application/x-deb

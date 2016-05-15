@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.disk-image-udif
+UTTypeDescription: Disk Image Segment
+UTTypeIdentifier: com.apple.disk-image-udif-segment
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - devs
+  public.filename-extension:
+  - dmgpart

@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: camera raw image
+UTTypeIdentifier: public.camera-raw-image

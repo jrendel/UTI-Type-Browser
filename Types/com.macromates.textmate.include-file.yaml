@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Include file
+UTTypeIdentifier: com.macromates.textmate.include-file
+UTTypeTagSpecification:
+  public.filename-extension:
+  - inc

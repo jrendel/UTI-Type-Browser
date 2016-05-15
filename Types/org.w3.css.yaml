@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Cascading Style Sheet
+UTTypeIdentifier: org.w3.css
+UTTypeReferenceURL: http://www.w3.org/Style/CSS/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - css
+  public.mime-type:
+  - text/css

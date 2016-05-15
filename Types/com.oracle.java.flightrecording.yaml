@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Java Flight Recording
+UTTypeIconFile: jmc.icns
+UTTypeIdentifier: com.oracle.java.flightrecording
+UTTypeReferenceURL: http://docs.oracle.com/javase/7/docs/technotes/guides/jfr/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - jfr

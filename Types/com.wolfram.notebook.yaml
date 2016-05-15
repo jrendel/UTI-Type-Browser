@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Wolfram Notebook File
+UTTypeIdentifier: com.wolfram.notebook
+UTTypeReferenceURL: http://www.wolfram.com/
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - TEXT
+  public.filename-extension:
+  - nb

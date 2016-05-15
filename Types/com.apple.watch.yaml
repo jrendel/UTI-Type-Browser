@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.ios-device
+UTTypeDescription: Apple Watch
+UTTypeIdentifier: com.apple.watch
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - Watch

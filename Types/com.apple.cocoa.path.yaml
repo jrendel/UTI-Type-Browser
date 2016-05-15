@@ -1,0 +1,4 @@
+UTTypeConformsTo:
+- com.apple.cocoa.string
+UTTypeDescription: Files/Folders
+UTTypeIdentifier: com.apple.cocoa.path

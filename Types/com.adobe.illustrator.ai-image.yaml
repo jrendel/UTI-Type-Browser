@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.image
+UTTypeDescription: Adobe Illustrator document
+UTTypeIdentifier: com.adobe.illustrator.ai-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ai

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.log
+- public.utf8-plain-text
+UTTypeDescription: Panic Report
+UTTypeIdentifier: com.apple.panicreport
+UTTypeTagSpecification:
+  public.filename-extension:
+  - panic

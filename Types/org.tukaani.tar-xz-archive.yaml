@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- org.tukaani.xz-archive
+UTTypeDescription: XZ Tar Archive
+UTTypeIconFile: tar.icns
+UTTypeIdentifier: org.tukaani.tar-xz-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - txz

@@ -1,0 +1,8 @@
+UTKEXTIdentifier: com.apple.iokit.IOCDStorageFamily
+UTTypeConformsTo:
+- public.cd-based-media
+UTTypeDescription: CD
+UTTypeIdentifier: public.cd-media
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - cddr

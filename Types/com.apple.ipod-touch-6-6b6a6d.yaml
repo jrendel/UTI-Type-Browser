@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- com.apple.ipod
+UTTypeDescription: iPod touch (6th generation)
+UTTypeIconFile: com.apple.ipod-touch-6-6b6a6d.icns
+UTTypeIdentifier: com.apple.ipod-touch-6-6b6a6d
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - N102AP
+  - iPod
+  - iPod7,1

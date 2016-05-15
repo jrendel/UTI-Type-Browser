@@ -1,0 +1,10 @@
+UTTypeConformsTo:
+- org.openxmlformats.openxml
+- public.presentation
+UTTypeDescription: Office Open XML slide show
+UTTypeIdentifier: org.openxmlformats.presentationml.slideshow
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ppsx
+  public.mime-type:
+  - application/vnd.openxmlformats-officedocument.presentationml.slideshow

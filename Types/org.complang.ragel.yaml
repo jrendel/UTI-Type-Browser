@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- public.source-code
+UTTypeDescription: Ragel source
+UTTypeIdentifier: org.complang.ragel
+UTTypeReferenceURL: http://www.complang.org/ragel/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - ragel
+  - rl

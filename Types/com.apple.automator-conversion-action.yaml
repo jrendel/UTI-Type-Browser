@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.plugin
+UTTypeDescription: Automator Conversion Action
+UTTypeIconFile: AutomatorConversionAction.icns
+UTTypeIdentifier: com.apple.automator-conversion-action
+UTTypeReferenceURL: http://www.apple.com/macosx/features/automator/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - caction

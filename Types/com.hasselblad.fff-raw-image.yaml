@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.camera-raw-image
+UTTypeDescription: Hasselblad FFF raw image
+UTTypeIdentifier: com.hasselblad.fff-raw-image
+UTTypeTagSpecification:
+  public.filename-extension:
+  - fff

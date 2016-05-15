@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- com.apple.bundle
+- com.apple.package
+UTTypeDescription: Installer distribution
+UTTypeIdentifier: com.apple.installer-distribution-package
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - dist
+  public.filename-extension:
+  - dist
+  - distz

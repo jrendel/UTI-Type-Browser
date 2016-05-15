@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeDescription: MindNode (touch) document
+UTTypeIdentifier: com.mindnode.mindnode.touch
+UTTypeTagSpecification:
+  public.filename-extension:
+  - mindnodetouch

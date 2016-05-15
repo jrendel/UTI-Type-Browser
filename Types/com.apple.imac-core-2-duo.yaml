@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.imac
+UTTypeIdentifier: com.apple.imac-core-2-duo
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - iMac5,1
+  - iMac5,2

@@ -1,0 +1,11 @@
+UTTypeConformsTo:
+- public.archive
+- public.data
+UTTypeDescription: ARC Archive
+UTTypeIconFile: archive.icns
+UTTypeIdentifier: cx.c3.arc-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - arc
+  - pak
+  - spk

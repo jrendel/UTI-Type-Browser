@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+UTTypeDescription: Wireless Diagnostics Monitor File
+UTTypeIconFile: WirelessDiagnostics.icns
+UTTypeIdentifier: com.apple.wireless-diagnostics.wdmon
+UTTypeTagSpecification:
+  public.filename-extension:
+  - wdmon

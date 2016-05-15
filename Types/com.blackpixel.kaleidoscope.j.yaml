@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.plain-text
+UTTypeDescription: Objective-J File
+UTTypeIdentifier: com.blackpixel.kaleidoscope.j
+UTTypeReferenceURL: http://www.kaleidoscopeapp.com
+UTTypeTagSpecification:
+  public.filename-extension:
+  - j

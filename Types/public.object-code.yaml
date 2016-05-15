@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.data
+- public.executable
+UTTypeDescription: object code
+UTTypeIdentifier: public.object-code
+UTTypeTagSpecification:
+  public.filename-extension:
+  - o

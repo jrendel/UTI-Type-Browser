@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.apple-tv
+UTTypeDescription: Apple TV (2nd generation)
+UTTypeIconFile: com.apple.apple-tv-3.icns
+UTTypeIdentifier: com.apple.apple-tv-2
+UTTypeTagSpecification:
+  com.apple.device-model-code:
+  - AppleTV2,1
+  - K66AP

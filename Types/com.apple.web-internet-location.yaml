@@ -1,0 +1,9 @@
+UTTypeConformsTo:
+- com.apple.internet-location
+UTTypeDescription: web internet location
+UTTypeIdentifier: com.apple.web-internet-location
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - ilht
+  public.filename-extension:
+  - webloc

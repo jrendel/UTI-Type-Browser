@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.shell-script
+UTTypeIdentifier: com.apple.xcode.csh-script
+UTTypeTagSpecification:
+  public.filename-extension:
+  - csh

@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- public.content
+- public.data
+UTTypeDescription: Notes AirDrop Document
+UTTypeIdentifier: com.apple.notes.airdrop.document
+UTTypeTagSpecification:
+  public.filename-extension:
+  - notesairdropdocument

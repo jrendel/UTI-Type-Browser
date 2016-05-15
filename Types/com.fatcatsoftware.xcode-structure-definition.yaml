@@ -1,0 +1,6 @@
+UTTypeConformsTo:
+- public.xml
+UTTypeIdentifier: com.fatcatsoftware.xcode-structure-definition
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcodeplugin

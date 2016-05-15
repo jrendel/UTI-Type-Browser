@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- org.gnu.gnu-zip-archive
+UTTypeDescription: gzip tar archive
+UTTypeIdentifier: org.gnu.gnu-zip-tar-archive
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tgz

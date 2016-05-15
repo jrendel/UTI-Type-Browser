@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- public.text
+UTTypeDescription: Parallels VM configuration
+UTTypeIdentifier: com.vmware.foreign.pvs
+UTTypeTagSpecification:
+  public.filename-extension:
+  - pvs

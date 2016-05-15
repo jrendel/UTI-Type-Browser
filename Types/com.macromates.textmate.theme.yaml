@@ -1,0 +1,8 @@
+UTTypeConformsTo:
+- com.apple.property-list
+UTTypeDescription: TextMate Theme
+UTTypeIdentifier: com.macromates.textmate.theme
+UTTypeTagSpecification:
+  public.filename-extension:
+  - tmTheme
+  - tmtheme

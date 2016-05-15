@@ -1,0 +1,7 @@
+UTTypeConformsTo:
+- com.apple.xcode.model
+UTTypeIdentifier: com.apple.xcode.model.data-version
+UTTypeReferenceURL: http://developer.apple.com/tools/xcode/
+UTTypeTagSpecification:
+  public.filename-extension:
+  - xcdatamodeld

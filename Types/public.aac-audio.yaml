@@ -1,0 +1,13 @@
+UTTypeConformsTo:
+- public.audio
+UTTypeDescription: AAC audio
+UTTypeIdentifier: public.aac-audio
+UTTypeTagSpecification:
+  com.apple.ostype:
+  - 'aac '
+  public.filename-extension:
+  - aac
+  - adts
+  public.mime-type:
+  - audio/aac
+  - audio/x-aac
